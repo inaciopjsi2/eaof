@@ -2028,618 +2028,178 @@ Na chamada *voz ativa*, o agente da passiva passa a sujeito, enquanto o sujeito 
 
 *O livro foi escrito por Graciliano Ramos* (voz passiva) → *Graciliano Ramos escreveu o livro* (voz ativa).
 
-<figure>
+![Voz ativa x Voz Passiva](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/gramatica/voz_ativa__voz_passiva.png)
 
-![Figura extraída da página 91 do PDF](assets/figura-pdf-0091-01.png)
+O complemento agente da passiva é introduzido pela preposição por e, nas formas combinadas com artigo, pela forma antiga *per*: *pelo*, *pela*, *pelos*, *pelas*:
 
-<figcaption>Figura da página 91 do PDF.</figcaption>
+A República foi proclamada *pelo general Deodoro da Fonseca*.
 
-</figure>
+Com verbos que exprimem sentimento, pode aparecer a preposição *de*:
 
-O complemento agente da passiva é introduzido pela preposição por e, nas formas combinadas com artigo, pela forma antiga per: pelo, pela, pelos, pelas:
+O professor é estimado *de todos*. (ou *por todos*)
 
-A República foi proclamada pelo general Deodoro da Fonseca.
-
-Com verbos que exprimem sentimento, pode aparecer a preposição de:
-
-O professor é estimado de todos. (ou por todos)
-
-<a id="exercicios-de-fixacao-pdf91-056"></a>
-#### Exercícios de fixação
-
-**1. Acrescente às seguintes orações um complemento adequado:**
-
-1) O poeta fechou _________.
-
-2) O imperador fora visitar _________.
-
-3) Convidamos _________.
-
-4) Os alunos necessitavam _________.
-
-5) Todos procuravam _________.
-
-6) O marinheiro viu _________.
-
-7) A união faz _________.  
-8) O livro pertencia _________.
-
-9) Os soldados livram-se _________.
-
-10) Absteve-se _________.
-
-11) Não havia _________.
-
-12) As crianças não ouviram _________.
-
-13) Os vizinhos preparam _________ com cuidado.
-
-14) Os hóspedes não se adaptavam _________.
-
-15) Ninguém pode prescindir _________.
-
-**2. Distinga, nos exemplos do exercício anterior, os complementos não preposicionados (NP) e os preposicionados (P).**
-
-**3. Distinga, nos seguintes exemplos, os verbos transitivos (VT) dos verbos intransitivos (VI):**
-
-1) () Voltou o padre para casa.
-
-2) () O outro caso sucedeu ao padre Scherer.
-
-3) () Andam os patos sem sapatos.
-
-4) () Eles buscaram a interpretação da legenda.
-
-5) () O amigo lhe propôs um problema.
-
-6) () Mostram-lhe o papel.
-
-7) () Os tribunos castigavam severamente os soldados mentirosos.
-
-8) () Começaram logo os assobios e risadas do auditório.
-
-9) () Ele escreveu em outro papel três palavras de sua língua materna.
-
-10) () Já vem a noite.
-
-11) () Tu alegras os justos.
-
-12) () As andorinhas voavam para o campo.
-
-13) () Onde está el-rei?
-
-14) () Desobedeceram às ordens.
-
-15) () No desenho dela pusera eu todo o cabedal do meu fraco engenho.
-
-**4. Assinale com (V) dentro dos parênteses as orações de predicado sem predicativo e com (N) as de predicado com predicativo:**
-
-1) () Longamente filosofaram os dois.
-
-2) () A floresta tinha uma vida noturna muito intensa.
-
-3) () Na floresta a vida continua pela noite adentro.
-
-4) () Pedrinho andava desconfiado da existência do medo.
-
-5) () Isto é um pesadelo.
-
-6) () Há coisas horríveis?
-
-7) () O coração de Pedrinho diversas vezes pulava de medo.
-
-8) () A mãe do medo é a incerteza.
-
-9) () Aquela filosofia do saci já estava dando dor de cabeça no menino.
-
-10) () Os medrosos são os maiores criadores de coisas.
-
-**5. Divida as orações do exercício n.º 4 em sujeito e predicado, e, neste, quando houver, indique o predicativo:**
-
-Modelos: A mãe do medo é a incerteza.
-
-*O coração de Pedrinho diversas vezes pulava de medo.*
-
-<table>
-  <tr>
-    <td>Sujeito</td>
-    <td>Predicado</td>
-    <td>Predicativo</td>
-  </tr>
-  <tr>
-    <td>A mãe do medo</td>
-    <td>é a incerteza</td>
-    <td>a incerteza</td>
-  </tr>
-  <tr>
-    <td>O coração de Pedrinho</td>
-    <td>diversas vezes pulava de medo</td>
-    <td></td>
-  </tr>
-</table>
-
-**6. Assinale com um (O) dentro dos parênteses as orações de sujeito oculto, com (I) as de sujeito indeterminado e com (SS) as orações sem sujeito:**
-
-1) () Haverá razão para o medo?
-
-2) () Por que dizem isso?
-
-3) () Desconfiamos das histórias dos medrosos.
-
-4) () Só se houver escuro no mundo.
-
-5) () Quero conhecer os segredos da noite na floresta.
-
-6) () Aqui nestas Américas temos também muitas criações do medo.
-
-7) () Sabiam de tudo erradamente.
-
-8) () Na casa do coronel contavam muitas histórias de assombração.
-
-**7. Empregue no espaço em branco o verbo na forma pedida:**
-
-1) Na floresta _________ muitas lendas sobre o medo. (haver – pret. imperf. ind.)
-
-2) Nem sempre se _________ acreditar nessas histórias. (poder – fut. pres. ind.)
-
-3) _________ (existir – pres. ind.) essas histórias porque _________ pessoas medrosas. (haver – pres. ind.)
-
-4) _________ três dias que o coronel não nos vinha visitar. (fazer – pret. imperf. ind.)
-
-5) Enquanto _________ (haver – fut. subj.) medo, _________ monstros como os que você vai ver. (haver – fut. pres. ind.)
-
-6) As coisas não _________ (poder – pres. ind.) ao mesmo tempo existir e não existir; ou _________ (existir – pres. ind.) ou não _________. (existir – pres. ind.)
-
-7) Desde que _________ (haver – pres. ind.) tantas pessoas medrosas no mundo, _________ haver muitos filhos do medo. (dever – pres. ind.)
-
-8) Que horas _________? (ser – fut. pres. ind.)
-
-9) _________ poucos minutos para meia-noite. (faltar – pret. imperf. ind.)
-
-**8. Numere convenientemente a 2.ª coluna de acordo com as opções 1, 2 ou 3 da 1.ª coluna, tendo em vista as explicações para a concordância do verbo em itálico:**
-
-**1.ª coluna**
-
-1) O verbo está no singular concordando com o sujeito simples no singular.
-
-2) O verbo está no plural concordando com o sujeito simples no plural.
-
-3) O verbo está no plural concordando com o sujeito composto.
-
-**2.ª coluna**
-
-() Oswaldo Cruz dedicou-se aos estudos de higiene desde os tempos de estudante.
-
-() Ele escreveu e publicou monografias de grande importância.
-
-() Foi mobilizado um verdadeiro exército de mata-mosquitos.
-
-() Os habitantes do Rio de Janeiro assistiram à guerra dos soldados de Oswaldo Cruz contra o inimigo traiçoeiro.
-
-() Pensam vocês que Osvaldo Cruz recebeu só aplausos?
-
-() Os ignorantes, os invejosos, os perversos fizeram tudo para dificultar a campanha saneadora.
-
-() O chefe do governo apoiou integralmente a orientação do higienista.
-
-() O presidente Rodrigues Alves facultou-lhe todos os recursos necessários à execução do plano saneador.
-
-() Os soldados de Oswaldo Cruz foram vencendo o inimigo.
-
-() A essa vitória seguiram-se outras.
-
-() Outro qualquer se encheria de vaidade.
-
-() Um sábio norte-americano escreveu palavras elogiosas a respeito de Oswaldo Cruz.
-
-**9. Complete os parênteses observando o emprego do verbo ora como verbo de ligação (L), ora como transitivo (T), preposicionado ou não, ora intransitivo (I):**
-
-1) () José não estava em casa.
-
-2) () A viúva está sem recursos financeiros.
-
-3) () O Brasil fica na América do Sul.
-
-4) () Não me fica nenhuma dúvida.
-
-5) () Ficávamos tristes com suas palavras.
-
-6) () O tempo virou.
-
-7) () O aluno virou a carteira.
-
-8) () A reunião virou balbúrdia.
-
-9) () Os companheiros viraram o rosto aos parentes.
-
-10) () Todos fizeram careta.
-
-**10. Distinga, nos seguintes exemplos, os predicativos do sujeito e os predicativos do objeto, pondo dentro dos parênteses (S) ou (O), respectivamente:**
-
-1) () O pobrezinho arquejava cansado.
-
-2) () Mostrava-se Antônio Vieira assíduo e fervoroso nos estudos.
-
-3) () Quem me servirá de advogado diante deste juiz?
-
-4) () A cidade parecia uma mansão de doidos.
-
-5) () Encontrei José abatido pelo golpe traiçoeiro.
-
-6) () Chamaram traidor o nosso amigo.
-
-7) () Todos queriam o ladrão vivo.
-
-8) () Tão risonhos planos desfizeram-se em pó!
-
-9) () Ela trazia o irmão ansioso.
-
-10) () Elegemos o professor diretor do grêmio.
-
-11) () Tenho Machado de Assis como o melhor escritor brasileiro.
-
-12) () Você entrou apressado.
-
-13) () Meu primo casou-se já homem-feito.
-
-14) () O pai teve as filhas abraçadas por muito tempo.
-
-15) () Em 1645 foi Vieira ordenado presbítero.
-
-**11. Transforme os predicativos numa só palavra de igual significação:**
-
-*Modelo: Os alunos estavam sem atenção às aulas. → Os alunos estavam desatentos às aulas.*
-
-1) Os órfãos não ficaram ao desamparo.
-
-2) Todos estavam em embaraço.
-
-3) Os passageiros saíram sem lesão.
-
-4) Os erros pareciam sem remédio.
-
-5) Os candidatos permaneceram em dúvida.
-
-6) As alegrias dos perversos são de curta duração.
-
-7) Os soldados continuavam sem arma.
-
-8) Os filhos ficaram sem ânimo.
-
-9) Os metais são de grande utilidade.
-
-10) O crime ficou sem castigo.
-
-11) As brincadeiras pareciam sem graça.
-
-12) Os moradores do prédio se mantiveram em alvoroço.
-
-13) A doente ficou sem sentidos.
-
-14) A moda estava fora de tempo.
-
-15) O ambiente continuava em silêncio.
-
-16) Estes alunos eram do nosso tempo.
-
-17) Os erros eram sem número.
-
-18) Os inimigos ficaram sem ação.
-
-19) Com a notícia ela ficou sem fala.
-
-20) Estas observações são de muita importância.
-
-**12. Transforme o predicado em predicativo formado pelo verbo SER e um nome seu cognato, nos seguintes exemplos:**
-
-*Modelo: As flores alegram a vida. → As flores são a alegria da vida.*
-
-1) O ministro punia assim a barbaridade do circo.
-
-2) Eu devo tudo aos meus pais.
-
-3) A inveja cobiça os bens.
-
-4) As flores enfeitam a terra.
-
-5) Os maus livros perdem a mocidade.
-
-6) Colombo descobriu a América.
-
-7) O povo elege os seus representantes.
-
-8) Os importunos roubam-nos o tempo.
-
-9) A lisonja corrompe os bons.
-
-10) Não tem limites a audácia.
-
-**13. Assinale com (CV) dentro dos parênteses as ampliações do predicado que constituem complemento verbal:**
-
-1) () Viveram sempre ao abrigo da luta pela existência.
-
-2) () Eles estavam postos ao abrigo.
-
-3) () Eu cacei por simples recreio.
-
-4) () Ganhava a vida com a caça.
-
-5) () Perdia as minhas horas à espera de preás.
-
-6) () Procurava caça redonda.
-
-7) () Ele fazia fortuna com a caça.
-
-8) () Ele não podia atender às encomendas.
-
-9) () As encomendas chegavam de toda parte.
-
-10) () Cada dia mais avultavam os pedidos.
-
-**14. Assinale com (C) dentro dos parênteses os verbos acompanhados de objetos compostos e com (B) os verbos biobjetivos (= 2 complementos verbais não compostos):**
-
-1) () Nunca disse ao companheiro toda a verdade.
-
-2) () Gostava de bailes e de natação.
-
-3) () Queixava-se da vida a todos os amigos.
-
-4) () Anunciava a todos a sua vitória.
-
-5) () Pedira à polícia a sua cooperação.
-
-6) () Gostava dos amigos e dos primos.
-
-7) () Ensinei a grandes e pequenos.
-
-8) () Lembrei a José a festa do colégio.
-
-9) () Escrevia a amigos e a não amigos.
-
-10) () Suplicou clemência ao júri.
-
-**15. Empregue, em vez do pronome possessivo, um pronome pessoal como objeto indireto (dativo livre):**
-
-Modelo: Eu conheci seu pai. → Eu conheci-lhe o pai. (ou Eu lhe conheci o pai.)
-
-1) Nós observamos seu defeito.
-
-2) O convidado apertou nossas mãos.
-
-3) Os policiais protegem vossas residências.
-
-4) O cenário florido da primavera encanta os nossos olhos.
-
-5) Não tivemos oportunidade de observar os seus inventos.
-
-6) O professor corrigiu as minhas redações.
-
-7) O trabalho excessivo roubou a sua mocidade.
-
-8) A música deleita os nossos ouvidos.
-
-9) Pintava constantemente a casa para garantir a sua conservação.
-
-10) O médico tomou o teu pulso.
-
-**16. Indique se o sujeito das seguintes orações é agente (A) ou paciente (P) da ação verbal:**
-
-1) () Nas torres, os atalaias vigiavam atentamente o acampamento.
-
-2) () Os homens de arma levavam preso Nuno Gonçalves.
-
-3) () Um arauto saiu ao meio da gente de vanguarda inimiga.
-
-4) () O arauto voltou ao grosso dos soldados.
-
-5) () Eu o espero.
-
-6) () O vento soprava nesse dia com violência.
-
-7) () A guarda lhe fora encomendada por seu pai.
-
-8) () Um pássaro erradio corta o espaço.
-
-9) () A notícia foi sabida de todos.
-
-10) () O prédio fora destruído pelo incêndio.
-
-11) () Os convidados não traziam máscaras.
-
-12) () Os responsáveis foram condenados pelo juiz.
-
-13) () O livro será lido por todos os alunos.
-
-14) () Quem trouxe estes livros?
-
-15) () As suas ordens não foram obedecidas por ninguém.
-
-**17. Distinga as orações de verbo na voz passiva (P) das orações de predicado com predicativo (Pr):**
-
-1) () O livro está rasgado.
-
-2) () A casa foi alugada pelo novo proprietário.
-
-3) () A cozinheira era estimada de todos.
-
-4) () Talvez o soldado estivesse ferido.
-
-5) () O conferencista ficou desiludido.
-
-6) () A ave foi atacada pelo gato.
-
-7) () A casa estava cercada pela água.
-
-8) () O jardim ficou florido.
-
-9) () A caneta estaria quebrada.
-
-10) () O almoço está atrasado.
-
-<a id="capitulo-3-expansoes-do-nome-e-do-verbo-pdf97-057"></a>
 ### Capítulo 3. Expansões do nome e do verbo
 
 **Os adjuntos: adnominais e adverbiais O complemento nominal. O aposto. O vocativo A relação entre função sintática e as classes de palavras**
 
-<a id="nocao-de-adjunto-e-adjunto-adnominal-pdf97-058"></a>
 #### Noção de adjunto e adjunto adnominal
 
-Chama-se adjunto o termo sintático não obrigatório, cuja missão é ampliar nossa informação ou nosso conhecimento do núcleo que integra o sujeito e o predicado com seus complementos vistos até aqui. Tais unidades de expansão não alteram a função gramatical do núcleo, constituindo com este um grupo nominal ou sintagma nominal (➚ 84).
+Chama-se **adjunto** o termo sintático não obrigatório, cuja missão é ampliar nossa informação ou nosso conhecimento do núcleo que integra o sujeito e o predicado com seus complementos vistos até aqui. Tais unidades de expansão não alteram a função gramatical do núcleo, constituindo com este um *grupo nominal* ou *sintagma nominal* (➚ 84).
 
 *Papai é jovem.*
 
-Nesta oração, papai funciona como sujeito e está constituído por um núcleo substantivo, passível de ser expandido:
+Nesta oração, *papai* funciona como sujeito e está constituído por um núcleo substantivo, passível de ser expandido:
 
-*Papai é jovem.*  
-*O meu papai é jovem.*  
+*Papai é jovem.*
+
+*O meu papai é jovem.*
+
 *O meu querido papai é jovem.*
 
-No predicado é jovem, jovem é predicativo e está constituído por um núcleo adjetivo, passível também de ser expandido:
+No predicado *é jovem*, *jovem* é predicativo e está constituído por um núcleo adjetivo, passível também de ser expandido:
 
-*Papai é jovem.*  
+*Papai é jovem.*
+
 *Papai é mais jovem.*
 
 *Papai é muito mais jovem.*
 
-A expansão do núcleo substantivo chama-se adjunto adnominal e está fundamentalmente representado por um adjetivo, locução adjetiva ou unidade equivalente, como ocorre em:
+A expansão do núcleo substantivo chama-se *adjunto adnominal* e está fundamentalmente representado por um adjetivo, locução adjetiva ou unidade equivalente, como ocorre em:
 
-Bons ventos o tragam!  
-Palavra de rei não volta atrás.
+*Bons* ventos o tragam!
+
+Palavra *de rei* não volta atrás.
 
 Tal adjetivo pode ser acompanhado de determinantes que, englobadamente com ele, se classificam como adjunto adnominal:
 
-Os bons ventos o tragam!  
-Esses bons ventos o tragam!
+*Os bons* ventos o tragam!
 
-Diante de uma construção como Todos os meus três bons amigos chegaram hoje, vemos que são vários os determinantes incluídos no adjunto adnominal, ao lado do adjetivo bons. Pela sua distribuição no grupo nominal, podem ser divididos em determinantes propriamente ditos, predeterminantes (os que se põem antes do determinante) e pós-determinantes (os que vêm depois do determinante).
+*Esses bons* ventos o tragam!
 
-Os determinantes estão representados pelo artigo e pelo pronome demonstrativo:
+Diante de uma construção como *Todos os meus três bons amigos chegaram hoje*, vemos que são vários os determinantes incluídos no adjunto adnominal, ao lado do adjetivo *bons*. Pela sua distribuição no grupo nominal, podem ser divididos em *determinantes* propriamente ditos, *predeterminantes* (os que se põem antes do determinante) e *pós-determinantes* (os que vêm depois do determinante).
+
+Os determinantes estão representados pelo *artigo* e pelo *pronome demonstrativo*:
 
 Os bons amigos viajaram.  
-Esses velhos livros pertenceram ao avô de João.
+*Esses* velhos livros pertenceram ao avô de João.
 
-Os predeterminantes, à esquerda do determinante, se acham representados pelas palavras que podem receber globalmente o nome de quantificador (algum, alguns de, todo, qualquer, certo, vários, vários de, etc.), que se enquadram na classe gramatical de pronome indefinido:
+Os predeterminantes, à esquerda do determinante, se acham representados pelas palavras que podem receber globalmente o nome de *quantificador* (*algum*, *alguns de*, *todo*, *qualquer*, *certo*, *vários*, *vários de*, etc.), que se enquadram na classe gramatical de pronome indefinido:
 
-Todos os amigos viajaram.  
-Alguns dos (de + os) amigos viajaram.
+*Todos* os amigos viajaram.
 
-Os pós-determinantes, à direita do determinante, se acham representados pelo pronome possessivo e numeral:
+*Alguns* dos (de + os) amigos viajaram.
 
-Os meus bons amigos viajaram.  
-Esses três bons amigos viajaram.
+Os pós-determinantes, à direita do determinante, se acham representados pelo *pronome possessivo* e *numeral*:
 
-Nestas combinações funciona muito frequentemente a propriedade de estruturação gramatical chamada hipotaxe ou subordinação, que consiste em um grupo de palavras se degradar à função de palavra, no estrato inferior, e, assim, ficar sujeita às combinações desse novo estrato. É o que vamos ver em:
+Os *meus* bons amigos viajaram.
+
+Esses *três* bons amigos viajaram.
+
+Nestas combinações funciona muito frequentemente a propriedade de estruturação gramatical chamada *hipotaxe* ou *subordinação*, que consiste em um *grupo de palavras* se degradar à função de *palavra*, no estrato inferior, e, assim, ficar sujeita às combinações desse novo estrato. É o que vamos ver em:
 
 *Visitei o jardim zoológico,*
 
-em que o jardim zoológico funciona como um grupo nominal constituído do determinante (artigo o), do núcleo do adjunto adnominal (adjetivo zoológico) e do núcleo do objeto direto (substantivo jardim). Num segundo momento, esse grupo de palavras jardim zoológico pode passar ao estrato inferior de palavra e, como tal, ser expandido mediante um novo adjunto adnominal:
+em que *o jardim zoológico* funciona como um grupo nominal constituído do determinante (artigo *o*), do núcleo do adjunto adnominal (adjetivo *zoológico*) e do núcleo do objeto direto (substantivo *jardim*). Num segundo momento, esse grupo de palavras *jardim zoológico* pode passar ao estrato inferior de *palavra* e, como tal, ser expandido mediante um novo adjunto adnominal:
 
-Visitei o jardim zoológico central.  
-Visitei o jardim zoológico da cidade.
+Visitei o jardim zoológico *central*.
 
-Aqui, central e da cidade representam expansões do conjunto jardim zoológico, e não apenas de jardim.
+Visitei o jardim zoológico *da cidade*.
 
-O mesmo fenômeno da hipotaxe aparece em construções do tipo A situação política atual, onde o grupo nominal situação política se acha expandido pelo adjetivo atual. Isto explica por que o adjetivo atual goza da propriedade de se movimentar dentro do novo adjunto adnominal complexo, o que não ocorre com o adjetivo política:
+Aqui, *central* e *da cidade* representam expansões do conjunto *jardim zoológico*, e não apenas de *jardim*.
+
+O mesmo fenômeno da hipotaxe aparece em construções do tipo *A situação política atual*, onde o grupo nominal *situação política* se acha expandido pelo adjetivo *atual*. Isto explica por que o adjetivo *atual* goza da propriedade de se movimentar dentro do novo adjunto adnominal complexo, o que não ocorre com o adjetivo *política*:
 
 *A atual situação política,*
 
-ordem mais natural do que A política situação atual.
+ordem mais natural do que *A política situação atual*.
 
 Quando se trata de novo adjunto adnominal constituído por locução adjetiva introduzida por preposição, o deslocamento desta segunda unidade não goza da mesma liberdade, especialmente em prosa:
 
-*Visitei da cidade o jardim zoológico.
+\*Visitei *da cidade* o jardim zoológico.
 
 Já em poesia a inversão é frequente:
 
-Ouviram do Ipiranga as margens plácidas  
-De um povo heroico o brado retumbante.
+Ouviram *do Ipiranga* as margens plácidas
 
-*Isto é: As margens plácidas do Ipiranga ouviram o brado retumbante de um povo heroico.*
+*De um povo heroico* o brado retumbante.
 
-Por não levarem em conta este fenômeno da hipotaxe ou subordinação, alguns autores condenaram, sem razão, expansões do tipo a melhor boa vontade, o melhor bom humor, em que melhor modifica os conglomerados boa vontade e bom humor que se degradaram ao estrato de meras palavras.
+Isto é: *As margens plácidas* **do Ipiranga** *ouviram o brado retumbante* **de um povo heroico**.
 
-<a id="grupos-nominais-pdf100-059"></a>
+Por não levarem em conta este fenômeno da hipotaxe ou subordinação, alguns autores condenaram, sem razão, expansões do tipo *a melhor boa vontade*, *o melhor bom humor*, em que *melhor* modifica os conglomerados *boa vontade* e *bom humor* que se degradaram ao estrato de meras palavras.
+
 #### Grupos nominais
 
-Os grupos nominais constituídos de substantivo + adjetivo podem ter estruturas diferentes:
+Os grupos nominais constituídos de *substantivo* + *adjetivo* podem ter estruturas diferentes:
 
 a) um adjetivo:
 
 Belos dias em cidades agradáveis
 
-b) um grupo preposicionado equivalente a adjetivo, que pode ou não ter
+b) um grupo preposicionado equivalente a adjetivo, que pode ou não ter um correspondente signo léxico na língua. Quando o substantivo entra  num grupo adjetivado, não concorda em gênero e número com o  substantivo núcleo, e, se aparece no plural, não o faz pelo fenômeno da  concordância, mas em atenção à realidade comunicada: *copo com defeito*  / *copos com defeito*; mas *copo com defeito* / *copo com defeitos* (por se  querer referir a mais de um defeito existente no copo).
 
-um correspondente signo léxico na língua. Quando o substantivo entra  
-num grupo adjetivado, não concorda em gênero e número com o  
-substantivo núcleo, e, se aparece no plural, não o faz pelo fenômeno da  
-concordância, mas em atenção à realidade comunicada: copo com defeito  
-/ copos com defeito; mas copo com defeito / copo com defeitos (por se  
-querer referir a mais de um defeito existente no copo).
+homem *de coragem* (*corajoso*)
 
-homem de coragem (corajoso)
+pão *com manteiga* (*amanteigado*)
 
-pão com manteiga (amanteigado)  
-copo com defeito (defeituoso)  
-casa de Pedro  
-cama de solteiro
+copo *com defeito* (*defeituoso*)
+
+casa *de Pedro*
+
+cama *de solteiro*
 
 c) uma oração transposta à função adjetiva: (➚ 378)
 
-O homem que tem coragem é admirado. (corajoso)  
-A casa que Pedro possui é espaçosa.
+O homem *que tem coragem* é admirado. (*corajoso*)
 
-<a id="adjunto-adverbial-pdf101-060"></a>
+A casa *que Pedro possui* é espaçosa.
+
 #### Adjunto adverbial
 
 A expansão do núcleo pode dar-se mediante um adjunto adverbial, representado formalmente por um advérbio ou expressão equivalente. Semanticamente exprime uma circunstância e sintaticamente representa uma expansão do verbo, do adjetivo ou do advérbio.
 
-Paula estudou muito.  
-Antônio chegou cedo.  
-O mar está muito azulado.  
-Bebel dançou muito bem.
+Paula estudou *muito*.
 
-<a id="complemento-relativo-e-adjunto-adverbial-pdf101-061"></a>
+Antônio chegou *cedo*.
+
+O mar está *muito* azulado.
+
+Bebel dançou *muito* bem.
+
 #### Complemento relativo e adjunto adverbial
 
 Já vimos (➚ 72) que o complemento relativo pode exprimir uma circunstância:
 
 *Marcelinho pôs o livro na pasta,*
 
-em que na pasta delimita a significação contida na expressão predicativa pôs o livro.
+em que *na pasta* delimita a significação contida na expressão predicativa *pôs o livro*.
 
 A diferença entre este complemento relativo e o adjunto adverbial (termo acessório à predicação) fica patente no exemplo:
 
 *Os padrinhos acompanharam a jovem a Natal nas últimas férias.*
 
-Repare-se que poderíamos eliminar da oração a circunstância de tempo nas últimas férias:
+Repare-se que poderíamos eliminar da oração a circunstância de tempo *nas últimas férias*:
 
 *Os padrinhos acompanharam a jovem a Natal.*
 
-Tal eliminação não poderíamos fazer com a Natal, sem que se ficasse esperando a declaração do local a que foi levada a jovem:
+Tal eliminação não poderíamos fazer com *a Natal*, sem que se ficasse esperando a declaração do local a que foi levada a jovem:
 
 *Os padrinhos acompanharam a jovem nas últimas férias.*
 
-Dizemos que nas últimas férias é um adjunto adverbial, e a Natal, um complemento relativo.
+Dizemos que *nas últimas férias* é um adjunto adverbial, e a *Natal*, um complemento relativo.
 
-<a id="as-circunstancias-pdf102-062"></a>
 #### As circunstâncias
 
-Chamam-se circunstâncias em gramática as unidades linguísticas que, referindo-se à significação do verbo, assinalam o modo, o tempo, o lugar, a causa e outras mais que serão estudadas no capítulo dos advérbios:
+Chamam-se *circunstâncias* em gramática as unidades linguísticas que, referindo-se à significação do verbo, assinalam o modo, o tempo, o lugar, a causa e outras mais que serão estudadas no capítulo dos advérbios:
 
-Jantamos ontem (circunstância de tempo), no clube (circunstância de  
-lugar), na companhia de vários amigos (circunstância de companhia)  
-por motivo do aniversário de nosso tio (circunstância de causa).  
-Ela trabalhou com prazer (circunstância de modo) para o progresso  
-da empresa (circunstância de favor ou benefício).
+Jantamos *ontem* (circunstância de tempo), *no clube* (circunstância de lugar), *na companhia de vários amigos* (circunstância de companhia) *por motivo do aniversário de nosso tio* (circunstância de causa).  
+Ela trabalhou *com prazer* (circunstância de modo) *para o progresso da empresa* (circunstância de favor ou benefício).
 
-<a id="a-constituicao-do-adjunto-adverbial-pdf102-063"></a>
 #### A constituição do adjunto adverbial
 
-O adjunto adverbial, pelos exemplos acima, pode ser expresso por advérbios (ontem) ou por locuções adverbiais (no clube, etc.).
+O adjunto adverbial, pelos exemplos acima, pode ser expresso por advérbios (*ontem*) ou por locuções adverbiais (*no clube*, etc.).
 
-Os que exprimem intensidade podem, além do verbo, modificar adjetivos e advérbios: Ela é muito inteligente. O professor jantou muito cedo.
+Os que exprimem intensidade podem, além do verbo, modificar adjetivos e advérbios: Ela é *muito* inteligente. O professor jantou *muito* cedo.
 
-<a id="complemento-nominal-pdf102-064"></a>
 #### Complemento nominal
 
 O verbo pode passar a ser representado por substantivo, por exemplo:
@@ -2658,176 +2218,164 @@ pode passar à estrutura derivada:
 
 *A compra de um quadro célebre pelo vizinho.*
 
-Neste último exemplo o verbo passa a ser representado pelo substantivo compra; o objeto direto (um quadro célebre) passa a complemento preposicionado; e o sujeito (o vizinho) continua agente.
+Neste último exemplo o verbo passa a ser representado pelo substantivo *compra*; o objeto direto (*um quadro célebre*) passa a complemento preposicionado; e o sujeito (*o vizinho*) continua agente.
 
-Tais formas derivadas pela passagem de um verbo a nome (processo chamado nominalização) dão ensejo ao aparecimento de um complemento preposicionado desse mesmo substantivo, chamado complemento nominal: do ladrão e de um quadro célebre são complementos nominais de fuga e compra, respectivamente.
+Tais formas derivadas pela passagem de um verbo a nome (processo chamado *nominalização*) dão ensejo ao aparecimento de um complemento preposicionado desse mesmo substantivo, chamado *complemento nominal*: *do ladrão* e *de um quadro célebre* são complementos nominais de *fuga* e *compra*, respectivamente.
 
 Ocorre complemento nominal também com adjetivos (e advérbios seus derivados):
 
-*O jogador mostrou-se responsável pela situação.*  
-*Ele é um jovem desejoso de sucesso.*  
+*O jogador mostrou-se responsável pela situação.*
+
+*Ele é um jovem desejoso de sucesso.*
+
 *A situação mostrou-se desfavoravelmente a todos.*
 
-(desfavoravelmente, advérbio derivado do adjetivo desfavorável)
+(*desfavoravelmente*, advérbio derivado do adjetivo *desfavorável*)
 
 **Observação:**
 
-→ Em perto da casa, longe da casa, e semelhantes, autores há que consideram da casa  
-complemento nominal dos advérbios perto, longe, etc. Preferimos ver aqui as locuções
-
-prepositivas perto de, longe de integrando com o substantivo casa uma locução adverbial e,  
-portanto, funcionando como adjunto adverbial.
+→ Em *perto da casa*, *longe da casa*, e semelhantes, autores há que consideram *da casa* complemento nominal dos advérbios *perto*, *longe*, etc. Preferimos ver aqui as locuções prepositivas *perto de*, *longe de* integrando com o substantivo *casa* uma locução adverbial e, portanto, funcionando como adjunto adverbial.
 
 Nestes casos fica muito patente que os termos preposicionados funcionam como complemento nominal dos adjetivos e do advérbio. Mas, se se trata de substantivo, pode ocorrer dúvida se estamos diante de complemento nominal ou de adjunto adnominal, como veremos daqui a pouco.
 
-Costumam os autores classificar os complementos nominais em subjetivos (se o termo preposicionado representa o sujeito do verbo antes da derivação por nominalização: a fuga do ladrão → o ladrão fugiu) e objetivos (se o termo preposicionado representa o complemento do verbo: a compra do quadro → compraram o quadro).
+Costumam os autores classificar os complementos nominais em *subjetivos* (se o termo preposicionado representa o sujeito do verbo antes da derivação por nominalização: *a fuga do ladrão* → *o ladrão fugiu*) e *objetivos* (se o termo preposicionado representa o complemento do verbo: *a compra do quadro* → *compraram o quadro*).
 
 Dissemos antes que, formalmente, este complemento nominal se assemelha ao adjunto adnominal, quando em ambos temos a estrutura substantivo + preposição + substantivo:
 
-*a chegada do trem a casa do vizinho*
+*a chegada do trem*
 
-A diferença consiste em que o complemento nominal do trem em a chegada do trem resulta da nominalização de o trem chegou, o que não se dá com o adjunto adnominal do vizinho em a casa do vizinho.
+*a casa do vizinho*
+
+A diferença consiste em que o complemento nominal *do trem* em *a chegada do trem* resulta da nominalização de *o trem chegou*, o que não se dá com o adjunto adnominal *do vizinho* em *a casa do vizinho*.
 
 **Observação:**
 
-→ Nada justifica a lição, nos casos onde houver o processo de nominalização, que só  
-considera complemento nominal se se trata de complemento objetivo (a compra do  
-quadro), e adjunto adnominal se se trata de complemento subjetivo (a fuga do ladrão). Em  
-ambos temos o mesmo procedimento sintático, o que justifica a classificação de ambos  
-como complemento nominal.
+→ Nada justifica a lição, nos casos onde houver o processo de nominalização, que só considera complemento nominal se se trata de complemento objetivo (*a compra do quadro*), e adjunto adnominal se se trata de complemento subjetivo (*a fuga do ladrão*). Em ambos temos o mesmo procedimento sintático, o que justifica a classificação de ambos como complemento nominal.
 
 Algumas vezes o substantivo pode ser considerado como resultante de nominalização (e aí é tomado abstratamente) — e se acompanha de complemento nominal; noutras, sem a existência de nominalização (e aí é tomado concretamente), caso em que se acompanha de adjunto adnominal. É elucidativo o exemplo lembrado por Rocha Lima, onde temos, no primeiro, complemento e, no segundo, adjunto adnominal:
 
-A plantação de cana (= plantar cana) enriqueceu a economia do país.  
-Em poucas horas o fogo destruiu toda a plantação de cana.
+*A plantação de cana* (= *plantar cana*) enriqueceu a economia do país.  
+Em poucas horas o fogo destruiu toda *a plantação de cana*.
 
-<a id="outro-termo-para-a-expansao-de-nucleo-o-aposto-pdf105-065"></a>
 #### Outro termo para a expansão de núcleo: o aposto
 
-Titio, irmão do papai, chega hoje de Porto Alegre.
+Titio, *irmão do papai*, chega hoje de Porto Alegre.
 
-Temos aqui um termo de natureza substantiva, na expressão irmão do papai, que se usa para explicar ou explicitar outro termo de natureza substantiva, titio.
+Temos aqui um termo de natureza substantiva, na expressão *irmão do papai*, que se usa para explicar ou explicitar outro termo de natureza substantiva, *titio*.
 
-A esta expansão explicitadora se dá o nome de aposto. Assim, irmão do papai funciona como aposto do núcleo titio, que se chama fundamental.
+A esta expansão explicitadora se dá o nome de aposto. Assim, *irmão do papai* funciona como aposto do núcleo *titio*, que se chama fundamental.
 
-O aposto pode estar ligado diretamente ao seu fundamental, como em O rio Amazonas, e neste caso restringe o conteúdo semântico genérico do fundamental rio. Vale como que um modificador de rio, sendo substantivo, e não adjetivo.
+O aposto pode estar ligado diretamente ao seu fundamental, como em *O rio Amazonas*, e neste caso restringe o conteúdo semântico genérico do fundamental *rio*. Vale como que um modificador de *rio*, sendo substantivo, e não adjetivo.
 
-No primeiro exemplo, Titio, irmão do papai, o aposto serve para explicar o conceito do termo fundamental titio. Neste caso, separa-se do fundamental por pausa, marcada na escrita por vírgula ou equivalente (como parênteses ou travessão).
+No primeiro exemplo, *Titio, irmão do papai*, o aposto serve para explicar o conceito do termo fundamental *titio*. Neste caso, separa-se do fundamental por pausa, marcada na escrita por vírgula ou equivalente (como parênteses ou travessão).
 
 Este aposto explicativo pode apresentar valores secundários que merecem descrição especial, como ocorre com os seguintes:
 
 a) Aposto enumerativo
 
-Quando a explicação consiste em desdobrar o fundamental representado por um dos pronomes (ou locuções) tudo, nada, ninguém, cada um, um e outro, etc., ou por substantivos:
+Quando a explicação consiste em desdobrar o fundamental representado por um dos pronomes (ou locuções) *tudo*, *nada*, *ninguém*, *cada um*, *um e outro*, etc., ou por substantivos:
 
-Tudo — alegrias, tristezas, preocupações — ficava estampado logo no  
-seu rosto.  
-Duas coisas o encorajavam, a fé na religião e a confiança em si.
+Tudo — *alegrias*, tr*i*stezas, *preocupações* — ficava estampado logo no seu rosto.  
+Duas coisas o encorajavam, *a fé na religião e a confiança em si*.
 
 Às vezes este tipo de aposto precede o fundamental:
 
-A matemática, a história, a língua portuguesa, nada tinha segredos  
-para ele.
+*A matemática*, *a história*, *a língua portuguesa*, nada tinha segredos para ele.
 
-Em todos estes exemplos, o fundamental (tudo, coisas, nada) funciona como sujeito das orações e, por isso, se estabelece a concordância entre ele e o verbo.
+Em todos estes exemplos, o fundamental (*tudo*, *coisas*, *nada*) funciona como sujeito das orações e, por isso, se estabelece a concordância entre ele e o verbo.
 
-Este aposto pode vir precedido das locuções explicativas isto é, por exemplo, a saber, verbi gratia (abreviatura: v.g.):
+Este aposto pode vir precedido das locuções explicativas *isto é*, *por exemplo*, *a saber*, *verbi gratia* (abreviatura: v.g.):
 
-Duas coisas o incomodavam, a saber, o barulho da rua e o frio  
-intenso.
+Duas coisas o incomodavam, a saber, *o barulho da rua e o frio intenso*.
 
-b) Aposto distributivo Quando marca uma distribuição de alusões no período:
+b) Aposto distributivo
 
-Machado de Assis e Gonçalves Dias são os meus escritores  
-preferidos, aquele na prosa e este na poesia.  
-Um no automobilismo, outro no futebol, Senna e Pelé marcaram um  
-período de ouro no esporte brasileiro.
+Quando marca uma distribuição de alusões no período:Machado de Assis e Gonçalves Dias são os meus escritores preferidos, *aquele na prosa e este na poesia*.  
+*Um no automobilismo, outro no futebol*, Senna e Pelé marcaram um período de ouro no esporte brasileiro.
 
 c) Aposto circunstancial Quando expressa comparação, tempo, causa, etc., precedido ou não de palavra que marca esta relação, já que este aposto acrescenta um dado a mais acerca do fundamental:
 
-“As estrelas, grandes olhos curiosos, espreitavam através da folhagem.”  
-[EQ]  
-“Artista — corta o mármor de Carrara;  
-Poetisa — tange os hinos de Ferrara.” [CAv]
+“As estrelas, *grandes olhos curiosos*, espreitavam através da folhagem.”[EQ]
+  
+“*Artista* — corta o mármor de Carrara;  
+*Poetisa* — tange os hinos de Ferrara.” [CAv]
 
-Este tipo de aposto pode ser introduzido por como, na qualidade de, quando:
+Este tipo de aposto pode ser introduzido por *como*, *na qualidade de*, *quando*:
 
-As estrelas, como grandes olhos curiosos, espreitavam através da  
-folhagem.  
-A ti, na qualidade de general, compete o comandar.  
-D. João de Castro, quando vice-rei da Índia, empenhou os cabelos da  
-barba.
+As estrelas, *como grandes olhos curiosos*, espreitavam através da folhagem.
 
-<a id="aposto-e-adjunto-adnominal-pdf107-066"></a>
+A ti, *na qualidade de general*, compete o comandar.
+
+D. João de Castro, *quando vice-rei da Índia*, empenhou os cabelos da barba.
+
 #### Aposto e adjunto adnominal
 
-Muitas vezes, em construção do tipo O rio Amazonas, a língua permite a alternância do aposto com o adjunto adnominal introduzido pela preposição de.
+Muitas vezes, em construção do tipo *O rio Amazonas*, a língua permite a alternância do aposto com o adjunto adnominal introduzido pela preposição *de*.
 
 Assim, a norma permite a construção com aposto em:
 
-*O rio Amazonas*  
-*Colégio Pedro II*  
+*O rio Amazonas*
+
+*Colégio Pedro II*
+
 *A cidade luz*
 
 mas com adjunto adnominal em:
 
-*Ilha de Marajó*  
-*Cidade do Recife*  
+*Ilha de Marajó*
+
+*Cidade do Recife*
+
 *Praça da República*
 
-Entre muitos casos, dá-se a alternância: Colégio Pedro II (construção mais moderna) e Colégio de Pedro II (uso mais antigo).
+Entre muitos casos, dá-se a alternância: *Colégio Pedro II* (construção mais moderna) e *Colégio de Pedro II* (uso mais antigo).
 
-<a id="aposto-referido-a-uma-oracao-pdf108-067"></a>
 #### Aposto referido a uma oração
 
 O aposto pode referir-se a um substantivo ou pronome, mas também ao conteúdo de uma oração inteira:
 
-Todos saíram contentes do cinema, sinal de bom filme.
+Todos saíram contentes do cinema, *sinal de bom filme*.
 
-Sinal é o núcleo de sinal de bom filme, que funciona como aposto referido a toda a oração.
+*Sinal* é o núcleo de *sinal de bom filme*, que funciona como aposto referido a toda a oração.
 
-Como aposto de uma oração inteira costuma aparecer um substantivo como coisa, razão, motivo, fato, sinal e equivalente, sempre acompanhado de um adjunto adnominal, ou de uma oração subordinada adjetiva relativa substantivada pelo artigo o:
+Como aposto de uma oração inteira costuma aparecer um substantivo como *coisa*, *razão*, *motivo*, *fato*, *sinal* e equivalente, sempre acompanhado de um adjunto adnominal, ou de uma oração subordinada adjetiva relativa substantivada pelo artigo *o*:
 
-O desastre provocou muitas vítimas, coisa lastimável.  
-Os convidados não foram à festa, o que deixou o aniversariante  
-frustrado.
+O desastre provocou muitas vítimas, *coisa lastimável*.  
+Os convidados não foram à festa, *o que deixou o aniversariante frustrado*.
 
 **Observação:**
 
-→ A tradição gramatical entre nós tem considerado neste último caso como pronome  
-demonstrativo (= aquele, aquilo, isto), usado neutralmente, o o que precede o que,  
-modificado por uma oração adjetiva, em vez de considerar essa mesma oração adjetiva  
-substantivada pelo artigo o, como fizemos aqui. Discutiremos o assunto mais adiante. (➚  
-152)
+→ A tradição gramatical entre nós tem considerado neste último caso como pronome demonstrativo (= aquele, aquilo, isto), usado neutralmente, o *o* que precede o *que*, modificado por uma oração adjetiva, em vez de considerar essa mesma oração adjetiva substantivada pelo artigo o, como fizemos aqui. Discutiremos o assunto mais adiante. (➚ 152)
 
-<a id="vocativo-uma-unidade-a-parte-pdf108-068"></a>
 #### Vocativo: uma unidade à parte
 
-Desligado da estrutura da oração e desta separado por curva de entoação exclamativa, o vocativo cumpre uma função apelativa de 2.ª pessoa, pois, por seu intermédio, chamamos ou pomos em evidência a pessoa ou coisa a que nos dirigimos:
+Desligado da estrutura da oração e desta separado por curva de entoação exclamativa, o *vocativo* cumpre uma função apelativa de 2.ª pessoa, pois, por seu intermédio, chamamos ou pomos em evidência a pessoa ou coisa a que nos dirigimos:
 
-José, vem cá!
+*José*, vem cá!
 
-Tu, meu irmão, precisas estudar!  
-Felicidade, onde te escondes?
+Tu, *meu irmão*, precisas estudar!
+
+*Felicidade*, onde te escondes?
 
 Algumas vezes vem precedido de ó, que a tradição gramatical inclui entre as interjeições, pela sua correspondência material.
 
-“Deus, ó Deus, onde estás que não respondes?” [CAv]
+“Deus, *ó Deus*, onde estás que não respondes?” [CAv]
 
-Estes exemplos nos põem diante de algumas particularidades que envolvem o vocativo. Pelo desligamento da estrutura da oração, constitui, por si só, a rigor, uma frase exclamativa à parte ou um fragmento de oração, à semelhança das interjeições. Por outro lado, como no caso de Tu, meu irmão, precisas estudar!, às vezes, se aproxima do aposto explicativo, pela razão que vai constituir a particularidade seguinte. Por fim, o vocativo, na função apelativa, está ligado ao imperativo ou conteúdo volitivo da forma verbal, já que, em se tratando de ordem ou manifestação de desejo endereçada à pessoa com quem falamos ou a quem nos dirigimos, presente quase sempre, não há necessidade de marcar gramaticalmente o sujeito. Quando surge a necessidade de explicitá-lo, por algum motivo, aludimos a esse sujeito em forma de vocativo. Assim é que em:
+Estes exemplos nos põem diante de algumas particularidades que envolvem o vocativo. Pelo desligamento da estrutura da oração, constitui, por si só, a rigor, uma frase exclamativa à parte ou um fragmento de oração, à semelhança das interjeições. Por outro lado, como no caso de *Tu, meu irmão, precisas estudar!*, às vezes, se aproxima do aposto explicativo, pela razão que vai constituir a particularidade seguinte. Por fim, o vocativo, na função apelativa, está ligado ao imperativo ou conteúdo volitivo da forma verbal, já que, em se tratando de ordem ou manifestação de desejo endereçada à pessoa com quem falamos ou a quem nos dirigimos, presente quase sempre, não há necessidade de marcar gramaticalmente o sujeito. Quando surge a necessidade de explicitá-lo, por algum motivo, aludimos a esse sujeito em forma de vocativo. Assim é que em:
 
-“Deixa-me! Deixa-me a vagar perdida...  
-Tu! — parte! Volve para os lares teus.” [CAv]
+“Deixa-me! Deixa-me a vagar perdida...
 
-tu não é o sujeito de parte, e sim vocativo, “espécie de aposição à ideia do sujeito, contida no imperativo” [HCv]. Ocorre o mesmo com o substantivo poeta em:
+*Tu*! — parte! Volve para os lares teus.” [CAv]
 
-“Vai, Poeta...” [CAv]
+*tu* não é o sujeito de *parte*, e sim vocativo, “espécie de aposição à ideia do sujeito, contida no imperativo” [HCv]. Ocorre o mesmo com o substantivo *poeta* em:
+
+“Vai, *Poeta*...” [CAv]
 
 Pelos exemplos aduzidos até aqui, vê-se que o vocativo pode ser representado por substantivo ou pronome, podendo admitir a presença de expansões (p. ex., de adjuntos adnominais, de orações adjetivas):
 
-“Desce do espaço imenso, ó águia do oceano!”
+“Desce do espaço imenso, *ó águia do oceano*!”
 
-“Senhor Deus, que após a noite  
+“*Senhor Deus*, que após a noite  
 Mandas a luz do arrebol,  
 Que vestes a esfarrapada  
 Com o manto rico do sol.” [CAv]
@@ -2835,10 +2383,9 @@ Com o manto rico do sol.” [CAv]
 Na correspondência epistolar, o vocativo vem separado do resto do enunciado por vírgula, enquanto, em textos de outra natureza, costuma aparecer o emprego dos dois-pontos (:) ou do ponto de exclamação (!).
 
 “Rio de Janeiro, 29 de maio.  
-Meu caro Nabuco,  
+*Meu caro Nabuco*,  
 Há cerca de um mês que esta carta deveria ter seguido.” [MA]
 
-<a id="funcoes-sintaticas-e-classes-de-palavras-pdf110-069"></a>
 #### Funções sintáticas e classes de palavras
 
 Vimos até aqui ressaltando que as funções sintáticas dos termos da oração se acham representadas normalmente pelas espécies de classes de palavras conhecidas por substantivos, adjetivos, artigos, pronomes, numerais, verbos e advérbios, ou marcadas por instrumentos gramaticais, como é o caso das preposições e conjunções, ou pela sua disposição à esquerda e à direita do verbo, que é o núcleo fundamental da oração.
@@ -2849,300 +2396,49 @@ Todavia, esta implicação corrente não serve de definição de substantivo. Tr
 
 **Observação:**
 
-→ Uma palavra não é substantivo porque funciona como sujeito; pelo contrário, pode ser  
-sujeito porque é um substantivo ou seu equivalente.
+→ Uma palavra não é substantivo porque funciona como sujeito; pelo contrário, pode ser sujeito porque é um substantivo ou seu equivalente.
 
-Daí, torna-se importante o conhecimento das diversas classes de palavras existentes na língua portuguesa: substantivo, adjetivo, pronome, artigo, numeral, verbo, advérbio, preposição e conjunção.
+Daí, torna-se importante o conhecimento das diversas classes de palavras existentes na língua portuguesa: *substantivo*, *adjetivo*, *pronome*, *artigo*, *numeral*, *verbo*, *advérbio*, *preposição* e *conjunção*.
 
-A tradição gramatical tem incluído aí a interjeição; entretanto, a interjeição não é, a rigor, uma palavra, mas uma palavra-frase, que só por si vale por um conteúdo de pensamento da linguagem emocional.
+A tradição gramatical tem incluído aí a interjeição; entretanto, a *interjeição* não é, a rigor, uma *palavra*, mas uma *palavra-frase*, que só por si vale por um conteúdo de pensamento da linguagem emocional.
 
-<a id="exercicios-de-fixacao-pdf111-070"></a>
-#### Exercícios de fixação
-
-**1. Destaque o núcleo do sujeito e do predicado nas seguintes orações:**
-
-*Modelos: a) O nosso casamento foi depois da vaquejada.*  
-*b) Meu pai era pessoa de muito cabedal.*
-
-a) Sujeito  
-O nosso casamento  
-Núcleo  
-casamento  
-Predicado  
-foi depois da vaquejada  
-Núcleo  
-foi
-
-b) Sujeito  
-Meu pai  
-Núcleo  
-pai  
-Predicado  
-era pessoa de muito cabedal  
-Núcleo  
-era
-
-1) Cesária principiou a história do papagaio.  
-2) O caso da novilha se espalhou de repente.  
-3) Alexandre num instante virou major.  
-4) Todo o mundo por aquelas bandas queria casar comigo.  
-5) A festa do nosso casamento durou uma semana.  
-6) Não ficou peru nem porco para semente.  
-7) Os derradeiros convidados se retiraram.  
-8) Ninguém presta atenção a ele.
-
-**2. Separados os núcleos do exercício anterior, dê as classes de palavras dos adjuntos (incluindo os determinantes) adnominais do sujeito:**
-
-*Modelos:*  
-*a) O nosso casamento foi depois da vaquejada.*
-
-Sujeito: O nosso casamento  
-Núcleo: casamento  
-Adjuntos adnominais de casamento → o: artigo definido
-
-nosso: pronome possessivo
-
-*b) Meu pai era pessoa de muito cabedal.*
-
-Sujeito: meu pai  
-Núcleo: pai  
-Adjunto adnominal de pai → meu: pronome possessivo
-
-**3. Classifique a circunstância adverbial dos adjuntos adverbiais seguintes, que se encontram nos exemplos do exercício 1:**
-
-Modelo: O nosso casamento foi depois da vaquejada.  
-Adjunto adverbial de tempo: depois da vaquejada.
-
-1) O caso da novilha se espalhou de repente.  
-2) Alexandre virou major num instante.  
-3) Todo o mundo por aquelas bandas queria casar comigo.  
-4) A festa do nosso casamento durou uma semana.  
-5) Não ficou peru nem porco para semente.
-
-**4. Acrescente a cada exemplo abaixo cinco adjuntos adverbiais diferentes:**
-
-*Modelo: Não pronunciou a leitura.*  
-*Pronunciou mal a leitura.*  
-*Pronunciou a leitura. Pronunciou a leitura perante todos.*  
-*Pronunciou a leitura depois do jantar.*  
-*Pronunciou a leitura por causa dos pedidos.*
-
-1) Gil os espreitava.  
-2) O moço enxugou a lágrima.  
-3) Peri saltou.
-
-**5. Responda às seguintes perguntas com uma oração em que apareça um adjunto adverbial correspondente ao advérbio interrogativo usado:**
-
-*Modelo: Por que saiu depressa?*  
-*— Saí depressa por causa da chuva.*
-
-1) Quando foi descoberto o Brasil?  
-2) Aonde te diriges com teu irmão?  
-3) Por que desististe do emprego?  
-4) Como conseguiste chegar?  
-5) Onde estão morando seus pais?
-
-**6. Assinale os adjuntos adverbiais que ocorrem nos seguintes trechos, classificando-os quanto à circunstância:**
-
-1) E então nada aqui vem perturbar a quietude do espetáculo.  
-2) Nessa noite entrei afoito no salão.  
-3) Durante o Império nunca houve questão alguma de raça.  
-4) Foi aí na tipografia que eu comecei a corrigir-me.  
-5) Ao fim da terceira semana, começaram a faltar as provisões.  
-6) Eu cresço, mas ele cresce mais rapidamente do que eu.  
-7) A trinta ou quarenta metros da casa, estaco.  
-8) Pouco a pouco, a noite vem descendo.  
-9) Da esquina da rua, olho ainda, por cima da cerca, a sua folha mais  
-alta.  
-10) Olhava-o agora com olhos cheios d’água.
-
-**7. Transforme os adjuntos adverbiais em expressões equivalentes pelo sentido, formadas, primeiro, por adjetivos e, depois, por advérbios:**
-
-*Modelo: A noite chega com lentidão.*  
-*A noite chega lenta.*  
-*A noite chega lentamente.*
-
-1) O cientista buscava com avidez a solução do problema.
-
-2) Os rapazes estudam com prazer.
-
-3) A plateia o ouvia com interesse.  
-4) O tolo fala sem consciência.  
-5) Os cavalheiros conversavam com discrição.  
-6) O pulso batia em desordem.  
-7) As lágrimas corriam em abundância.  
-8) Poucos fugiram com medo.  
-9) Elas fizeram o embrulho com rapidez.  
-10) Acompanhavam os fiéis com fervor a oração dominical.
-
-**8. Use, quando necessário, nos adjuntos adnominais e adverbiais uma preposição, contração ou locução conveniente:**
-
-*Modelo: Deploraram que ministros vendessem Cristo segunda vez.*  
-*Deploraram que ministros vendessem Cristo pela segunda vez.*
-
-1) “Mão direita aberta sobre os olhos, apenas devassava as vacas do  
-curral de Dona Páscoa...” [HC]  
-2) “Sim, senhor! — monologava eu, em silêncio, contemplando os  
-pequenos pedaços de chumbo, os olhos fixos neles.” [HC]  
-3) “Tinha comido farinha e bebido água, a manhã toda.” [HC]  
-4) “Quem saiu, em 1904, armas em punho, às ruas da cidade?” [RB]  
-5) “As duas mães estavam já debruçadas da janela aberta, as mãos dadas,  
-o coração afogado, os olhos nas trevas, o pensamento para o céu.” [ML]  
-6) “D. Rosa da Silveira tinha vinte e um anos. Era alta, morena, olhos  
-grandes e pretos, testa espaçosa, nariz aquilino, boca larga, beiços quase
-
-austríacos...” [TV]
-
-**9. Substitua por pronomes átonos objetivos indiretos os adjuntos adverbiais grifados:**
-
-*Modelos: Tu não poderás fugir de mim. → Tu não me poderás fugir.*
-
-*José pôs-se diante dele. → José pôs-se-lhe diante.*
-
-1) Jamais apareças diante de nós.  
-2) Sentaram-se em frente dela.  
-3) Os inimigos caíram em cima de vós.  
-4) Os pais deram um beijo na filha.  
-5) Os guardas atiraram no ladrão.  
-6) O jovem pegava no pão com cerimônia.  
-7) O automóvel rapidamente avizinhava-se da cidade.  
-8) O malvado aplicou um desleal pontapé no adversário.  
-9) O carro bateu no poste.  
-10) Tudo girou em volta de nós.
-
-**10. Sublinhe o aposto que ocorre nos seguintes exemplos:**
-
-1) “Agora nenhum rei está aqui, mas sim o Mestre de Avis, vosso antigo  
-capitão.” [AH]  
-2) O marquês perdera o filho, luz da sua alma e ufania de suas cãs.  
-3) Iracema, a virgem dos lábios de mel, tinha os cabelos muito negros.  
-4) Já lhe demos dois presentes, um anel e um relógio.  
-5) Cinema, rádio, televisão, nada o divertia.  
-6) “A podenga negra, essa corria pelo aposento viva e inquieta.” [AH]  
-7) Nós, os representantes da turma, o escolhemos como paraninfo.  
-8) Chegaram os dois convidados, um de automóvel, outro de bonde.  
-9) Tirou duas notas, a saber: oito e nove.  
-10) Tudo desapareceu, a febre, a inapetência e a palidez do rosto.
-
-**11. Pontue convenientemente o aposto dos seguintes exemplos:**
-
-1) Nós representantes desta classe pedimos a vossa atenção.  
-2) Disse-me duas palavras amargas ruim e traidor.  
-3) Camões o grande poeta português cantou as glórias lusitanas.  
-4) O médico atendeu bem aos clientes salvação daquelas pobres  
-criaturas.  
-5) Deram-nos dois convites a saber um para o baile de máscaras e o  
-outro para o desfile na avenida.  
-6) Pedro II imperador do Brasil cativou muitos corações graças à sua  
-bondade.  
-7) Havia na bolsa excelentes frutas por exemplo pêssego, maçã, morango  
-e pera.  
-8) Um dos grandes livros de Machado de Assis Memorial de Aires revela-  
-nos muito da vida do grande autor brasileiro.  
-9) Em 15 de novembro dia consagrado à nossa República sempre há  
-numerosos festejos.  
-10) O filho esperança dos pais deve honrá-los e estimá-los.  
-11) Fiz-lhe um pecúlio de cinco contos os cinco contos achados em  
-Botafogo como um pão para a velhice.
-
-**12. Assinale com um (X) dentro dos parênteses os enunciados NÃO analisáveis gramaticalmente.**
-
-1) () Que horror!  
-2) () Avançai!  
-3) () Como está quente!  
-4) () Maravilhoso!  
-5) () Bons ventos o levem!  
-6) () Santo nome de Deus!  
-7) () Pelas barbas de meu avô!
-
-8) () Quão bela está a tarde!  
-9) () Oh! quanta tolice!  
-10) () Pobre de ti!  
-11) () Silêncio!  
-12) () Psiu!  
-13) () Que belos sonhos!  
-14) () Bom dia, amigos!
-
-**13. Sublinhe o vocativo nos seguintes exemplos:**
-
-1) Ó palmeira da serra, continua firme!  
-2) De humana piedade foi teu ato, Senhor!  
-3) Erguei-a com cautela, ó frágil criatura!  
-4) Minha harpa, saudemos este instante.  
-5) Esposa querida, minha harpa, vem cá!  
-6) Ó mar, o teu rugido é um eco incerto.  
-7) Ah! donde tiraste essa voz, majestoso oceano?  
-8) Não chores, meu filho.  
-9) Ó guerreiros, meus cantos ouvi!  
-10) Sabia-o, senhor.
-
-**14. Assinale com um (X) dentro dos parênteses as orações que atendem à concordância verbal da língua exemplar:**
-
-1) () Vivam os campeões!  
-2) () Salve os heróis da pátria!  
-3) () Viva o rei!  
-4) () Viva os mestres!  
-5) () Salve os sábios!  
-6) () Vivam os patriotas!  
-7) () Viva as musas!  
-8) () Salve os poetas!
-
-<a id="parte-2-as-unidades-do-enunciado-formas-e-empregos-pdf118-071"></a>
 ## Parte 2. As unidades do enunciado: formas e empregos
 
-Advérbio
-
-**CAPÍTULO 11**
-
-Preposição
-
-**CAPÍTULO 12**
-
-Conjunção
-
-**CAPÍTULO 13**
-
-Interjeição
-
-<a id="capitulo-4-substantivo-pdf120-072"></a>
 ### Capítulo 4. Substantivo
 
-<a id="substantivo-pdf120-073"></a>
 #### Substantivo
 
-É a classe de palavra que se caracteriza por significar o que convencionalmente chamamos objetos substantivos, isto é, em primeiro lugar, substâncias (homem, casa, livro) e, em segundo lugar, quaisquer outros objetos mentalmente apreendidos como substâncias, quais sejam qualidades (bondade, brancura), estados (saúde, doença), processos (chegada, entrega, aceitação). Qualquer palavra tomada materialmente pode substantivar-se (o se, o de, o não, o porquê) e estará sujeita às regras de flexão e derivação dos substantivos (os ses, os des, os nãos, os sins, os porquês). Casos especiais serão tratados mais adiante. (➚115)
+É a classe de palavra que se caracteriza por significar o que convencionalmente chamamos *objetos substantivos*, isto é, em primeiro lugar, substâncias (*homem*, *casa*, *livro*) e, em segundo lugar, quaisquer outros objetos mentalmente apreendidos como substâncias, quais sejam qualidades (*bondade*, *brancura*), estados (*saúde*, *doença*), processos (*chegada*, *entrega*, *aceitação*). Qualquer palavra tomada materialmente pode substantivar-se (o *se*, o *de*, o *não*, o *porquê*) e estará sujeita às regras de flexão e derivação dos substantivos (os *ses*, os *des*, os *nãos*, os *sins*, os *porquês*). Casos especiais serão tratados mais adiante. (➚115)
 
-<a id="concretos-e-abstratos-pdf120-074"></a>
 #### Concretos e abstratos
 
-A tradição gramatical divide os substantivos em concretos e abstratos. Os concretos são próprios e comuns.
+A tradição gramatical divide os substantivos em *concretos* e *abstratos*. Os concretos são própr*ios e *comuns*.
 
-Substantivo concreto é o que designa ser de existência independente: casa, mar, sol, automóvel, filho, mãe.
+**Substantivo concreto** é o que designa ser de existência independente: *casa*, *mar*, *sol*, *automóvel*, *filho*, *mãe*.
 
-Substantivo abstrato é o que designa ser de existência dependente: prazer, beijo, trabalho, saída, beleza, cansaço, cuja existência depende de pessoa ou coisa que dê ou apresente prazer, beijo, trabalho, e assim por diante.
+**Substantivo abstrato** é o que designa ser de existência dependente: *prazer*, *beijo*, *trabalho*, *saída*, *beleza*, *cansaço*, cuja existência depende de pessoa ou coisa que dê ou apresente prazer, beijo, trabalho, e assim por diante.
 
 Os substantivos concretos nomeiam pessoas, lugares, animais, vegetais, minerais e coisas.
 
-Os substantivos abstratos designam ação (beijo, trabalho, saída), estado (cansaço, doença, felicidade) e qualidade (prazer, beleza), considerados fora dos seres, como se tivessem existência individual.
+Os substantivos abstratos designam ação (*beijo*, *trabalho*, *saída*), estado (*cansaço*, *doença*, *felicidade*) e qualidade (*prazer*, *beleza*), considerados fora dos seres, como se tivessem existência individual.
 
-É muito frequente o emprego de substantivos abstratos como concretos quando aplicados a nomes de coisas relacionadas com o ato ou qualidade que designam. Quando dizemos que o país precisa de inteligências, facilmente percebemos que o substantivo abstrato está usado concretamente, para designar as pessoas inteligentes. Usa-se muito a figura da alegoria para personificar ações ou qualidades. Está-se usando de alegoria quando se diz que A Fortuna bate à sua porta ou que A Justiça é cega.
+É muito frequente o emprego de substantivos abstratos como concretos quando aplicados a nomes de coisas relacionadas com o ato ou qualidade que designam. Quando dizemos que o país precisa de *inteligências*, facilmente percebemos que o substantivo abstrato está usado concretamente, para designar as pessoas inteligentes. Usa-se muito a figura da alegoria para personificar ações ou qualidades. Está-se usando de *alegoria* quando se diz que *A Fortuna bate à sua porta* ou que *A Justiça é cega*.
 
-<a id="proprios-e-comuns-pdf121-075"></a>
 #### Próprios e comuns
 
-Dividem-se os substantivos em próprios e comuns, divisão que pertence a planos diferentes.
+Dividem-se os substantivos em *próprios* e *comuns*, divisão que pertence a planos diferentes.
 
-Substantivo próprio é o que se aplica a um objeto ou a um conjunto de objetos, mas sempre individualmente.
+**Substantivo próprio** é o que se aplica a um objeto ou a um conjunto de objetos, mas sempre individualmente.
 
-Por isso cada João, cada Isabel e cada Açores é uma pessoa ou ilha considerada como indivíduo inconfundível para as demais pessoas, pertencem a momentos linguísticos diferentes. Assim, o nome próprio tem um antes e um depois; um antes, por pertencer a uma classe, como os substantivos comuns (como Açores pertence à classe das ilhas), para só depois designarem individualmente um conjunto de ilhas chamadas Açores.
+Por isso cada *João*, cada *Isabel* e cada *Açores* é uma pessoa ou ilha considerada como indivíduo inconfundível para as demais pessoas, pertencem a momentos linguísticos diferentes. Assim, o nome próprio tem um *antes* e um *depois*; um *antes*, por pertencer a uma classe, como os substantivos comuns (como *Açores* pertence à classe das ilhas), para só *depois* designarem individualmente um conjunto de ilhas chamadas *Açores*.
 
-Os substantivos próprios mais importantes são os antropônimos e os topônimos. Os primeiros se aplicam às pessoas que, em geral, têm prenome (nome próprio individual) [João] e sobrenome ou apelido que situa melhor o indivíduo em função da sua proveniência geográfica [Frei Henrique de
+Os substantivos próprios mais importantes são os *antropônimos* e os *topônimos*. Os primeiros se aplicam às pessoas que, em geral, têm *prenome* (nome próprio individual) \[João\] e *sobrenome* ou *apelido* que situa melhor o indivíduo em função da sua proveniência geográfica \[Frei Henrique de *Coimbra*\], da sua profissão \[*Caeiro*\], da sua filiação (patronímico) \[*Soares*, filho de Soeiro\], de uma qualidade física ou moral \[Diogo *Cão*\], de uma circunstância de nascimento \[Neto\].
 
-Coimbra], da sua profissão [Caeiro], da sua filiação (patronímico) [Soares, filho de Soeiro], de uma qualidade física ou moral [Diogo Cão], de uma circunstância de nascimento [Neto]).
+Os topônimos se aplicam a lugares e acidentes geográficos.
 
-Os topônimos se aplicam a lugares e acidentes geográficos. Substantivo comum é o que se aplica a um ou mais objetos particulares que reúnem características comuns inerentes a dada classe: homem, mesa, livro, cachorro, lua, sol, fevereiro, segunda-feira, papa.
+**Substantivo comum** é o que se aplica a um ou mais objetos particulares que reúnem características comuns inerentes a dada classe: *homem*, *mesa*, *livro*, *cachorro*, *lua*, *sol*, *fevereiro*, *segunda-feira*, *papa*.
 
-Os cinco últimos exemplos patenteiam que há substantivos comuns que são nomes individualizados, não como os nomes próprios, mas pelo contexto extralinguístico e pelo nosso saber, que nos diz que, no contexto “natural” nosso, só há uma lua, um sol, um mês fevereiro, e um só dia da semana segunda-feira, e, no contexto “cultural”, só há um papa. Se forem escritos com maiúscula, deve-se o fato à pura convenção ortográfica, e não porque sejam nomes próprios.
+Os cinco últimos exemplos patenteiam que há substantivos comuns que são nomes individualizados, não como os nomes próprios, mas pelo contexto extralinguístico e pelo nosso saber, que nos diz que, no contexto “natural” nosso, só há uma *lua*, um *sol*, um mês *fevereiro*, e um só dia da semana *segunda-feira*, e, no contexto “cultural”, só há um *papa*. Se forem escritos com maiúscula, deve-se o fato à pura convenção ortográfica, e não porque sejam nomes próprios.
 
 **Observação:**
 
