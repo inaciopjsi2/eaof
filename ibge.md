@@ -1,4 +1,4 @@
-## Sumário
+# Sumário
 
 - [O Instituto Brasileiro de Geografia Estatística](#o-instituto-brasileiro-de-geografia-estatística)
 - [O Censo Agropecuário, Florestal e Aquícola](#o-censo-agropecuário-florestal-e-aquícola)
@@ -17,19 +17,20 @@
 
 ---
 
-## O Instituto Brasileiro de Geografia Estatística
+# O Instituto Brasileiro de Geografia Estatística
 
 O Instituto Brasileiro de Geografia e Estatística - IBGE é o órgão coordenador e produtor de informações estatísticas e geográficas.
 
 Desde o início de suas atividades, em 1936, o IBGE consolidou-se como o principal provedor de dados e informações do País. Essas informações afetam desde os preços no supermercado até a formulação de políticas públicas de saúde, transporte e educação. Assim, o trabalho do Instituto tem impacto direto na maneira como vivemos.
 
-> Retratar o Brasil com informações necessárias ao conhecimento de sua realidade e ao exercício da cidadania. Missão institucional do IBGE.
+> Retratar o Brasil com informações necessárias ao conhecimento de sua realidade e ao exercício da cidadania.
+> Missão institucional do IBGE.
 
 Missão institucional do IBGE.
 
 Produção de informações sobre a realidade vivida pela população
 
-![Figura original da página 4](<imagens/figuras_extraidas/pagina-004-figura-01.png>)
+![Missão institucional do IBGE](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-004-figura-01.png)
 
 Retratar o Brasil é como montar um quebra-cabeça gigante do País! Assim, o IBGE ajuda o Brasil a se conhecer melhor e a planejar o futuro com base em dados consistentes.
 
@@ -40,11 +41,11 @@ Para que suas atividades possam cobrir todo o território brasileiro, a institui
 
 Vinculadas à Presidência do Instituto, essas unidades são encarregadas do planejamento, da coordenação, da execução e do monitoramento das atividades técnicas e administrativas do IBGE.
 
-#### Para saber mais
+### Para saber mais
 
-Se tiver interesse em ampliar seu conhecimento sobre a história do IBGE, visite o portal do Núcleo Virtual da Rede de Memória do IBGE. Disponível no endereço: https://memoria.ibge.gov.br/
+> Se tiver interesse em ampliar seu conhecimento sobre a história do IBGE, visite o portal do Núcleo Virtual da Rede de Memória do IBGE. Disponível no endereço: https://memoria.ibge.gov.br/
 
-## O Censo Agropecuário, Florestal e Aquícola
+# O Censo Agropecuário, Florestal e Aquícola
 
 Uma pesquisa censitária é um levantamento de dados estatísticos que coleta os dados de toda a população de um determinado universo que se quer investigar. No caso do Censo Agropecuário, Florestal e Aquícola, será investigado o universo dos estabelecimentos agropecuários.
 
@@ -56,7 +57,7 @@ Com as informações obtidas pelos censos, o governo consegue:
 
 O Censo Agropecuário, Florestal e Aquícola é a principal e mais completa investigação estatística sobre a estrutura e a produção agropecuária do País, representando importante atribuição do Instituto Brasileiro de Geografia e Estatística.
 
-### Trabalhando conceitos
+## Trabalhando conceitos
 
 O Censo Agropecuário, Florestal e Aquícola será realizado em todos os estabelecimentos agropecuários situados no território nacional. Este tipo de estabelecimento abrange toda unidade de produção ou exploração dedicada, total ou parcialmente, a atividades agropecuárias, florestais e aquícolas. Independentemente de seu tamanho, de sua forma jurídica ou de estar na área rural ou urbana, todo estabelecimento agropecuário tem como objetivo a produção, seja para venda (comercialização da produção) ou para subsistência (sustento do produtor ou de sua família).
 
@@ -74,11 +75,11 @@ Relativo às atividades de cultivo, manejo ou exploração de florestas e matas,
 
 Relativo à criação e à multiplicação de plantas e animais, cujo ciclo de vida em condições naturais se dá total ou parcialmente em meio aquático.
 
-#### Para saber mais
+### Para saber mais
 
-Conheça os resultados do Censo Agropecuário 2017 no Portal do IBGE. Disponível no endereço: https://censoagro2017.ibge.gov.br/resultados-censo-agro-2017
+> Conheça os resultados do Censo Agropecuário 2017 no Portal do IBGE. Disponível no endereço: https://censoagro2017.ibge.gov.br/resultados-censo-agro-2017
 
-## O 12º Censo Agropecuário, Florestal e Aquícola
+# O 12º Censo Agropecuário, Florestal e Aquícola
 
 O Brasil realizou o seu primeiro Censo Agropecuário em 1920 e, em 1936, foi fundado o IBGE, que passou a ser o responsável pela realização dos Censos do País.
 
@@ -94,13 +95,13 @@ O Censo Agropecuário, Florestal e Aquícola realiza sua coleta de dados com o u
 
 A unidade de investigação do último Censo Agropecuário, realizado em 2017, compreendeu toda unidade de produção dedicada, total ou parcialmente, à exploração agropecuária, florestal e aquícola, independentemente de seu tamanho. O questionário eletrônico foi preenchido para cada um dos mais de 5 milhões de estabelecimentos agropecuários visitados, sendo estruturado de modo a permitir maior detalhamento para questões referentes aos efetivos e à produção, ao território, aos produtores e à produção.
 
-### Objetivo do Censo Agropecuário, Florestal e Aquícola
+## Objetivo do Censo Agropecuário, Florestal e Aquícola
 
 O Censo Agropecuário, Florestal e Aquícola tem como objetivo levantar informações sobre todos os estabelecimentos agropecuários situados no território nacional.
 
 A coleta será realizada em 2027, tendo como referência os dados do ano 2026. Com isso, busca-se conhecer a estrutura, a dinâmica e o tipo de produção da atividade agropecuária brasileira, bem como as ações decorrentes dessa atividade sobre o meio ambiente.
 
-Dentro deste objetivo, espera-se:
+### Dentro deste objetivo, espera-se:
 
 - Produzir informações atualizadas sobre a produção agropecuária, florestal e aquícola no Brasil, possibilitando a identificação das transformações ao longo do tempo por meio da comparação com os Censos Agropecuários anteriores.
 - Oferecer informações estratificadas segundo as diferentes tipologias presentes no universo agropecuário (agricultura familiar, médio produtor, agricultura patronal agricultura e pecuária de povos e comunidades tradicionais etc.)
@@ -123,9 +124,9 @@ Elas permitem, ainda, estudos a respeito da expansão das fronteiras agrícolas,
 
 #### Pronaf
 
-Fomenta o desenvolvimento sustentável do meio rural por meio de ações que ampliam a capacidade produtiva, promove a geração de empregos e aumentam a renda, com o objetivo de melhorar a qualidade de vida e fortalecer o exercício da cidadania dos agricultores familiares.
+> Fomenta o desenvolvimento sustentável do meio rural por meio de ações que ampliam a capacidade produtiva, promove a geração de empregos e aumentam a renda, com o objetivo de melhorar a qualidade de vida e fortalecer o exercício da cidadania dos agricultores familiares.
 
-## Estrutura Organizacional Censitária
+# Estrutura Organizacional Censitária
 
 A realização de um censo constitui uma grande operação estatística, mobilizando milhares de pessoas desde a fase de planejamento até a divulgação de resultados.
 
@@ -135,56 +136,33 @@ Em 2027, para o 12º Censo Agropecuário, serão contratados cerca de 36 mil pro
 
 A seguir, você conhecerá a estrutura organizacional envolvida nessa grande operação e entenderá como cada parte do IBGE atua em conjunto para produzir informações que contribuem para o conhecimento e o desenvolvimento do Brasil.
 
-### Conhecendo a Estrutura Censitária
+## Conhecendo a Estrutura Censitária
 
 A estrutura organizacional censitária do 12º Censo Agropecuário, Florestal e Aquícola divide-se em duas:
 
 - Estrutura permanente;
 - Estrutura temporária.
 
-### Estrutura permanente
+## Estrutura permanente
 
 É distribuída na Sede, onde encontram-se as diretorias e coordenações-gerais, e, em Superintendências Estaduais (SES), ambas ligadas diretamente à presidência do IBGE.
 
-Estrutura Censitária Simplificada
+![Estrutura Censitária Simplificada](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-012-figura-01.png)
 
-#### Estrutura Censitária Simplificada
 
-- Presidência
-  - Diretoria de Geociências (DGC)
-  - Diretoria de Pesquisas (DPE)
-    - Coordenação de Estatísticas Agropecuárias (COAGRO)
-      - Centro Nacional de Qualidade (CNQ) - quadro temporário de servidores
-  - Superintendências Estaduais (SES)
-    - Centro Estadual de Qualidade (CEQ) - quadro temporário de servidores
-    - Postos Censitários - quadro temporário de servidores
+## Estrutura temporária
 
-### Estrutura temporária
-
-#### Centro Nacional de Qualidade (CNQ)
+### Centro Nacional de Qualidade (CNQ)
 
 O Centro Nacional de Qualidade (CNQ) é vinculado à Sede e tem como responsabilidade monitorar a qualidade dos dados coletados no Censo Agropecuário. A equipe orienta o trabalho dos Centros Estaduais de Qualidade (CEQ) contribuindo com uma visão da coleta à nível nacional e é composta por servidores temporários: Analistas Censitários Nacionais e Agentes Censitários de Qualidade.
-
-![Organograma da estrutura censitária simplificada - página original 12](<imagens/paginas_referencia/pagina-012.jpg>)
 
 #### Centro Estadual de Qualidade (CEQ)
 
 O Centro Estadual de Qualidade (CEQ) é vinculado às Superintendências Estaduais (SES) e é responsável, em nível estadual, pelo monitoramento da qualidade dos dados coletados no Censo Agropecuário.
 
-Estrutura Censitária Simplificada — Estrutura temporária: CNQ e CEQ
+![Estrutura Censitária Simplificada — Estrutura temporária: CNQ e CEQ](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-013-figura-01.png)
 
-#### Estrutura temporária: CNQ e CEQ
-
-- Centro Nacional de Qualidade (CNQ)
-  - Equipes técnicas da Sede
-  - Analistas Censitários Nacionais
-  - Agentes Censitários de Qualidade
-- Centro Estadual de Qualidade (CEQ)
-  - Superintendências Estaduais (SES)
-  - Analistas Censitários Estaduais
-  - Agentes Censitários de Qualidade Estaduais
-
-#### Postos censitários
+### Postos censitários
 
 Vinculado às Superintendências Estaduais e Agências, os Postos censitários são unidades de apoio para a realização do Censo Agropecuário, funcionando como base operacional para a equipe de supervisão e Recenseadores. Atendem a um município ou a conjunto de municípios. Sua equipe é composta pelos seguintes servidores temporários:
 
@@ -195,19 +173,7 @@ Vinculado às Superintendências Estaduais e Agências, os Postos censitários s
 - Agente Censitário Supervisor (ACS);
 - Recenseador.
 
-![Organograma do CNQ e do CEQ - página original 13](<imagens/paginas_referencia/pagina-013.jpg>)
-
-#### Estrutura temporária dos Postos censitários
-
-- Superintendências Estaduais (SES) e Agências
-  - Agente Censitário de Informática (ACI)
-  - Assistente Operacional Regional (AOR)
-    - Agente Censitário Regional (ACR)
-      - Agente Censitário Supervisor (ACS)
-        - Recenseador
-  - Agente Censitário Administrativo (ACA)
-
-Estrutura Censitária Simplificada — Estrutura temporária: Postos censitários
+![Estrutura Censitária Simplificada — Estrutura temporária: Postos censitários](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-014-figura-01.png)
 
 A seguir, conheça brevemente as funções desempenhadas pelos servidores temporários que atuam nos diferentes níveis da estrutura censitária temporária do Censo.
 
@@ -218,8 +184,6 @@ Servidor com nível superior de ensino em atividades relacionadas à pesquisa e 
 **Agente Censitário de Qualidade Nacional (ACQ):**
 
 Responsável por supervisionar a qualidade dos dados coletados em campo, em âmbito nacional.
-
-![Organograma dos Postos censitários - página original 14](<imagens/paginas_referencia/pagina-014.jpg>)
 
 **Analista Censitário Estadual:**
 
@@ -257,7 +221,7 @@ Além das tarefas específicas, todo agente censitário deverá ministrar treina
 
 A seguir, serão abordadas as principais responsabilidades dos cargos com maior número de contratações no Censo Agropecuário, Florestal e Aquícola: Agente Censitário Regional (ACR), Agente Censitário Supervisor (ACS) e Recenseador. O objetivo é destacar a importância de cada função para a organização e a execução do trabalho de coleta.
 
-### Agente Censitário Regional
+## Agente Censitário Regional
 
 É o responsável por coordenar todas as atividades censitárias no âmbito do seu posto, obedecendo às instruções técnicas estabelecidas nos manuais e normas vigentes.
 
@@ -272,11 +236,9 @@ Entre suas atribuições estão:
 - Apoiar tecnicamente os Agentes Censitários Supervisores (ACS);
 - Zelar pela qualidade, confidencialidade e integridade dos dados coletados.
 
-Agentes do IBGE reunídos em um posto censitário
+![Agentes do IBGE reunídos em um posto censitário](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-016-figura-01.png)
 
-![Figura original da página 16](<imagens/figuras_extraidas/pagina-016-figura-01.png>)
-
-### Agente Censitário Supervisor
+## Agente Censitário Supervisor
 
 É responsável por supervisionar o trabalho dos Recenseadores e ministrar-lhes o treinamento, além de zelar pelo bom desempenho da equipe, pela cobertura territorial da operação e pelo cumprimento dos prazos.
 
@@ -292,13 +254,11 @@ Entre suas atribuições estão:
 - Gerenciar as solicitações do Centro Estadual de Qualidade (CEQ);
 - Executar diferentes tipos de coleta conforme solicitado pelo IBGE.
 
-Agentes do IBGE em campo
+![Agentes do IBGE em campo](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-017-figura-01.png)
 
-### Recenseador
+## Recenseador
 
 É o responsável por realizar a coleta regular das informações, de modo presencial, em rotas diárias determinadas, sob a supervisão de um ACS, seguindo as orientações do IBGE.
-
-![Figura original da página 17](<imagens/figuras_extraidas/pagina-017-figura-01.png>)
 
 O Recenseador receberá do ACS as informações, o material necessário e seus instrumentos de trabalho, assim como lhe prestará orientação técnica e assistência permanente durante o período de realização da coleta de dados. É ao ACS que o Recenseador deve se reportar sempre que encontrar alguma dificuldade ou dúvida.
 
@@ -316,23 +276,19 @@ Entre suas atribuições estão:
 
 Durante seu trabalho de coleta de dados, o Recenseador ficará lotado em um local físico sob responsabilidade do IBGE, chamado Posto censitário.
 
-Recenseador realizando entrevista
+![Recenseador realizando entrevista](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-018-figura-01.png)
 
-![Figura original da página 18](<imagens/figuras_extraidas/pagina-018-figura-01.png>)
-
-### Posto censitário
+## Posto censitário
 
 É o local de trabalho criado temporariamente pelo IBGE para dar suporte à operação censitária. Nele, reúne-se a equipe encarregada do gerenciamento, da supervisão e da coleta de dados de uma determinada área.
 
 Sempre que requisitado, o Recenseador deverá comparecer ao Posto censitário para que o supervisor possa avaliar seu trabalho e corrigir possíveis falhas. Caso a supervisão indique a necessidade de corrigir algum dado coletado, o Recenseador deverá retornar a campo.
 
-Resumidamente, o trabalho do Recenseador consiste em percorrer a área territorial sob sua responsabilidade registrando todos os estabelecimentos agropecuários de forma correta e realizando as entrevistas com os responsáveis por estes estabelecimentos.
+> Resumidamente, o trabalho do Recenseador consiste em percorrer a área territorial sob sua responsabilidade registrando todos os estabelecimentos agropecuários de forma correta e realizando as entrevistas com os responsáveis por estes estabelecimentos.
 
-Posto censitário
+![Posto censitário](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-019-figura-01.png)
 
-![Figura original da página 19](<imagens/figuras_extraidas/pagina-019-figura-01.png>)
-
-## Instrumentos de trabalho
+# Instrumentos de trabalho
 
 Para realizar a coleta de dados, o Recenseador contará com instrumentos de trabalho que auxiliam na localização do setor, no planejamento do deslocamento e no registro das informações coletadas em campo.
 
@@ -340,15 +296,15 @@ A área de trabalho pela qual o Recenseador é responsável é chamada de setor 
 
 Durante a coleta, o Recenseador terá à disposição os seguintes instrumentos:
 
-#### 1. Mapa do Setor Censitário
+## 1. Mapa do Setor Censitário
 
 O Mapa do Setor Censitário é uma representação gráfica da área geográfica a ser recenseada. Por fins práticos, costuma retratar também outros elementos que facilitam o reconhecimento do setor em campo. Em seu verso, consta a descrição dos seus limites.
 
-#### 2. Descritivo do setor
+## 2. Descritivo do setor
 
 É um texto com informações que definem todo o contorno do setor que o recenseador trabalhará. Esse material orienta o reconhecimento dos limites da área de coleta e deve ser consultado sempre que houver necessidade de confirmar o perímetro do setor.
 
-#### 3. Mapa Municipal Estatístico (MME)
+## 3. Mapa Municipal Estatístico (MME)
 
 No posto de coleta também estará fixado o Mapa Municipal Estatístico (MME) que deverá ser utilizado para planejar a chegada ao setor. O Mapa Municipal Estatístico (MME) traz a visão geral de todos os setores censitários do município e suas vias de acesso.
 
@@ -356,19 +312,19 @@ Esse mapa ficará fixado no posto de coleta e deverá ser consultado para que o 
 
 > **Nota 1.** O Setor Censitário é a área de trabalho do recenseador. Com limites definidos, identifica os estabelecimentos agropecuários sob a responsabilidade de cada agente de coleta. Observar os limites do setor e garantir que ele será totalmente percorrido é responsabilidade do Recenseador, com a ajuda do seu Agente Censitário Supervisor.
 
-#### 4. Dispositivo Móvel de Coleta (DMC)
+## 4. Dispositivo Móvel de Coleta (DMC)
 
 O Dispositivo Móvel de Coleta (DMC) é um tablet utilizado para o registro e o armazenamento das informações coletadas em campo.
 
 No DMC, o Recenseador poderá acessar:
 
-#### Mapa do Setor Censitário digital:
+### Mapa do Setor Censitário digital:
 
 Exibido no DMC por meio de uma imagem obtida por satélites, que apresenta a área do setor e as áreas ao seu redor.
 
 Nesse mapa, os limites do setor censitário são destacados com uma cor adequada, permitindo diferenciá-lo das demais áreas. Esse recurso auxilia o Recenseador na localização, na orientação em campo e no reconhecimento da área sob sua responsabilidade.
 
-#### Lista de Endereços:
+### Lista de Endereços:
 
 Composta por endereços de estabelecimentos agropecuários trabalhados no setor censitário em pesquisas anteriores, enriquecida por informações provenientes de registros administrativos. Por esse motivo, também é chamada de lista prévia.
 
@@ -380,7 +336,7 @@ Para atualizar a lista prévia de endereços, o Recenseador deverá:
 - incluir novos endereços de estabelecimentos agropecuários encontrados;
 - excluir os endereços que não forem encontrados em campo.
 
-#### Questionários:
+### Questionários:
 
 É o instrumento utilizado para registrar as informações sobre os estabelecimentos agropecuários.
 
@@ -395,7 +351,7 @@ Entre os quesitos do questionário, estão:
 
 O correto preenchimento do questionário é essencial para garantir a qualidade das informações coletadas e a fidelidade dos dados produzidos pelo Censo Agropecuário.
 
-#### 5. Manual do Recenseador
+## 5. Manual do Recenseador
 
 O Manual do Recenseador reúne as orientações necessárias para compreender conceitos, aplicar procedimentos e utilizar os sistemas relevantes para o trabalho de coleta.
 
@@ -403,7 +359,7 @@ Ele será utilizado durante o treinamento e também servirá como fonte de consu
 
 Além do Manual do Recenseador, outros materiais e recursos instrucionais poderão ser disponibilizados como apoio ao trabalho, contribuindo para garantir maior qualidade na coleta de dados.
 
-## Orientações de navegação para o trabalho em campo
+# Orientações de navegação para o trabalho em campo
 
 Ao iniciar o trabalho de coleta, o Recenseador receberá o Mapa do Setor Censitário e o Descritivo do Setor, que apresenta a descrição textual do perímetro da sua área de atuação. Esses instrumentos são fundamentais para orientar o deslocamento em campo e auxiliar na identificação correta dos limites do setor.
 
@@ -413,9 +369,9 @@ Durante todo o trabalho de campo, o Recenseador deve utilizar o mapa do setor e 
 
 Antes de interpretar o mapa, é importante conhecer alguns conceitos e elementos básicos que auxiliam sua leitura e utilização, como legenda, escala, imagem de satélite e descritivo do setor. Esses elementos ajudam o Recenseador a compreender melhor o território, localizar acessos e identificar referências importantes para a cobertura completa do setor censitário.
 
-### Elementos do mapa
+## Elementos do mapa
 
-#### Legenda
+### Legenda
 
 Apresenta símbolos ou referências a elementos que serão encontrados no mapa por meio de cores e estilos de representação gráfica.
 
@@ -423,15 +379,15 @@ Ela permite identificar os diferentes elementos representados, como estradas, ri
 
 > Nunca interprete um símbolo no mapa sem antes consultar a legenda.
 
-#### Escala
+![Legenda](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-024-figura-02.png)
+
+### Escala
 
 É a relação de proporção entre a distância representada no mapa e a distância real no terreno.
 
 Por exemplo: Isso significa que: Escala 1:50.000 1 cm no mapa corresponde a 50.000 cm na realidade (500 m).
 
-![Figura original da página 24](<imagens/figuras_extraidas/pagina-024-figura-01.png>)
-
-![Figura original da página 24](<imagens/figuras_extraidas/pagina-024-figura-02.png>)
+![Escala](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-024-figura-01.png)
 
 Exemplo prático: Imagine que a distância entre dois pontos no mapa seja de 3 cm.
 
@@ -447,13 +403,15 @@ Ou seja, não está “logo ali”. Trata-se de um deslocamento que pode levar c
 
 Outra forma rápida de usar a escala gráfica é medir a distância com os dedos (polegar e indicador) diretamente na escala e transferir essa mesma medida para o trecho que deseja medir. Assim, é possível estimar a distância em metros entre dois pontos.
 
-![Figura original da página 25](<imagens/figuras_extraidas/pagina-025-figura-01.png>)
+![Escala com indicador e polegar](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-025-figura-01.png)
 
 > Antes de sair para o trabalho de campo, observe sempre a escala do mapa para planejar o seu deslocamento. Isso será muito útil para calcular distancias a serem percorridas, principalmente nos deslocamentos a pé em setores rurais.
 
-#### Imagem de satélite ou orbital
+### Imagem de satélite ou orbital
 
 É a imagem real do terreno vista de cima. Ajuda a reconhecer elementos do terreno, como rios, estradas, plantações, galpões e áreas de vegetação. Comparar constantemente o que aparece na imagem com o que é observado no campo ajuda na orientação em campo.
+
+![Escala com indicador e polegar](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-026-figura-01.png)
 
 #### Como interpretar imagens de satélite
 
@@ -467,33 +425,28 @@ Alguns elementos possuem formas características. Por exemplo, rotatórias são 
 
 Grandes construções ou galpões possuem dimensões maiores que casas ou árvores;
 
-![Figura original da página 26](<imagens/figuras_extraidas/pagina-026-figura-01.png>)
-
 **Localização**
 
 Observe a relação entre os elementos. Estradas podem acompanhar rios ou ligar diferentes propriedades
 
-**Cores Algumas cores ajudam na identificação dos elementos. Pastagem:**
-
-tons de verde; telhados nas cores vermelho, laranja, cinza ou branco.
+**Cores** 
+Algumas cores ajudam na identificação dos elementos. Pastagem: tons de verde; telhados nas cores vermelho, laranja, cinza ou branco.
 
 Em algumas situações, pode ocorrer de um endereço não estar na lista de endereços, mas ser identificado por meio da observação da imagem ou durante o trabalho em campo.
 
 Nesse caso, certifique-se de que essas novas unidades identificadas sejam devidamente visitadas e registradas no DMC.
 
-### Descritivo do setor
+## Descritivo do setor
 
 O mapa do setor é acompanhado pelo Descritivo do Setor, um texto que define detalhadamente os limites da área onde o recenseador irá atuar.
 
 Essa descrição delimita com precisão a área de trabalho do recenseador e orienta a cobertura correta do setor.
 
-Descritivo de setor rural
-
-![Figura original da página 27](<imagens/figuras_extraidas/pagina-027-figura-01.png>)
+![Descritivo de setor rural](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-027-figura-01.png)
 
 O descritivo do setor censitário é composto de cinco partes:
 
-#### 1. Ponto Inicial e Ponto Final
+### 1. Ponto Inicial e Ponto Final
 
 Indicam, de forma sucinta, a referência utilizada para iniciar e encerrar o percurso do setor.
 
@@ -501,7 +454,7 @@ O ponto inicial geralmente corresponde a um local de fácil acesso. Caso não se
 
 Nessa situação, comunique sempre o Supervisor, para que ele avalie as mudanças e oriente sobre o percurso.
 
-#### 2. Descrição do Perímetro
+### 2. Descrição do Perímetro
 
 É o texto que descreve todo o limite do setor censitário definido a partir das linhas que limitam suas bordas.
 
@@ -509,19 +462,25 @@ Esses limites são definidos por elementos facilmente identificáveis em campo, 
 
 A seguir, observe no mapa alguns exemplos de elementos utilizados para definir os limites do setor censitário.
 
-Setor censitário rural
-
-![Figura original da página 28](<imagens/figuras_extraidas/pagina-028-figura-01.png>)
+![Setor censitário rural](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-028-figura-01.png)
 
 O exemplo da figura ilustra distintas formas utilizadas para as definições dos limites do setor e que poderão ser encontradas por você:
 
-A. Os Setores Censitários rurais são frequentemente limitados por corpos hídricos (rios, córregos, riachos, igarapés, arroios, lagos, lagoas, mar etc.) e sua existência facilita a identificação do limite entre um setor que está sendo trabalhado por você e um outro que esteja sob a responsabilidade de outro Recenseador.
+a) Os Setores Censitários rurais são frequentemente limitados por corpos hídricos (rios, córregos, riachos, igarapés, arroios, lagos, lagoas, mar etc.) e sua existência facilita a identificação do limite entre um setor que está sendo trabalhado por você e um outro que esteja sob a responsabilidade de outro Recenseador.
 
-B. Outro delimitador bastante frequente são as rodovias, estradas e ferrovias, sejam elas federais, estaduais ou municipais e independentemente do tipo do pavimento (asfaltadas ou não), no caso das rodovias e estradas. Sua identificação é bastante simples e facilita a distinção entre diferentes setores censitários.
+  ![a](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-029-figura-01.png)
 
-C. Assim como as anteriores, os caminhos, ramais, acessos ou estradas secundárias também são utilizados como delimitadores de setores por permitirem uma fácil identificação em campo. Geralmente menores que as rodovias e estradas principais, estes tendem a não possuir nenhum tipo de pavimentação, por vezes demandando a utilização de veículos maiores (tracionados) ou menores (motocicletas), dependendo das condições de tráfego, para que possam ser percorridos.
+b) Outro delimitador bastante frequente são as rodovias, estradas e ferrovias, sejam elas federais, estaduais ou municipais e independentemente do tipo do pavimento (asfaltadas ou não), no caso das rodovias e estradas. Sua identificação é bastante simples e facilita a distinção entre diferentes setores censitários.
 
-D. Fora as situações já descritas, ainda é possível encontrar outra categoria de limite setorial, que são as linhas secas, retas que definem um limite, mas que não estão materializadas no terreno e podem conectar um ponto de referência visível a outro ou representar distância fixa a partir de um elemento visível no terreno (uma faixa de 10 km ao norte de um Rio).
+  ![b](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-029-figura-02.png)
+
+c) Assim como as anteriores, os caminhos, ramais, acessos ou estradas secundárias também são utilizados como delimitadores de setores por permitirem uma fácil identificação em campo. Geralmente menores que as rodovias e estradas principais, estes tendem a não possuir nenhum tipo de pavimentação, por vezes demandando a utilização de veículos maiores (tracionados) ou menores (motocicletas), dependendo das condições de tráfego, para que possam ser percorridos.
+
+  ![c](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-029-figura-03.png)
+
+d) Fora as situações já descritas, ainda é possível encontrar outra categoria de limite setorial, que são as linhas secas, retas que definem um limite, mas que não estão materializadas no terreno e podem conectar um ponto de referência visível a outro ou representar distância fixa a partir de um elemento visível no terreno (uma faixa de 10 km ao norte de um Rio).
+
+  ![d](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-029-figura-04.png)
 
 Esses elementos facilitam a identificação dos limites entre setores durante o trabalho de campo, sendo importante conhecê-los para interpretar corretamente o perímetro do setor e garantir que toda a área sob sua responsabilidade seja percorrida.
 
@@ -529,21 +488,13 @@ Sempre utilize o mapa e o descritivo do setor para confirmar os limites da sua �
 
 Por diversos motivos, como mudanças naturais na paisagem, surgimento de novas construções ou alterações legais, alguns limites podem ser difíceis de identificar em campo.
 
-![Figura original da página 29](<imagens/figuras_extraidas/pagina-029-figura-01.png>)
-
-![Figura original da página 29](<imagens/figuras_extraidas/pagina-029-figura-02.png>)
-
-![Figura original da página 29](<imagens/figuras_extraidas/pagina-029-figura-03.png>)
-
-![Figura original da página 29](<imagens/figuras_extraidas/pagina-029-figura-04.png>)
-
 Se encontrar inconsistências ou dificuldades para identificar o limite, comunique imediatamente à supervisão.
 
 A correta observação do perímetro do setor passa a ser a garantia de que você não invada a área de coleta de outro setor ou omita parte do setor com área sob sua responsabilidade.
 
 Importante lembrar que o recenseador não pode alterar o perímetro do setor em hipótese alguma.
 
-#### 3. Setores a serem excluídos
+### 3. Setores a serem excluídos
 
 Em alguns casos, podem existir outros setores localizados dentro do seu setor, como por exemplo um setor urbano dentro de uma área rural.
 
@@ -551,51 +502,49 @@ O item “Setores a serem excluídos” indica se há setores que estão contido
 
 Nesses locais, o Recenseador não deve realizar a coleta de informações, pois outro Recenseador será o responsável por isso.
 
-Setor censitário contendo setores a serem excluídos
+![Setor censitário contendo setores a serem excluídos](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-030-figura-01.png)
 
-![Figura original da página 30](<imagens/figuras_extraidas/pagina-030-figura-01.png>)
-
-#### 4. Estruturas territoriais não setorizadas
+### 4. Estruturas territoriais não setorizadas
 
 Dentro do setor censitário do Recenseador, podem existir agrupamentos humanos, como aglomerados rurais e localidades indígenas, que não foram separados especificamente em um setor censitário destacado por não conter a quantidade mínima de domicílios para formar um setor.
 
 Nesse caso, esses aglomerados devem ser recenseados normalmente no setor, mas exigindo uma atenção especial quanto ao acesso e à abordagem.
 
-#### 5. Acessibilidade e Observações
+### 5. Acessibilidade e Observações
 
 Este item indica o registro de informações sobre o acesso e o percurso dos setores.
 
 Por exemplo:
 
-RESTRIÇÃO DE ACESSO: ACESSO FLUVIAL A PARTIR DO POLO BASE DO “BAIXO CATRIMANI”
+> RESTRIÇÃO DE ACESSO: ACESSO FLUVIAL A PARTIR DO POLO BASE DO “BAIXO CATRIMANI”
 
 Isso indica que o acesso ao setor é feito por um rio, ou seja, pode haver a necessidade do uso de uma embarcação e o tempo de deslocamento será maior.
 
 Situações assim exigem planejamento logístico prévio junto à supervisão.
 
-## Divisão político-administrativa do Brasil
+# Divisão político-administrativa do Brasil
 
 Para entender adequadamente a operação do Censo Agropecuário, é necessário que você conheça a geografia que serve de referência aos levantamentos estatísticos, ou seja, as divisões do País.
 
 O Brasil está dividido, em seu aspecto político-administrativo, nas seguintes unidades territoriais:
 
-#### Unidades da Federação (UFs)
+### Unidades da Federação (UFs)
 
 São os 26 estados, o Distrito Federal e os municípios.
 
-#### Estados
+### Estados
 
 São as unidades federativas autônomas de maior abrangência territorial na organização político-administrativa do Brasil, enquanto o Distrito Federal é a UF (Unidade Federativa) brasileira onde se localiza a sede do Governo Federal.
 
-#### Municípios
+### Municípios
 
 São unidades federativas autônomas de caráter local que dividem integralmente os estados em áreas menores, criados, incorporados, fundidos ou desmembrados por lei estadual. Ao total, são 5.569 os municípios brasileiros.
 
-#### Distritos
+### Distritos
 
 Dividem integralmente os municípios em áreas menores. São criados por legislação municipal para organizar a administração e o planejamento do território. Os distritos não possuem autonomia administrativa, pois estão subordinados ao governo municipal. Há municípios que possuem apenas um distrito (distrito único) e outros cujo território é subdividido em vários distritos.
 
-#### Subdistritos
+### Subdistritos
 
 Geralmente, são estabelecidos apenas nas grandes cidades para subdividir distritos de grande população ou extensão. Existem aproximadamente 645 subdistritos no Brasil, a maior parte dos municípios brasileiros não possui subdistritos.
 
@@ -603,7 +552,7 @@ A figura a seguir apresenta essas unidades e o número de cada uma delas no paí
 
 Para estudos estatísticos, o IBGE subdivide as áreas em unidades ainda menores, chamadas de setor censitário.
 
-Divisão político-administrativa do Brasil
+![Divisão político-administrativa do Brasil](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-033-figura-01.png)
 
 #### Unidades político-administrativas e estatísticas apresentadas na figura
 
@@ -617,17 +566,15 @@ Divisão político-administrativa do Brasil
 | Subdistritos | 645 |
 | Setores censitários | Unidade territorial de coleta |
 
-### Setor censitário
+## Setor censitário
 
 A extensão territorial e o número de estabelecimentos agropecuários do setor censitário influenciam na carga de trabalho do Recenseador. Por isso, os setores são planejados para que possuam dimensões adequadas ao trabalho das pesquisas do IBGE, além de respeitarem a divisão político-administrativa brasileira.
 
 A imagem a seguir exemplifica um setor censitário, com seus limites assinalados em cor branca, delimitando a área de coleta. Isto é, não devem ser realizados registros de endereços de estabelecimentos agropecuários e entrevistas fora da área no qual o Recenseador foi designado.
 
-![Figura original da página 33](<imagens/figuras_extraidas/pagina-033-figura-01.png>)
+![Setor rural de ocupação dispersa](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-034-figura-02.png)
 
-Setor rural de ocupação dispersa
-
-#### Geocódigo do Setor Censitário
+### Geocódigo do Setor Censitário
 
 Todos os setores censitários recebem um geocódigo, que é o código usado para identificá-los de forma única. Esse código reúne informações como Unidade da Federação, município, distrito, subdistrito e número do setor.
 
@@ -641,17 +588,13 @@ Geocódigo
 
 Além de constar no título e rodapé dos mapas, essa numeração também aparece no canto superior direito do Descritivo do Setor.
 
-![Figura original da página 34](<imagens/figuras_extraidas/pagina-034-figura-01.png>)
-
-![Figura original da página 34](<imagens/figuras_extraidas/pagina-034-figura-02.png>)
-
-## Estruturas Territoriais
+# Estruturas Territoriais
 
 O trabalho de coleta do Censo Agropecuário ocorrerá principalmente em setores censitários com características rurais.
 
-Propriedade rural
+![Propriedade rural](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-035-figura-01.png)
 
-Os setores são classificados por dois códigos: situação e tipo. A situação está associada à classificação dos setores entre urbanos e rurais, segundo suas formas de ocupação do espaço geográfico. O tipo está associado a características específicas do território, considerando eventuais restrições de acesso e/ou procedimentos diferenciados em campo, categorizando suas especificidades.
+Os setores são classificados por dois códigos: **situação** e **tipo**. A situação está associada à classificação dos setores entre urbanos e rurais, segundo suas formas de ocupação do espaço geográfico. O tipo está associado a características específicas do território, considerando eventuais restrições de acesso e/ou procedimentos diferenciados em campo, categorizando suas especificidades.
 
 Os setores mais trabalhados são:
 
@@ -663,8 +606,6 @@ Em algumas realidades, podem existir estabelecimentos agropecuários também em 
 
 O quadro a seguir indica resumidamente as classificações dos setores censitários em situações rurais e urbanas:
 
-![Figura original da página 35](<imagens/figuras_extraidas/pagina-035-figura-01.png>)
-
 | Categoria | Classificações | Definições |
 |---|---|---|
 | Área rural | Aglomerado rural | Caracteriza-se pelo caráter aglomerado de domicílios, normalmente distantes entre si não mais que 50 m, e separados da franja das cidades e vilas por mais de 1 km, com exceção dos núcleos urbanos. |
@@ -675,7 +616,7 @@ O quadro a seguir indica resumidamente as classificações dos setores censitár
 
 Os setores também podem ser classificados como massa d'água. Elas são grandes porções de água interiores ou costeiras que, embora não sejam áreas de coleta, podem interferir na sua operação.
 
-### Tipos de setores censitários
+## Tipos de setores censitários
 
 Os tipos são categorias especiais de setores censitários que, em geral, exigem uma pré-abordagem específica com um informante ou responsável pelo local.
 
@@ -683,43 +624,41 @@ Esses tipos se encaixam dentro da classificação que o IBGE faz dos setores cen
 
 Estes setores só serão visitados no Censo Agropecuário se tiverem produção agropecuária, florestal ou aquícola.
 
-![Tabela de classificação dos setores censitários - página original 36](<imagens/paginas_referencia/pagina-036.jpg>)
-
 A seguir, são apresentados os principais tipos de setores censitários.
 
-#### a) Não especial
+### a) Não especial
 
 Setor censitário que não se enquadra em nenhuma outra classificação em tipo.
 
-#### b) Quartel e Base Militar:
+### b) Quartel e Base Militar:
 
 Setor censitário de instalação administrada por um comando das forças armadas, assim considerado caso a instalação possua pelo menos 50 habitantes permanentes residindo há mais de um ano no local.
 
-#### c) Alojamento/Acampamento:
+### c) Alojamento/Acampamento:
 
 O alojamento é um domicílio coletivo geralmente vinculado a alguma instituição, como universidades ou empresas, destinado a oferecer moradia por período temporário.
 
 O acampamento é entendido como instalação improvisada composta normalmente por barracas, tendas ou outras estruturas rústicas. Devem possuir no mínimo 50 habitantes residindo há mais de um ano.
 
-#### d) Setor com Baixo Patamar Domiciliar:
+### d) Setor com Baixo Patamar Domiciliar:
 
 Setor censitário que abrange baixa quantidade de domicílios, ou onde não foi identificada a presença de domicílios.
 
-#### e) Agrupamento Indígena:
+### e) Agrupamento Indígena:
 
 Setor censitário composto por 15 ou mais indivíduos indígenas residentes em uma ou mais moradias contíguas espacialmente e por vínculos familiares ou comunitários.
 
-#### f) Unidade prisional:
+### f) Unidade prisional:
 
 Setor censitário relacionado às unidades prisionais que abrigam mais de 50 presos permanentes.
 
-#### g) Convento / Hospital / ILPI / IACA:
+### g) Convento / Hospital / ILPI / IACA:
 
 É o setor censitário dos domicílios coletivos relacionados ao acolhimento de crianças ou idosos, aos conventos e aos hospitais que contenham, cada um, mais de 50 habitantes permanentes residindo há mais de um ano no local.
 
-Os termos asilo e orfanato, embora ainda sejam de uso popular, deixaram de ser adotados pelas instituições e políticas públicas. Foram substituídos, respectivamente, por Instituição de Longa Permanência para Idosos (ILPI) e Instituição de Acolhimento de Crianças e Adolescentes (IACA).
+> Os termos asilo e orfanato, embora ainda sejam de uso popular, deixaram de ser adotados pelas instituições e políticas públicas. Foram substituídos, respectivamente, por Instituição de Longa Permanência para Idosos (ILPI) e Instituição de Acolhimento de Crianças e Adolescentes (IACA).
 
-#### h) Agrovila:
+### h) Agrovila:
 
 Setor censitário com mais de 50 domicílios que se encontram associados a Projetos de Assentamento.
 
@@ -727,19 +666,19 @@ São localidades de habitação e produção agrícola, caracterizadas pelo aden
 
 São setores censitários muito importantes para o Censo Agro, com concentração de estabelecimentos agropecuários.
 
-#### i) Agrupamento Quilombola:
+### i) Agrupamento Quilombola:
 
 Setor censitário composto por 15 ou mais indivíduos autodeclarados quilombolas residentes em uma ou mais moradias contíguas espacialmente e por vínculos familiares ou comunitários.
 
-## Estruturas territoriais de Povos e Comunidades Tradicionais (PCTs)
+# Estruturas territoriais de Povos e Comunidades Tradicionais (PCTs)
 
 O IBGE também realiza censos e pesquisas em Terras Indígenas, Territórios Quilombolas e outras áreas habitadas por povos e comunidades tradicionais.
 
-Crianças indígenas
+![Crianças indígenas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-039-figura-01.png)
 
 Os Povos e Comunidades Tradicionais são grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição.
 
-### Setores censitários de Povos e Comunidades Tradicionais (PCTs)
+## Setores censitários de Povos e Comunidades Tradicionais (PCTs)
 
 O Brasil possui grande diversidade de povos e comunidades tradicionais. Entre eles, podemos citar:
 
@@ -748,9 +687,6 @@ O Brasil possui grande diversidade de povos e comunidades tradicionais. Entre el
 - Povos Ciganos
 - Pescadores Artesanais
 - Extrativistas (Raizeiros, Quebradeiras de Coco-de-babaçu, Apanhadores de flores Sempre-vivas, Catadores de Mangaba, Cipozeiros, Andirobeiras…)
-
-![Figura original da página 39](<imagens/figuras_extraidas/pagina-039-figura-01.png>)
-
 - Caiçaras
 - Retireiros
 - Caatingueiros
@@ -759,15 +695,9 @@ O Brasil possui grande diversidade de povos e comunidades tradicionais. Entre el
 - Fundos e Fechos de Pasto
 - Pantaneiros
 
-| Categoria | O que inclui |
-|---|---|
-| Territórios oficialmente reconhecidos pelo Estado Brasileiro | Terras Indígenas oficialmente delimitadas; Territórios Quilombolas oficialmente delimitados; Unidades de Conservação; parte dos Projetos de Assentamento. |
-| Agrupamentos identificados pelo IBGE | Agrupamentos Indígenas; Agrupamentos Quilombolas. |
-| Áreas delimitadas para fins da operação censitária | Áreas de Interesse Operacional (AIO) de Povos e Comunidades Tradicionais. |
-
 Esses grupos estão distribuídos por diferentes regiões do país e possuem histórias, formas de vida e relações com o território bastante diversas. Conhecer essa diversidade é um passo essencial para compreender melhor a realidade do setor em que a coleta será realizada.
 
-### Multiplicidade de Identidades
+## Multiplicidade de Identidades
 
 Ao trabalhar com povos e comunidades tradicionais, é importante compreender que a identidade de uma pessoa ou de um grupo nem sempre se limita a apenas um pertencimento. Em muitos casos, uma mesma pessoa pode se reconhecer como pertencente a mais de uma comunidade tradicional.
 
@@ -775,9 +705,13 @@ Por isso, o recenseador deve estar atento ao fato de que o pertencimento étnico
 
 As áreas de Povos e Comunidades Tradicionais podem ser organizadas em três categorias:
 
-![Tabela de categorias territoriais de PCTs - página original 40](<imagens/paginas_referencia/pagina-040.jpg>)
+| Categoria | O que inclui |
+|---|---|
+| Territórios oficialmente reconhecidos pelo Estado Brasileiro | Terras Indígenas oficialmente delimitadas; Territórios Quilombolas oficialmente delimitados; Unidades de Conservação; parte dos Projetos de Assentamento. |
+| Agrupamentos identificados pelo IBGE | Agrupamentos Indígenas; Agrupamentos Quilombolas. |
+| Áreas delimitadas para fins da operação censitária | Áreas de Interesse Operacional (AIO) de Povos e Comunidades Tradicionais. |
 
-### Áreas de Interesse Operacional (AIOs)
+## Áreas de Interesse Operacional (AIOs)
 
 Além dos setores censitários, para realizar a coleta do Censo Agropecuário, Florestal e Aquícola você precisa conhecer as Áreas de Interesse Operacional. São recortes diferenciados, independentes dos setores censitários, que indicam a presença efetiva ou potencial de povos e comunidades tradicionais no setor censitário.
 
@@ -785,19 +719,17 @@ Caso o setor censitário pertença total ou parcialmente a uma AIO de algum povo
 
 É importante reforçar que as AIOs não seguem a setorização proposta pelo IBGE, logo, pode ser menor ou maior que um setor, podendo cobrir até mesmo um município inteiro.
 
-Terras indígenas
+![Terras indígenas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-041-figura-01.png)
 
-### Acesso aos setores de PCTs
+## Acesso aos setores de PCTs
 
 Nessas áreas, as condições de acesso e deslocamento são previamente negociadas com as lideranças comunitárias, associações e com os órgãos que atuam em parceria com o IBGE na realização do Censo Agropecuário.
-
-![Figura original da página 41](<imagens/figuras_extraidas/pagina-041-figura-01.png>)
 
 Essa prática é assegurada pelo direito internacional, conforme estabelecido na Convenção nº 169 da Organização Internacional do Trabalho (OIT), que determina a obrigatoriedade de consulta aos povos e comunidades tradicionais mediante procedimentos apropriados e, particularmente, através de suas instituições representativas, sempre que forem previstas ações que possam afetá-los diretamente — como é o caso das pesquisas realizadas pelo IBGE.
 
 De acordo com o Censo Demográfico 2022, apenas 67,1% dos indígenas residentes em terras indígenas falam português no domicílio. Para realizar a coleta de dados nessas áreas, o Recenseador precisa muitas vezes estar acompanhado por um guia institucional e/ou guia-intérprete. A indicação desta pessoa é feita com apoio da Fundação Nacional dos Povos Indígenas (FUNAI) e da Secretaria Especial de Saúde Indígena (SESAI).
 
-## Endereço
+# Endereço
 
 O endereço é um texto que permite identificar de forma adequada uma unidade construída ou em construção dentro de um município, seja ela uma casa, um prédio, um estabelecimento etc.
 
@@ -815,13 +747,13 @@ Componentes do endereço:
 - Ponto de referência
 - Coordenadas geográficas
 
+![Endereço](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-043-figura-01.png)
+
 A seguir, veremos detalhadamente a forma de registro de cada componente de um endereço e suas possibilidades.
 
-#### Logradouro
+### Logradouro
 
 O primeiro componente é o logradouro, que consiste em uma área pública de circulação de pessoas, veículos e mercadorias, reconhecida pela comunidade.
-
-![Figura original da página 43](<imagens/figuras_extraidas/pagina-043-figura-01.png>)
 
 O logradouro é, na maioria das vezes, associado a um nome de conhecimento geral e, nas áreas rurais, esse conhecimento precisa ser explorado pelo Recenseador durante o percurso no setor, e ao abordar os moradores ou trabalhadores da região. Ele pode ser uma estrada, rodovia, travessa, acesso ou até mesmo um rio.
 
@@ -829,7 +761,7 @@ Em seu registro, deve-se denominá-lo preferencialmente segundo a forma oficial 
 
 Exemplos: Estrada Buriti, Rodovia BR 101, Travessa Santa Inês, Rio Imperador, Acesso para Lavras.
 
-#### Localidade
+### Localidade
 
 É o nome pelo qual é conhecido o local ou a região onde está situado o endereço que está sendo registrado. Nas áreas rurais ela indica o nome dos povoados, lugarejos, assentamentos, comunidades quilombolas etc. Nas áreas urbanas assemelha-se ao bairro.
 
@@ -837,25 +769,21 @@ Em seu registro, é importante não utilizar expressões genéricas que não per
 
 Recomenda-se que o nome da localidade seja perguntado à população local sempre que possível.
 
-Placa municipal de Beberibe - CE
-
-![Figura original da página 44](<imagens/figuras_extraidas/pagina-044-figura-01.png>)
+![Placa municipal de Beberibe - CE](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-044-figura-01.png)
 
 São exemplos de localidade: "Ilha de Santo Antônio", "Serra das Flores", "Assentamento Chico Mendes", "Agrovila do Flexal", "Comunidade Quilombola do Campinho", "Faxinal dos Ribeiros" etc.
 
-#### CEP
+### CEP
 
 O Código de Endereçamento Postal (CEP) é um cadastro de áreas de endereçamento mantido pela Empresa Brasileira de Correios e Telégrafos (ECT). Ele é um conjunto numérico constituído de oito dígitos que é atribuído a uma área de endereçamento.
 
 Em áreas de alta demanda postal, um CEP pode estar associado somente a uma localidade (bairro, povoado, assentamento etc.), um logradouro, um trecho do logradouro ou, em casos muito particulares, a uma única edificação.
 
-#### Número e modificador
+### Número e modificador
 
 Tendo registrado o logradouro, a localidade e o CEP do endereço que está sendo trabalhado, é necessário então registrar os componentes que vão individualizá-lo e distingui-lo dos demais, sendo os primeiros o número e o modificador.
 
-Recenseador em campo
-
-![Figura original da página 45](<imagens/figuras_extraidas/pagina-045-figura-01.png>)
+![Recenseador em campo](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-045-figura-01.png)
 
 **Número**
 
@@ -865,7 +793,7 @@ Recenseador em campo
 
 Está associado à informação do número, sendo alfanumérico, também podendo existir ou não. Ou seja, modifica o número quando há necessidade de diferenciar mais de uma posição no logradouro com a mesma numeração ou de adicionar informação a ela.
 
-#### Complemento
+### Complemento
 
 É o componente do endereço que, propriamente, complementa a informação de número e modificador, permitindo diferenciar unidades com mesma posição no logradouro.
 
@@ -873,7 +801,7 @@ Muitas vezes, ao chegar a um número em um logradouro, observamos a existência 
 
 São exemplos de complemento: lote, gleba, casa, frente, fundos, sobrado, sala, andar etc.
 
-#### Ponto de referência
+### Ponto de referência
 
 É uma informação descritiva de pontos fixos e estáveis, de fácil visualização, para auxiliar na localização dos endereços. Normalmente, é precedido de expressões que indicam a posição relativa ou a direção, como "ao lado do...", "em frente a...", "atrás da...", "próximo à..." etc.
 
@@ -887,15 +815,15 @@ Exemplos: Próximo à caixa d`água; Após a porteira da Fazenda Boa Vista em di
 
 Agora que você já conhece os componentes que formam um endereço, veja alguns exemplos para compreender melhor como eles se organizam na prática.
 
-![Figura original da página 47](<imagens/figuras_extraidas/pagina-047-figura-01.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-047-figura-01.png)
 
-![Figura original da página 47](<imagens/figuras_extraidas/pagina-047-figura-02.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-047-figura-02.png)
 
-![Figura original da página 47](<imagens/figuras_extraidas/pagina-047-figura-03.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-047-figura-03.png)
 
-![Figura original da página 47](<imagens/figuras_extraidas/pagina-047-figura-04.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-047-figura-04.png)
 
-## Coordenadas Geográficas
+# Coordenadas Geográficas
 
 Para que cada ponto da superfície da Terra possa ser localizado em um mapa, foi criado um sistema de linhas imaginárias chamado de "Sistema de Coordenadas Geográficas".
 
@@ -910,9 +838,7 @@ Elas serão obtidas por meio de um receptor de sinais de satélites, como o GPS 
 
 Na grade de coordenadas a latitude pode ser captada pelo valor expresso na linha horizontal que corta o ponto, já a longitude pelo valor expresso na vertical que corta o ponto. A partir do cruzamento entre essas duas linhas é possível captar o par de coordenadas (latitude e longitude) de um ponto.
 
-Coordenadas geográficas
-
-![Figura original da página 48](<imagens/figuras_extraidas/pagina-048-figura-01.png>)
+![Coordenadas geográficas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-048-figura-01.png)
 
 Uma vez conhecido o par de coordenadas de um ponto de interesse, é possível visualizar ou planejar uma rota até ele utilizando o computador do Posto Censitário.
 
@@ -921,23 +847,21 @@ No exemplo do mapa temos:
 - Latitude -22.326 (indica que o ponto está ao sul da linha do Equador)
 - Longitude -42.669 (indica que o ponto está à oeste de Greenwich)
 
+![exemplo do mapa](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-049-figura-01.png)
+
 Nas áreas rurais, todas as capturas de coordenadas geográficas dos estabelecimentos deve ser realizada manualmente. Para isso, o Recenseador deve se posicionar com o DMC no local correto antes de permitir que o equipamento registre o ponto.
 
 Como componente do endereço, as coordenadas geográficas capturadas devem representar o ponto de acesso à unidade. Assim, o local ideal de captura do ponto de coordenadas é na entrada da edificação que representa a sede do estabelecimento, caso haja.
 
 Esse procedimento é importante tanto para a visualização correta dos endereços no DMC quanto para a qualificação das informações registradas nos bancos de dados do IBGE, que dependem da localização precisa dos endereços na superfície terrestre.
 
-![Figura original da página 49](<imagens/figuras_extraidas/pagina-049-figura-01.png>)
-
 Observe abaixo o exemplo de um setor censitário com suas respectivas capturas de coordenadas, representando os endereços de estabelecimentos agropecuários.
 
-Captura de tela de setor censitário com demarcação de coordenadas
+![Captura de tela de setor censitário com demarcação de coordenadas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-050-figura-01.png)
 
 > Confiar exclusivamente no GPS ou deixar de utilizar o mapa em papel são erros que devem ser evitados. A tecnologia auxilia o trabalho, mas a interpretação correta das informações depende do Recenseador.
 
-![Figura original da página 50](<imagens/figuras_extraidas/pagina-050-figura-01.png>)
-
-## Estabelecimento Agropecuário
+# Estabelecimento Agropecuário
 
 Em cada setor censitário, pode haver uma ou mais unidades recenseáveis. São essas unidades que terão suas informações coletadas pelo Censo Agropecuário, Florestal e Aquícola.
 
@@ -954,7 +878,7 @@ Sendo a data de referência 31/12/2025 e o período de referência de 01/01/2025
 
 Compreendidos esses conceitos, é possível avançar para a identificação das unidades que serão consideradas recenseáveis e não recenseáveis no 12º Censo Agropecuário, Florestal e Aquícola.
 
-### Unidades Recenseáveis
+## Unidades Recenseáveis
 
 Apenas os estabelecimentos agropecuários serão recenseados. Portanto, outros tipos de estabelecimentos, como lojas, escolas, hospitais, igrejas, assim como as unidades domiciliares, não fazem parte da coleta do Censo Agro.
 
@@ -962,7 +886,13 @@ Em cada setor censitário, pode haver uma ou mais unidades recenseáveis. São c
 
 São as informações referentes a essas unidades que devem ser coletadas pelo Censo Agro.
 
-### Unidades não recenseáveis
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-052-figura-03.png)
+
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-052-figura-04.png)
+
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-052-figura-05.png)
+
+## Unidades não recenseáveis
 
 Em uma propriedade rural, pode existir uma moradia com alguns animais domésticos, quintal, jardins e algumas árvores frutíferas ou horta doméstica, sem que exista unidades de exploração agropecuária, florestal ou aquícola.
 
@@ -976,17 +906,11 @@ Mas como saber se é só isso mesmo? Como afirmar que aquela produção não é 
 
 Para responder a essa questão, é importante compreender o conceito de produção de subsistência.
 
-![Figura original da página 52](<imagens/figuras_extraidas/pagina-052-figura-01.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-052-figura-01.png)
 
-![Figura original da página 52](<imagens/figuras_extraidas/pagina-052-figura-02.png>)
+![](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-052-figura-02.png)
 
-![Figura original da página 52](<imagens/figuras_extraidas/pagina-052-figura-03.png>)
-
-![Figura original da página 52](<imagens/figuras_extraidas/pagina-052-figura-04.png>)
-
-![Figura original da página 52](<imagens/figuras_extraidas/pagina-052-figura-05.png>)
-
-### Produção de subsistência
+## Produção de subsistência
 
 É aquela na qual os alimentos produzidos são voltados para atender às necessidades vitais do produtor e de sua família.
 
@@ -1009,6 +933,8 @@ Essas informações devem ter finalidade de venda ou subsistência.
 
 Recenseável Não Recenseável
 
+![Como identificar se há unidade recenseável?](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-054-figura-02.png)
+
 #### Critério apresentado no fluxograma
 
 Existe produção ou exploração agropecuária, florestal ou aquícola na propriedade:
@@ -1022,7 +948,9 @@ Nem toda criação de animais configura atividades agropecuárias. Atividades de
 
 Alguns locais também devem ser automaticamente excluídos do Censo Agro 2027, independentemente do que cultivam.
 
-![Figura original da página 54](<imagens/figuras_extraidas/pagina-054-figura-01.png>)
+![Atividades e locais não recenseáveis](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-054-figura-01.png)
+
+![Atividades e locais não recenseáveis](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-055-figura-01.png)
 
 ### Conceito de Estabelecimento Agropecuário
 
@@ -1037,47 +965,45 @@ Independentemente de:
 
 Todo estabelecimento agropecuário tem como objetivo a produção, seja para venda (comercialização da produção) ou para subsistência (sustento do produtor e/ou de sua família).
 
-### Exemplos de atividades agropecuárias, florestais e aquícolas
+#### Exemplos de atividades agropecuárias, florestais e aquícolas
 
 A seguir, são apresentados alguns exemplos de atividades consideradas agropecuárias, florestais e aquícolas.
 
-#### a) Lavoura Temporária
+##### a) Lavoura Temporária
 
 Plantação que nasce, cresce e é colhida no mesmo ano. Depois da colheita, a plantação acaba e precisa ser replantada. Exemplos: milho, feijão, arroz, soja etc.
 
-![Figura original da página 55](<imagens/figuras_extraidas/pagina-055-figura-01.png>)
-
 Existe o plantio, crescimento, colheita e pós-colheita.
 
-#### b) Lavoura permanente
+##### b) Lavoura permanente
 
 Plantação que você coloca no solo uma vez e ela continua dando frutos por muitos anos. Você não precisa plantar de novo todo ano. Exemplos: café, laranja, uva etc.
 
 Existe o plantio, crescimento, colheita e pós-colheita.
 
-#### c) Horticultura
+##### c) Horticultura
 
 Produção de legumes, verduras, plantas medicinais, condimentares e cogumelos.
 
-#### d) Cultivo em outros meios
+##### d) Cultivo em outros meios
 
 Tais como a hidroponia (técnica de cultivar plantas sem solo, onde as raízes recebem uma solução nutritiva balanceada contendo água e todos os nutrientes essenciais ao desenvolvimento da planta).
 
-#### e) Criação de animais
+##### e) Criação de animais
 
 Criação, recriação ou engorda de animais de grande, médio e pequeno porte. Exemplos: bois, porcos, galinhas, abelhas etc.
 
-#### f) Aquicultura
+##### f) Aquicultura
 
 Criação de peixes, camarões, moluscos, jacarés e rãs.
 
 O pesque-pague é considerado estabelecimento agropecuário quando nele houver criação e engorda de peixes. Porém, se houver somente compra de peixes criados, não deve ser considerado.
 
-#### g) Exploração de matas e florestas nativas ou plantadas
+##### g) Exploração de matas e florestas nativas ou plantadas
 
 Exemplos: Plantio de árvores para venda de celulose ou coleta de frutos de matas nativas, como, por exemplo, babaçu, açaí, buriti etc.
 
-## Produtores sem área
+# Produtores sem área
 
 Existem determinadas atividades agropecuárias nas quais o produtor não precisa possuir uma área própria ou um espaço físico delimitado para realizar sua produção.
 
@@ -1105,19 +1031,19 @@ No entanto, a partir da data de referência, o Sr. Jorge já não estava mais na
 
 Nesse caso, se o Recenseador conseguir localizar o Sr. Jorge, deve apresentar-se, explicar sobre o Censo Agropecuário e realizar a coleta das informações referentes àquela produção, assinalando, em quadro específico do questionário, o item que identifica o produtor sem área.
 
-## Situações especiais
+# Situações especiais
 
 Durante a coleta do Censo Agropecuário, Florestal e Aquícola, o Recenseador poderá encontrar situações que exigem atenção especial para definir corretamente o que deve ser recenseado, como registrar as informações e quando acionar a supervisão.
 
 Aqui apresentamos orientações para casos envolvendo estabelecimentos vinculados a indústrias, propriedades rurais com diferentes formas de exploração, áreas localizadas em mais de um setor ou município, estabelecimentos em partilha ou litígio, estabelecimentos novos ou sem produção e formas de exploração comunitária.
 
-### Estabelecimentos agropecuários pertencentes a indústrias
+## Estabelecimentos agropecuários pertencentes a indústrias
 
 Ao encontrar estabelecimentos agropecuários pertencentes a indústrias, cuja atividade principal seja a própria indústria e não a atividade agropecuária, florestal e aquícola, o Censo Agropecuário deverá investigar somente a parte diretamente ligada à atividade agropecuária, florestal e aquícola.
 
 Os dados referentes à atividade industrial, como produção, venda, trabalhadores, salários, entre outros, serão coletados por outras pesquisas do IBGE.
 
-### Confinamento de gado (boitel)
+## Confinamento de gado (boitel)
 
 As unidades especializadas em confinamento de gado só serão consideradas estabelecimentos agropecuários se possuírem animais próprios ou se desenvolverem outra atividade agropecuária.
 
@@ -1127,25 +1053,25 @@ Os animais pertencentes a terceiros deverão ser contados nos estabelecimentos d
 
 Propriedade rural e estabelecimento agropecuário não são a mesma coisa. Entender essa diferença é fundamental para o correto preenchimento do questionário.
 
-Nem toda propriedade rural é um estabelecimento agropecuário.
+> Nem toda propriedade rural é um estabelecimento agropecuário.
 
 Há propriedades rurais que não exercem atividade agropecuária, florestal ou aquícola que deva ser recenseada, como, por exemplo, sítios de lazer ou unidades produtoras de vacinas.
 
 Nesses casos, a propriedade rural não deve ser considerada estabelecimento agropecuário.
 
-Uma única propriedade rural pode ter mais de um estabelecimento agropecuário.
+> Uma única propriedade rural pode ter mais de um estabelecimento agropecuário.
 
 Isso acontece quando, dentro da mesma propriedade, diferentes produtores exploram partes distintas da área, cada um com sua própria produção.
 
 Nesse caso, cada exploração poderá corresponder a um estabelecimento agropecuário diferente.
 
-Mais de uma propriedade rural pode formar um único estabelecimento agropecuário.
+> Mais de uma propriedade rural pode formar um único estabelecimento agropecuário.
 
 Isso ocorre quando um mesmo produtor explora as áreas de diferentes proprietários, seja por aluguel, parceria, comodato ou outra forma de acesso à terra.
 
 Nessa situação, as áreas poderão compor um único estabelecimento agropecuário, desde que atendam às condições necessárias para serem consideradas uma mesma unidade de produção ou exploração.
 
-### Estabelecimentos em mais de um setor censitário
+## Estabelecimentos em mais de um setor censitário
 
 Antes de compreender como recensear estabelecimentos localizados em mais de um setor censitário, é importante conhecer o conceito de sede. Este conceito vai ajudá-lo a determinar o número de estabelecimentos a serem recenseados e em que setor ele deve ser recenseado.
 
@@ -1157,7 +1083,7 @@ No caso de serem setores de municípios distintos, toda a produção será compu
 
 Na inexistência da Sede, o estabelecimento será recenseado no setor em que estiver localizada a maior parte de suas terras.
 
-### Estabelecimentos com áreas não contínuas
+## Estabelecimentos com áreas não contínuas
 
 Durante a coleta, podem ser encontrados estabelecimentos agropecuários que possuem áreas não contínuas, ou seja, áreas separadas entre si, mas exploradas por um mesmo produtor.
 
@@ -1214,7 +1140,7 @@ Total = 20 ha
 
 Nesse caso, deve-se considerar como um único estabelecimento agropecuário, informando que sua área total é de 20 ha.
 
-![Figura original da página 63](<imagens/figuras_extraidas/pagina-063-figura-01.png>)
+![Áreas contínuas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-063-figura-01.png)
 
 #### Exemplo 2 - Áreas não contínuas
 
@@ -1230,7 +1156,9 @@ Total = 75 ha
 
 Nesse caso, deve-se considerar como um único estabelecimento agropecuário, informando que sua área total é de 75 ha.
 
-### Estabelecimentos em sucessão, partilha ou litígio
+![Áreas não contínuas](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-064-figura-01.png)
+
+## Estabelecimentos em sucessão, partilha ou litígio
 
 Como recensear estabelecimento em partilha ou litígio?
 
@@ -1239,8 +1167,6 @@ Alguns estabelecimentos podem estar em processo de sucessão, partilha ou litíg
 **Sucessão**
 
 Transmissão de direitos, obrigações e bens de uma pessoa para outra após a sua morte.
-
-![Figura original da página 64](<imagens/figuras_extraidas/pagina-064-figura-01.png>)
 
 **Partilha**
 
@@ -1262,7 +1188,7 @@ Quando cada herdeiro ocupa uma parte do terreno, cada parte será considerada um
 
 Quando houver disputa judicial, o estabelecimento deve ser recenseado considerando como produtor a pessoa que, na data de referência, era responsável economicamente pela exploração.
 
-### Estabelecimentos novos ou sem produção
+## Estabelecimentos novos ou sem produção
 
 O estabelecimento novo ou sem produção no período de referência deve ser recenseado?
 
@@ -1279,7 +1205,7 @@ Devem ser recenseados:
 
 Nessas situações, deve-se registrar no campo Observações do DMC o motivo da ausência de produção.
 
-### Exploração comunitária
+## Exploração comunitária
 
 A exploração comunitária ocorre quando uma mesma área é utilizada coletivamente por diferentes produtores, que realizam atividades produtivas em conjunto.
 
