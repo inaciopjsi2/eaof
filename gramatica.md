@@ -1643,7 +1643,7 @@ a) pela delimitação *imediata* da significação ampla do verbo: *gostar de x*
 
 b) pela possibilidade de acompanhamento por qualquer preposição exigida pela significação do verbo: *de* em *gostar de* indica a “origem” do afeto, *a* em *assistir a* indica “direção” ao ser visualizado, *em* indica “lugar”, no exemplo *Marcelinho pôs o livro em cima da mesa*. Por esta razão, já houve quem assinalasse a íntima relação desse complemento preposicionado com a circunstância adverbial que estudaremos mais adiante;
 
-c) pela impossibilidade de se substituir o complemento preposicionado pelo pronome pessoal átono *lhe*: a construção só é possível mediante pronome pessoal tônico *ele*, *ela*, *eles*, *elas* (com marca do gênero e número do substantivo substituído) precedido da preposição pedida pelo verbo: *Diva gosta de Teresópolis* → *Diva gosta dela* (da cidade); *Márcio assistiu ao jogo* → *Márcio assistiu a ele*. Estariam erradas as comutações: *gosta-lhe*, *assistiu-lhe*
+c) pela impossibilidade de se substituir o complemento preposicionado pelo pronome pessoal átono *lhe*: a construção só é possível mediante pronome pessoal tônico *ele*, *ela*, *eles*, *elas* (com marca do gênero e número do substantivo substituído) precedido da preposição pedida pelo verbo: *Diva gosta de Teresópolis* → *Diva gosta dela* (da cidade); *Márcio assistiu ao jogo* → *Márcio assistiu a ele*. Estariam erradas as comutações: \**gosta-lhe*, \**assistiu-lhe*
 
 Já os complementos verbais preposicionados do segundo grupo de exemplos se distinguem:
 
@@ -1713,57 +1713,59 @@ Também o objeto indireto pode ocorrer com complemento relativo, de modo que ter
 
 | | | |
 |-|-|-|
-| O professor queixou-se da turma ao diretor.
-
-*(compl. rel.) (obj. ind.)*
+| O professor queixou-se | da turma | ao diretor. |
+|  | (*compl. rel.*) | (*obj. ind.*) |
 
 Mais rara é a concorrência de objeto direto com complemento relativo, caso em que o complemento relativo é, a rigor, complemento do conjunto verbo + objeto direto:
 
-Os rapazes disseram verdades da vizinha.
+| | | |
+|-|-|-|
+| Os rapazes disseram | verdades | da vizinha. |
+|  | (*obj. direto.*) | (*compl. rel.*) |
+
+ verdades da vizinha.
 
 *(obj. direto) (compl. relativo)*
 
-<a id="construcao-especial-com-objeto-indireto-pdf85-047"></a>
 #### Construção especial com objeto indireto
 
 Vimos que consideramos objeto indireto somente o complemento preposicionado que suplementa a informação contida no predicado constituído por verbo + objeto direto ou complemento relativo:
 
-O escritor dedicou o romance à sua esposa.
+O escritor dedicou o romance *à sua esposa*.
 
-O professor queixou-se da turma ao diretor.
+O professor queixou-se da turma *ao diretor*.
 
-Todavia, um pequeno número de verbos contraria este princípio que adotamos, podendo, assim, ter objeto indireto comutável por lhe, lhes sem a existência de um daqueles complementos verbais:
+Todavia, um pequeno número de verbos contraria este princípio que adotamos, podendo, assim, ter objeto indireto comutável por *lhe*, *lhes* sem a existência de um daqueles complementos verbais:
 
-A notícia não agradou ao povo.
+A notícia não agradou *ao povo*.
 
-A notícia não lhe agradou.
+A notícia não *lhe* agradou.
 
-Tal sintaxe ocorre com verbos como agradar, desagradar, pertencer, ocorrer, acontecer, saber (= sentir sabor), cheirar (= sentir o cheiro), interessar, aparecer, sorrir (= parecer favoravelmente):
+Tal sintaxe ocorre com verbos como *agradar*, *desagradar*, *pertencer*, *ocorrer*, *acontecer*, *saber* (= sentir sabor), *cheirar* (= sentir o cheiro), *interessar*, *aparecer*, *sorrir* (= parecer favoravelmente):
 
-O imóvel pertence aos herdeiros (pertence-lhes).
+O imóvel pertence *aos herdeiros* (pertence-*lhes*).
 
-Estes fatos lhe aconteceram repentinamente.
+Estes fatos *lhe* aconteceram repentinamente.
 
-Isto não lhe sabe bem.
+Isto não *lhe* sabe bem.
 
-O café lhe cheira bem.
+O café *lhe* cheira bem.
 
-A sorte lhe sorriu esta semana.
+A sorte *lhe* sorriu esta semana.
 
-Apareceram-lhe uns ruídos estranhos.
+Apareceram-*lhe* uns ruídos estranhos.
 
-<a id="verbos-que-admitem-dupla-ou-tripla-construcao-pdf86-048"></a>
 #### Verbos que admitem dupla ou tripla construção
 
 Isto ocorre com os seguintes principais verbos:
 
-1) Avisar:
+1) **Avisar**:
 
 *Avisamos a falta d’água ao vizinho.*
 
 Avisamos o vizinho da falta d’água.
 
-2) Ensinar:
+2) **Ensinar**:
 
 *O professor ensinou gramática ao aluno.*
 
@@ -1771,7 +1773,7 @@ Avisamos o vizinho da falta d’água.
 
 O professor ensinou o aluno como se estuda gramática.
 
-3) Esquecer:
+3) **Esquecer**:
 
 *Eu esqueci o livro.*
 
@@ -1779,67 +1781,68 @@ O professor ensinou o aluno como se estuda gramática.
 
 Eu me esqueci do livro.
 
-4) Informar:
+4) **Informar**:
 
 *Informei-lhe isso.*
 
 Informei-o disso.
 
-5) Lembrar:
+5) **Lembrar**:
 
 *Lembraste o feriado ao tio.*
 
 Lembraste o tio do feriado.
 
-6) Requerer:
+6) **Requerer**:
 
 *Requeiro à Direção cópia do recibo.*
 
 *Requeiro da Direção cópia do recibo.*
 
-<a id="os-chamados-dativos-livres-pdf86-049"></a>
 #### Os chamados “dativos livres”
 
 Assim são chamadas por alguns estudiosos certas unidades linguísticas que aparecem em geral sob forma pronominal de objeto indireto (dativos em latim), mas que não pertencem à esfera semântico-sintática da função predicativa, e servem para exprimir:
 
-a) a quem aproveita ou prejudica a ação verbal: é o dativo de interesse.
+a) a quem aproveita ou prejudica a ação verbal: é o *dativo de interesse*.
 
-Ele só trabalha para os seus.
+Ele só trabalha *para os seus*.
 
 Ela ligou-me amavelmente a luz.
 
 Este dativo fica muito próximo da circunstância de fim ou proveito (beneficiário).
 
-b) quem tenta captar a benevolência do interlocutor para que se faça ou não se faça algo: é o dativo ético, muito comum na conversação.
+b) quem tenta captar a benevolência do interlocutor para que se faça ou não se faça algo: é o *dativo ético*, muito comum na conversação.
 
-Não me reprovem esse candidato!
+Não *me* reprovem esse candidato!
 
-Ele sempre te saiu um grande mentiroso.
+Ele sempre *te* saiu um grande mentiroso.
 
-Não me mexam nesses papéis!
+Não *me* mexam nesses papéis!
 
-c) quem é o possuidor: dativo de posse.
+c) quem é o possuidor: *dativo de posse*.
 
-Doem-me as costas.
+Doem-*me* as costas.
 
-Levaram-lhe o carro.
+Levaram-*lhe* o carro.
 
 **Observação:**
 
-→ Apesar da equivalência na designação a Doem as minhas costas; Levaram o seu carro, não se podem analisar tais pronomes como adjuntos adnominais (➚ 80), porque a classificação contraria as noções básicas do adjunto: a referência ao substantivo (costas; carro), já que tais pronomes aludem ao possuidor e não à coisa possuída e, em vista disto, à concordância com costas e carro: Levaram-lhe (singular) os carros (plural). Se lhe fosse adjunto adnominal de carros, teria de ir ao plural, como ocorre com o possessivo seu (esse sim, adjunto): Levaram o seu carro / Levaram os seus carros.
+→ Apesar da equivalência na designação a *Doem as minhas costas*; *Levaram o seu carro*, não se podem analisar tais pronomes como *adjuntos adnominais* (➚ 80), porque a classificação contraria as noções básicas do adjunto: a referência ao substantivo (*costas*; *carro*), já que tais pronomes aludem ao possuidor e não à coisa possuída e, em vista disto, à concordância com *costas* e *carro*: *Levaram-lhe* (singular) *os carros* (plural). Se *lhe* fosse adjunto adnominal de *carros*, teria de ir ao plural, como ocorre com o possessivo *seu* (esse sim, adjunto): *Levaram o seu carro* / *Levaram os seus carros*.
 
-d) quem tem opinião sobre algo: dativo de opinião.
+d) quem tem opinião sobre algo: *dativo de opinião*.
+         
+*Para mim* o culpado não fugiu.
 
-Para mim o culpado não fugiu.
+*Para nós* o culpado é o vizinho.
 
-Para nós o culpado é o vizinho.
-
-<a id="quando-o-pronome-atono-pode-ser-substituido-pelo-pronome-tonico-preposicionado-pdf87-050"></a>
 #### Quando o pronome átono pode ser substituído pelo pronome tônico preposicionado
 
 O registro formal, principalmente escrito, difere do registro informal, por preferir aquele o uso do pronome átono como complemento verbal em vez do pronome tônico preposicionado, salvo nos casos apontados quando tratamos do objeto direto com preposição obrigatória. (➚ 60)
 
-*registro formal registro informal Eu lhe disse a verdade. Eu disse a ela a verdade.*
+| | |
+|-|-|
+| **registro formal** | **registro informal**|
+| *Eu lhe disse a verdade.* | *Eu disse a ela a verdade.*|
 
 No registro formal o pronome tônico preposicionado só pode aparecer nas seguintes condições:
 
@@ -1849,32 +1852,31 @@ A ela sempre disseram não.
 
 b) quando aparece repetindo (pleonasmo ➚ 483) um pronome átono na função de objeto direto ou complemento preposicionado:
 
-Vejo-o a ele todas as manhãs. A ele vejo-o. (ou o vejo)
+Vejo-o *a ele* todas as manhãs. *A ele* vejo-o. (ou *o vejo*)
 
-Deram-me a mim todas as oportunidades.
+Deram-me *a mim* todas as oportunidades.
 
 A mim deram-me (ou me deram) todas as oportunidades.
 
 c) quando se trata de complemento verbal composto:
 
-Falei a ele e ao irmão.
+Falei *a ele* e ao irmão.
 
-Escrevi a ti e a ela sobre o concurso.
+Escrevi *a ti* e a ela sobre o concurso.
 
-d) quando aparece reforçado por mesmo, próprio, só, etc.:
+d) quando aparece reforçado por *mesmo*, *próprio*, *só*, etc.:
 
-Fizeram a ela mesma essa pergunta.
+Fizeram *a ela mesma* essa pergunta.
 
-Enviaram a nós próprios a circular.
+Enviaram *a nós próprios* a circular.
 
 e) quando se trata de verbos que se constroem com complemento relativo, por estar na regra geral referida na página 64.
 
 O vizinho gosta dela.
 
-<a id="o-predicativo-pdf88-051"></a>
 #### O predicativo
 
-Outro tipo de complemento verbal é o predicativo, que delimita a natureza semântico-sintática de um reduzido número de verbos: ser, estar, ficar, parecer, permanecer e mais alguns, conhecidos como verbos de ligação. Às vezes vem introduzido por preposição:
+Outro tipo de complemento verbal é o **predicativo**, que delimita a natureza semântico-sintática de um reduzido número de verbos: *ser*, *estar*, *ficar*, *parecer*, *permanecer* e mais alguns, conhecidos como *verbos de ligação*. Às vezes vem introduzido por preposição:
 
 *Brasília é a capital.*
 
@@ -1896,141 +1898,135 @@ a) é expresso por substantivo, adjetivo, pronome, numeral ou advérbio;
 
 b) concorda com o sujeito em gênero e número, quando flexionável;
 
-*O aluno é estudioso. A aluna é estudiosa.*
+*O aluno é estudioso.*      *A aluna é estudiosa.*
 
-*Os alunos são estudiosos. As alunas são estudiosas.*
+*Os alunos são estudiosos.* *As alunas são estudiosas.*
 
 c) é comutado pelo pronome invariável o:
 
-*O aluno é estudioso. O aluno o é.*
+*O aluno é estudioso.*      *O aluno o é.*
 
-*A aluna é estudiosa. A aluna o é.*
+*A aluna é estudiosa.*      *A aluna o é.*
 
-*Os alunos são estudiosos. Os alunos o são.*
+*Os alunos são estudiosos.* *Os alunos o são.*
 
-*As alunas são estudiosas. As alunas o são.*
+*As alunas são estudiosas.* *As alunas o são.*
 
 Como ocorre com os predicados até aqui estudados, pode a predicação com predicativo ser referida a um sujeito
 
 — como nos exemplos acima —, ou não:
 
-O aluno é estudioso. (sujeito: o aluno)
+*O aluno é estudioso.*  *(sujeito: o aluno)*
 
-É noite. (oração sem sujeito)
+*É noite.*              *(oração sem sujeito)*
 
-Sou eu. (oração sem sujeito)
+*Sou eu.*               *(oração sem sujeito)*
 
-No segundo e terceiro exemplos, não há sujeito; a oração está constituída só pelo predicado, no qual noite e eu funcionam como predicativo:
+No segundo e terceiro exemplos, não há sujeito; a oração está constituída só pelo predicado, no qual *noite* e *eu* funcionam como predicativo:
 
-*Já é noite? — Já o é.*
+*Já é noite?* — *Já o é.*
 
-*Sou eu. — Sou-o.*
+*Sou eu.* — *Sou-o.*
 
-Ocorre o mesmo com a expressão das horas, em oração sem sujeito com o predicativo três horas, no exemplo:
+Ocorre o mesmo com a expressão das horas, em oração sem sujeito com o predicativo *três* horas, no exemplo:
 
-*Já são três horas? — Já o são.*
+*Já são três horas?* — *Já o são.*
 
-Três horas não poderia funcionar como sujeito, pois não é vernácula a comutação com elas (que assinalaria o sujeito, como vimos na página 62): *Elas já são.
+*Três horas* não poderia funcionar como sujeito, pois não é vernácula a comutação com *elas* (que assinalaria o sujeito, como vimos na página 62): \***Elas** *já são*.
 
-<a id="mais-um-tipo-de-predicativo-pdf89-052"></a>
 #### Mais um tipo de predicativo
 
-Além do predicativo que acompanha os chamados verbos de ligação, há outro que acompanha qualquer tipo de verbo, e se refere tanto ao sujeito quanto ao objeto direto, ao complemento relativo e ao objeto indireto (talvez restrito ao verbo chamar = dar nome), com os quais também concorda em gênero e número:
+Além do predicativo que acompanha os chamados verbos de ligação, há outro que acompanha qualquer tipo de verbo, e se refere tanto ao sujeito quanto ao objeto direto, ao complemento relativo e ao objeto indireto (talvez restrito ao verbo *chamar* = dar nome), com os quais também concorda em gênero e número:
 
-O vizinho caminha preocupado.
+O vizinho caminha *preocupado*.
 
-As moças estudaram silenciosas.
+As moças estudaram *silenciosas*.
 
-O trem chegou atrasado.
+O trem chegou *atrasado*.
 
-Encontraste a porta aberta.
+Encontraste a porta *aberta*.
 
-Trata-se da questão como insolúvel.
+Trata-se da questão como *insolúvel*.
 
-Não lhe chamávamos professor.
+Não lhe chamávamos *professor*.
 
 **Observação:**
 
-→ Conforme vimos no exemplo Trata-se da questão como insolúvel, o predicativo pode ou não ser precedido de preposição: O compromisso está de pé. Chamaram-lhe (ou chamaram-no) de tolo. O júri tinha o réu por culpado.
+→ Conforme vimos no exemplo *Trata-se da questão como insolúvel*, o predicativo pode ou não ser precedido de preposição: *O compromisso está* **de pé**. *Chamaram-lhe* (ou *chamaram-no*) **de tolo**. *O júri tinha o réu* **por culpado**.
 
-Os predicativos do segundo tipo diferem dos que acompanham os verbos de ligação porque não são comutáveis pelo pronome invariável o:
+Os predicativos do segundo tipo diferem dos que acompanham os verbos de ligação porque não são comutáveis pelo pronome invariável *o*:
 
-*O vizinho caminha preocupado. / *O vizinho o caminha. (comutação impossível)*
+*O vizinho caminha preocupado.* / \**O vizinho o caminha. (comutação impossível)*
 
 Se temos de representar este tipo de predicativo, ele o será mediante um advérbio, como assim:
 
-*O vizinho caminha preocupado. / O vizinho caminha assim.*
+*O vizinho caminha preocupado.* / *O vizinho caminha assim.*
 
 Esta equivalência justifica a razão de tal tipo de predicativo construir-se muito próximo de advérbios e com estes se confundir, quando no masculino singular:
 
-*O vizinho caminha preocupado. / O vizinho caminha preocupadamente.*
+*O vizinho caminha preocupado.* / *O vizinho caminha preocupadamente.*
 
 Por isso é que podemos ter a construção com predicativo ao lado da construção com advérbio:
 
-A menina fala rápida. (rápida, adjetivo, predicativo do sujeito)
+*A menina fala rápida.* (*rápida*, adjetivo, predicativo do sujeito)
 
-A menina fala rápido. (rápido, advérbio, não funcionando como predicativo)
+*A menina fala rápido.* (*rápido*, advérbio, não funcionando como predicativo)
 
-A cerveja que desce redonda. (redonda, adjetivo, predicativo do sujeito)
+*A cerveja que desce redonda.* (*redonda*, adjetivo, predicativo do sujeito)
 
-A cerveja que desce redondo. (redondo, advérbio, não é predicativo)
+*A cerveja que desce redondo.* (*redondo*, advérbio, não é predicativo)
 
-Dadas as particularidades deste tipo de predicativo, alguns autores preferem dar-lhe nome especial: anexo predicativo, predicativo atributivo ou atributo predicativo. Optamos por seguir a tradição e chamá-lo simplesmente
-
-*predicativo.*
+Dadas as particularidades deste tipo de predicativo, alguns autores preferem dar-lhe nome especial: *anexo predicativo*, *predicativo atributivo* ou *atributo predicativo*. Optamos por seguir a tradição e chamá-lo simplesmente **predicativo**.
 
 **Observação:**
 
-→ Uma tradição mais recente na gramática portuguesa, incorporada pela NGB, distingue o predicado em verbal (quando constituído por qualquer tipo de verbo, exceto o de ligação), nominal (quando se trata de verbo de ligação + predicativo) e verbonominal (quando se trata de verbo que não seja de ligação + predicativo, isto é, este segundo tipo de predicativo que acabamos de estudar). Não seguimos essa tradição, porque entendemos que toda relação predicativa que se estabelece na oração tem por núcleo um verbo. É esta, por sinal, a lição dos nossos primeiros grandes gramáticos, que não faziam tal distinção, e de notáveis linguistas modernos. (➚ 266)
+→ Uma tradição mais recente na gramática portuguesa, incorporada pela NGB, distingue o predicado em *verbal* (quando constituído por qualquer tipo de verbo, exceto o de ligação), *nominal* (quando se trata de verbo de ligação + predicativo) e *verbonominal* (quando se trata de verbo que não seja de ligação + predicativo, isto é, este segundo tipo de predicativo que acabamos de estudar). Não seguimos essa tradição, porque entendemos que toda relação predicativa que se estabelece na oração tem por núcleo um verbo. É esta, por sinal, a lição dos nossos primeiros grandes gramáticos, que não faziam tal distinção, e de notáveis linguistas modernos. (➚ 266)
 
-<a id="a-posicao-do-predicativo-pdf90-053"></a>
 #### A posição do predicativo
 
 Quando constituído por substantivo ou pronome, o predicativo pode deslocar-se para antes do verbo, e o sujeito para depois deste:
 
-*A capital é Brasília. / Brasília é a capital,*
+*A capital é Brasília.* / *Brasília é a capital,*
 
-em que Brasília é, em ambos os casos, sujeito, e capital, predicativo.
+em que *Brasília* é, em ambos os casos, sujeito, e *capital*, predicativo.
 
-A deslocação do predicativo tem feito que se mude a análise das duas orações, considerando-se sujeito o que vem sempre antes do verbo: assim, em A capital é Brasília, capital é sujeito e Brasília predicativo, enquanto em Brasília é a capital, Brasília é o sujeito e capital, predicativo.
+A deslocação do predicativo tem feito que se mude a análise das duas orações, considerando-se sujeito o que vem sempre antes do verbo: assim, em *A capital é Brasília*, *capital* é sujeito e *Brasília* predicativo, enquanto em *Brasília é a capital*, *Brasília* é o sujeito e *capital*, predicativo.
 
-Ora, a comutação mostra que Brasília é sempre sujeito, e capital é predicativo, e só este é comutável pelo pronome o: Brasília o é, e não *A capital o é.
+Ora, a comutação mostra que *Brasília* é sempre sujeito, e *capital* é predicativo, e só este é comutável pelo pronome *o*: *Brasília o é*, e não *A capital o é*.
 
-<a id="o-complemento-relativo-adverbial-pdf90-054"></a>
 #### O complemento relativo adverbial
 
-Muitas vezes o complemento relativo, entendido como termo preposicionado que delimita a natureza semântico-sintática do verbo, exprime uma circunstância, como já tínhamos visto no exemplo Marcelinho pôs o livro na pasta:
+Muitas vezes o complemento relativo, entendido como termo preposicionado que delimita a natureza semântico-sintática do verbo, exprime uma circunstância, como já tínhamos visto no exemplo *Marcelinho pôs o livro na pasta*:
 
 *A criança caiu da cadeira.*
 
 *Os padrinhos acompanharam a jovem a Natal.*
 
-Repare-se que os termos na pasta, da cadeira, a Natal são obrigatórios à completude da função predicativa:
+Repare-se que os termos *na pasta*, *da cadeira*, *a Natal* são obrigatórios à completude da função predicativa:
 
-*Marcelinho pôs o livro. (onde?)*
+*Marcelinho pôs o livro*. (*onde?*)
 
-*A criança caiu. (de onde?)*
+*A criança caiu.* (*de onde?*)
 
-*Os padrinhos acompanharam a jovem. (aonde?)*
+*Os padrinhos acompanharam a jovem.* (*aonde?*)
 
 Alguns autores preferem classificar esses complementos como complementos adverbiais. Repare-se a diferença no exemplo:
 
 *Os padrinhos acompanharam a jovem a Natal nas últimas férias.*
 
-O termo a Natal é obrigatório, mas nas últimas férias não o é.
+O termo *a Natal* é obrigatório, mas *nas últimas férias* não o é.
 
-<a id="complemento-de-agente-da-passiva-pdf90-055"></a>
 #### Complemento de agente da passiva
 
-Também próximo à noção de circunstância e, portanto, de natureza adverbial, é o chamado complemento de agente da passiva, pelo qual se faz referência a quem pratica a ação sobre o sujeito paciente:
+Também próximo à noção de circunstância e, portanto, de natureza adverbial, é o chamado *complemento de agente da passiva*, pelo qual se faz referência a quem pratica a ação sobre o sujeito paciente:
 
 *O livro foi escrito por Graciliano Ramos.*
 
-Voz passiva é a forma que o verbo assume para indicar que seu sujeito sofre a ação por ele indicada. Em nosso exemplo, o livro, sujeito de foi escrito, não pratica a ação, mas recebe-a, sofre-a; quem a pratica é Graciliano Ramos, que, por isso mesmo, se diz agente da passiva.
+*Voz passiva* é a forma que o verbo assume para indicar que seu sujeito sofre a ação por ele indicada. Em nosso exemplo, *o livro*, sujeito de *foi escrito*, não pratica a ação, mas recebe-a, sofre-a; quem a pratica é *Graciliano Ramos*, que, por isso mesmo, se diz *agente da passiva*.
 
-Na chamada voz ativa, o agente da passiva passa a sujeito, enquanto o sujeito da passiva passa a objeto direto. Daí, normalmente, essa mudança de voz só ocorrer com o verbo transitivo direto:
+Na chamada *voz ativa*, o agente da passiva passa a sujeito, enquanto o sujeito da passiva passa a objeto direto. Daí, normalmente, essa mudança de voz só ocorrer com o verbo transitivo direto:
 
-O livro foi escrito por Graciliano Ramos (voz passiva) → Graciliano Ramos escreveu o livro (voz ativa).
+*O livro foi escrito por Graciliano Ramos* (voz passiva) → *Graciliano Ramos escreveu o livro* (voz ativa).
 
 <figure>
 
