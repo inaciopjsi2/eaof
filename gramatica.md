@@ -1413,50 +1413,44 @@ Outras vezes, o nosso saber do mundo percebe que se trata de uma só pessoa a pr
 
 A natureza semântico-sintática do verbo pode encerrar-se nele mesmo, em face da sua significação muito definida, como ocorre nas seguintes orações:
 
-Isabel dorme.
+Isabel *dorme*.
 
-Henrique caminha.
+Henrique *caminha*.
 
-A temperatura desceu.
+A temperatura *desceu*.
 
 *Chove.*
 
-Nestes casos, dizemos que é um predicado simples ou incomplexo.
+Nestes casos, dizemos que é um predicado **simples** ou **incomplexo**.
 
 Se, entretanto, a significação do verbo for muito ampla, torna-se necessário delimitá-la mediante um termo complementar:
 
-Clarice comprou livros.
+Clarice comprou *livros*.
 
-Eduardo viu o primo.
+Eduardo viu *o primo*.
 
-Diva gosta de Teresópolis.
+Diva gosta *de Teresópolis*.
 
-Márcio assistiu ao jogo.
+Márcio assistiu *ao jogo*.
 
-No caso de Isabel dorme, o verbo dorme tem uma significação muito definida, de modo que sua ação não está referida a nenhum outro termo da oração, a não ser ao seu sujeito Isabel.
+No caso de *Isabel dorme*, o verbo *dorme* tem uma significação muito definida, de modo que sua ação não está referida a nenhum outro termo da oração, a não ser ao seu sujeito *Isabel*.
 
-Já em Clarice comprou livros, o verbo comprou abre um leque de possibilidades da coisa comprada:
+Já em *Clarice comprou livros*, o verbo *comprou* abre um leque de possibilidades da coisa comprada:
 
-*{um vestido.*
+                    {*um vestido.*
+*Clarice comprou*   {*um carro.*
+                    {*sapatos.*
+                    {*um apartamento.*
 
-*Clarice {um carro. comprou {sapatos.*
+Desta maneira, torna-se necessário delimitar a coisa comprada: **comprou** *livros* (e não **um vestido**, **um carro**, etc.).
 
-{um
+A este termo delimitador da significação do verbo chama-se *complemento verbal*, e pode estar, como vimos pelos exemplos acima, não introduzido por preposição pedida pelo verbo (*Clarice comprou* **livros**; *Eduardo viu* **o primo**) ou estar introduzido por preposição (*Diva gosta* **de Teresópolis**; *Márcio assistiu* **ao jogo**). Em todos estes casos, dizemos que é um **predicado complexo**.
 
-*apartamento.*
-
-Desta maneira, torna-se necessário delimitar a coisa comprada: comprou livros (e não um vestido, um carro, etc.).
-
-A este termo delimitador da significação do verbo chama-se complemento verbal, e pode estar, como vimos pelos exemplos acima, não introduzido por preposição pedida pelo verbo (Clarice comprou livros; Eduardo viu o primo)
-
-ou estar introduzido por preposição (Diva gosta de Teresópolis; Márcio assistiu ao jogo). Em todos estes casos, dizemos que é um predicado complexo.
-
-<a id="verbo-intransitivo-e-transitivo-pdf79-036"></a>
 #### Verbo intransitivo e transitivo
 
-O verbo de significação definida, que não exige complemento verbal, chama-se intransitivo: dorme, caminha, desceu, chove foram empregados como intransitivos.
+O verbo de significação definida, que não exige complemento verbal, chama-se *intransitivo*: **dorme**, **caminha**, **desceu**, **chove** foram empregados como intransitivos.
 
-O verbo que é empregado acompanhado de complemento verbal chama-se transitivo: comprou, viu, gosta, assistiu foram empregados como transitivos.
+O verbo que é empregado acompanhado de complemento verbal chama-se *transitivo*: **comprou**, **viu**, **gosta**, **assistiu** foram empregados como transitivos.
 
 Embora seja um verbo empregado normalmente como intransitivo ou transitivo, a língua permite que um intransitivo possa ser empregado transitivamente ou que um transitivo seja empregado intransitivamente:
 
@@ -1464,34 +1458,26 @@ Embora seja um verbo empregado normalmente como intransitivo ou transitivo, a l�
 
 *Clarice compra no supermercado.*
 
-Observe-se que, nestes empregos, o verbo altera um pouco o seu significado; por exemplo, compra, neste último exemplo, significa faz compras e não propriamente comprou isso ou aquilo. Assim também em:
+Observe-se que, nestes empregos, o verbo altera um pouco o seu significado; por exemplo, *compra*, neste último exemplo, significa *faz compras* e não propriamente *comprou isso* ou *aquilo*. Assim também em:
 
 Ele não vê. (= é cego)
 
 Já lê. (= deixou de ser analfabeto)
 
-Portanto, é o emprego na oração que assinalará se o verbo aparece como intransitivo ou transitivo.
+Portanto, é o **emprego** na oração que assinalará se o verbo aparece como intransitivo ou transitivo.
 
-A tradição gramatical chama transitivo ao verbo que se acompanha de complemento direto, e intransitivo em caso contrário. Mais modernamente, partindo da ideia de que um verbo será transitivo ou intransitivo somente pelo seu emprego, já que este depende da vontade ou intenção comunicativa do falante: Ele escreveu cartas / Ele não escreve;
+A tradição gramatical chama *transitivo* ao verbo que se acompanha de complemento direto, e *intransitivo* em caso contrário. Mais modernamente, partindo da ideia de que um verbo será transitivo ou intransitivo somente pelo seu emprego, já que este depende da vontade ou intenção comunicativa do falante: *Ele escreveu cartas* / *Ele não escreve*; *Chove* / *Chovem reclamações*, adotamos o critério de *predicação complexa* para o que se acompanha de um limitador da aplicação designativa do verbo que lhe serve de núcleo. Assim, em *O pai levou os filhos ao cinema pela tarde, ao cinema* tem função tão limitadora do conteúdo designativo de *levou*, quanto os *filhos*. Já *pela tarde*, no exemplo, não tem o mesmo papel e, por isso, pode ser dispensável à constituição da predicação, o que não ocorre com ao *cinema*. Daí, estendermos a exemplos como *Voltou o padre para casa* o caráter da *transitividade*, funcionando *para casa* como complemento relativo, o que veremos mais adiante.
 
-Chove / Chovem reclamações, adotamos o critério de predicação complexa para o que se acompanha de um limitador da aplicação designativa do verbo que lhe serve de núcleo. Assim, em O pai levou os filhos ao cinema pela tarde, ao cinema tem função tão limitadora do conteúdo designativo de levou, quanto os filhos. Já pela tarde, no exemplo, não tem o mesmo papel e, por isso, pode ser dispensável à constituição da predicação, o que não ocorre com ao cinema.
-
-Daí, estendermos a exemplos como Voltou o padre para casa o caráter da transitividade, funcionando para casa como complemento relativo, o que veremos mais adiante.
-
-<a id="objeto-direto-e-complementos-preposicionados-pdf80-037"></a>
 #### Objeto direto e complementos preposicionados
 
-O complemento verbal não introduzido por preposição, nos exemplos acima, chama-se objeto direto: em Eduardo viu o primo—o primo é objeto direto.
+O complemento verbal não introduzido por preposição, nos exemplos acima, chama-se *objeto direto*: em *Eduardo viu o primo* — *o primo* é objeto direto.
 
-Ao complemento verbal introduzido por preposição necessária chamaremos, por enquanto, complemento preposicionado, do qual falaremos mais adiante; assim, em Diva gosta de Teresópolis e Márcio assistiu ao jogo, de
+Ao complemento verbal introduzido por preposição necessária chamaremos, por enquanto, *complemento preposicionado*, do qual falaremos mais adiante; assim, em *Diva gosta de Teresópolis* e *Márcio assistiu ao jogo*, *de Teresópolis* e *ao jogo* são complementos preposicionados.
 
-Teresópolis e ao jogo são complementos preposicionados.
+Dizemos que a preposição é necessária quando a sua não presença ou provoca um uso incorreto da língua ou da modalidade exemplar, ou altera o significado do verbo. A preposição de é necessária em *Diva gosta de Teresópolis*, porque, se usarmos sem preposição *Diva gosta Teresópolis*, estaremos cometendo um erro de português, pois se tratará de uma construção anormal em nossa língua, em qualquer das suas variedades.
 
-Dizemos que a preposição é necessária quando a sua não presença ou provoca um uso incorreto da língua ou da modalidade exemplar, ou altera o significado do verbo. A preposição de é necessária em Diva gosta de Teresópolis, porque, se usarmos sem preposição Diva gosta Teresópolis, estaremos cometendo um erro de português, pois se tratará de uma construção anormal em nossa língua, em qualquer das suas variedades.
+Já o não emprego da preposição a em *Márcio assistiu o jogo* muda, na norma da língua exemplar, o significado do verbo *assistir*. Na norma da língua exemplar, há *assistir* ao jogo ‘presenciá-lo’, ‘vê-lo’, e *assistir o doente* ‘prestar-lhe assistência’, ‘socorrê-lo’. Como o verbo está empregado no primeiro significado, deve-se dizer *Márcio assistiu ao jogo*. Nas variedades informal e popular, só há o emprego do verbo assistir no significado de ‘presenciar’, ‘ver’, e só aparece construído sem preposição *a*: *assistir o jogo, assistir a cena*.
 
-Já o não emprego da preposição a em Márcio assistiu o jogo muda, na norma da língua exemplar, o significado do verbo assistir. Na norma da língua exemplar, há assistir ao jogo ‘presenciá-lo’, ‘vê-lo’, e assistir o doente ‘prestar-lhe assistência’, ‘socorrê-lo’. Como o verbo está empregado no primeiro significado, deve-se dizer Márcio assistiu ao jogo. Nas variedades informal e popular, só há o emprego do verbo assistir no significado de ‘presenciar’, ‘ver’, e só aparece construído sem preposição a: assistir o jogo, assistir a cena.
-
-<a id="pontos-de-contato-entre-sujeito-e-objeto-direto-pdf80-038"></a>
 #### Pontos de contato entre sujeito e objeto direto
 
 Quando, no capítulo anterior, fizemos referência à possibilidade de colocar o sujeito depois do verbo, exemplificamos com a oração:
@@ -1500,110 +1486,116 @@ O caçador feriu o leão que pode ter invertida a ordem dos termos, com mensagem
 
 O leão feriu o caçador.
 
-Na língua falada, a maneira de pronunciar esta última oração marca, com uma leve pausa depois de leão, que o sujeito é caçador, embora venha depois do verbo, lugar que, normalmente, está destinado ao complemento verbal.
+Na língua falada, a maneira de pronunciar esta última oração marca, com uma leve pausa depois de *leão*, que o sujeito é *caçador*, embora venha depois do verbo, lugar que, normalmente, está destinado ao complemento verbal.
 
 Há pontos de contato entre o sujeito e o objeto direto quando, como nos exemplos acima, estão representados por substantivo. O sujeito vem à esquerda do verbo, e o objeto direto à direita:
 
-*O caçador feriu o leão.*
-
-sujeito obj. direto
+| | | |
+|-|-|-|
+|*O caçador* |*feriu* |*o leão.*|
+|sujeito obj.| | direto|
 
 Ao lado desta diferença posicional, há estratégias para a identificação destes dois termos oracionais.
 
-<a id="estrategias-para-a-identificacao-do-sujeito-pdf81-039"></a>
 #### Estratégias para a identificação do sujeito
 
-Em primeiro lugar, o sujeito pode ser substituído pelos pronomes sujeitos ele, ela, eles, elas, que marcam o gênero e o número do substantivo sujeito:
+Em primeiro lugar, o sujeito pode ser substituído pelos pronomes sujeitos *ele*, *ela*, *eles*, *elas*, que marcam o gênero e o número do substantivo sujeito:
 
-*O caçador feriu o leão.*
+*O caçador*     *feriu o leão.*
 
-*Ele feriu o leão.*
+*Ele*           *feriu o leão.*
 
-*Os caçadores estão na floresta.*
+*Os caçadores*  *estão na floresta.*
 
-*Eles estão na floresta.*
+*Eles*          *estão na floresta.*
 
 Os exemplos acima nos atestam a principal característica do sujeito, que é a concordância em número e pessoa entre ele e o verbo:
 
-*Eu fiz o exercício.*
+*Eu fiz*            *o exercício.*
 
-*Nós fizemos o exercício.*
+*Nós fizemos*       *o exercício.*
 
-*O livro está na estante.*
+*O livro está*      *na estante.*
 
-*Os livros estão na estante.*
+*Os livros estão*   *na estante.*
 
 Em segundo lugar, o sujeito responde às perguntas quem (se for pessoa) e que ou o que (se for coisa) feitas antes do verbo:
 
-— Quem feriu o leão? — O caçador. (sujeito)
+— Quem feriu o leão?                — O caçador. (sujeito)
 
-— Que (ou o que) está na estante? — O livro. (sujeito)
+— Que (ou o que) está na estante?   — O livro. (sujeito)
 
-<a id="estrategias-para-a-identificacao-do-objeto-direto-pdf81-040"></a>
 #### Estratégias para a identificação do objeto direto
 
-Em primeiro lugar, o objeto direto pode ser substituído pelos pronomes átonos o, a, os, as, que marcam o gênero e o número do substantivo objeto direto:
+Em primeiro lugar, o objeto direto pode ser substituído pelos pronomes átonos *o*, *a*, *os*, *as*, que marcam o gênero e o número do substantivo objeto direto:
 
-*O caçador feriu o leão. A lei garantiu a paz.*
+| | | |
+|-|-|-|
+|*O caçador* |*feriu* |*o leão.*|
+|sujeito obj.| | direto|
+|*O caçador* | | {*feriu-o.* / {*o feriu.*|
 
-sujeito obj. direto sujeito obj. direto
+| | | |
+|-|-|-|
+|*A lei* |*garantiu* |*a paz.*|
+|sujeito obj.| | direto|
+|*A lei* | | {*garantiu-a.* / {*a garantiu.*|
 
-*O caçador {feriu-o. A lei {garantiu-a.*
 
-{o feriu. {a garantiu.
+Em segundo lugar, na transformação da voz ativa em passiva (➚ 299), o sujeito passa a agente da passiva precedido da preposição *por* (*per* na combinação), e o objeto direto passa a sujeito, à esquerda do verbo:
 
-Em segundo lugar, na transformação da voz ativa em passiva (➚ 299), o sujeito passa a agente da passiva precedido da preposição por (per na combinação), e o objeto direto passa a sujeito, à esquerda do verbo:
+*O caçador feriu o leão.* → *O leão foi ferido pelo caçador.*
 
-*O caçador feriu o leão. → O leão foi ferido pelo caçador.*
+*A lei garantiu a paz.* → *A paz foi garantida pela lei.*
 
-*A lei garantiu a paz. → A paz foi garantida pela lei.*
-
-Uma terceira estratégia é verificar que o objeto direto responde às perguntas a quem? (para pessoa) e que ou o quê? (para coisa) feitas depois da sequência sujeito + verbo:
+Uma terceira estratégia é verificar que o objeto direto responde às perguntas *a quem?* (para pessoa) e *que* ou *o quê?* (para coisa) feitas **depois** da sequência sujeito + verbo:
 
 *O caçador viu o companheiro.*
 
-*O caçador viu a quem? → O companheiro. (obj. direto)*
+*O caçador viu a quem?* → *O companheiro. (obj. direto)*
 
 *O tiro acertou o muro.*
 
-*O tiro acertou o quê? → O muro. (obj. direto)*
+*O tiro acertou o quê?* → *O muro. (obj. direto)*
 
-Por fim, reconhece-se o objeto direto mediante a transposição (topicalização) do objeto direto para a esquerda do verbo, o que permite, sem ser obrigatória, a presença dos pronomes pessoais o, a, os, as junto ao verbo, repetindo o objeto direto transposto:
+Por fim, reconhece-se o objeto direto mediante a transposição (topicalização) do objeto direto para a esquerda do verbo, o que permite, sem ser obrigatória, a presença dos pronomes pessoais *o*, *a*, *os*, *as* junto ao verbo, repetindo o objeto direto transposto:
 
-O caçador viu o lobo. {O lobo o caçador o viu. (ou viu-o)
-
-{O lobo, viu-o o caçador.
+O caçador viu o lobo.  {O lobo o caçador o viu. (ou viu-o)
+                        { O lobo, viu-o o caçador.
 
 Para o emprego ou não de vírgula, consultar página 727.
 
-<a id="objeto-direto-preposicionado-pdf82-041"></a>
 #### Objeto direto preposicionado
 
-Em geral, como vimos, o objeto direto é o complemento verbal não introduzido por preposição. Todavia, às vezes, a preposição aparece sem ser necessária, e assim pode ser dispensada. Diz-se, então, que o objeto direto é preposicionado. Eis os principais casos em que isto pode ocorrer:
+Em geral, como vimos, o objeto direto é o complemento verbal não introduzido por preposição. Todavia, às vezes, a preposição aparece sem ser necessária, e assim pode ser dispensada. Diz-se, então, que o objeto direto é *preposicionado*. Eis os principais casos em que isto pode ocorrer:
 
 a) quando o verbo exprime sentimento ou manifestação de sentimento, e o objeto direto designa a pessoa ou ser animado:
 
-Amar a Deus sobre todas as coisas. Amá-lo sobre todas as coisas.
+Amar *a Deus* sobre todas as coisas. *Amá-lo sobre todas as coisas*.
 
-Estimava aos parentes. Estimava-os.
+Estimava *aos parentes*. Estimava-os.
+
 
 b) quando se deseja assinalar claramente o objeto direto nas inversões:
 
-Ao leão feriu o caçador.
+*Ao leão* feriu o caçador.
 
-A Abel matou Caim.
+*A Abel* matou Caim.
+
 
 Há três casos em que a preposição junto ao objeto direto é obrigatória:
 
 a) quando está representado por pronome pessoal oblíquo tônico:
 
-Não vejo a ela há meses.
+Não vejo *a ela* há meses.
 
-Entendemos a ele muito bem.
+Entendemos *a ele* muito bem.
 
-b) quando está representado pela expressão de reciprocidade um ao outro:
+
+b) quando está representado pela expressão de reciprocidade *um* ao *outro*:
 
 Conhecem-se um ao outro.
+
 
 c) quando o objeto direto é composto, sendo o segundo núcleo representado por substantivo:
 
@@ -1611,80 +1603,69 @@ Conheço-o e ao pai.
 
 Quando há, por ênfase, repetição do objeto direto mediante substantivo, o emprego da preposição antes deste substantivo complemento é facultativo:
 
-Ao mau amigo não o prezo. / O mau amigo não o prezo.
+*Ao mau amigo* não o prezo. / *O mau amigo* não o prezo.
 
-<a id="a-preposicao-como-posverbio-pdf83-042"></a>
 #### A preposição como posvérbio
 
 Às vezes, a preposição que acompanha o objeto direto tem por função dar certo colorido semântico ao verbo:
 
-*Chamar por Nossa Senhora. (= chamar para pedir proteção)*
+Chamar *por Nossa Senhora.* (= *chamar para pedir proteção*)
 
-O capitão arrancou da espada. (= tirou-a totalmente da bainha)
+O capitão arrancou *da espada.* (= *tirou-a totalmente da bainha*)
 
-O filho cumpre com seu dever. (= cumpre com zelo o dever que lhe cabe)
+O filho cumpre *com seu dever.* (= *cumpre com zelo o dever que lhe cabe*)
 
-O pai fez com que o filho entendesse tais conselhos. (= ensinou efetivamente)
+O pai fez *com que o filho entendesse* tais conselhos. (= *ensinou efetivamente*)
 
-À preposição com esta função chama-lhe Antenor Nascentes posvérbio.
+À preposição com esta função chama-lhe Antenor Nascentes *posvérbio*.
 
-<a id="complementos-verbais-preposicionados-pdf83-043"></a>
 #### Complementos verbais preposicionados
 
-A tradição gramatical, confirmada pela Nomenclatura Gramatical Brasileira, chama objeto indireto a todo complemento verbal introduzido por preposição necessária. Já vimos tais complementos preposicionados exemplificados com:
+A tradição gramatical, confirmada pela *Nomenclatura Gramatical Brasileira*, chama *objeto indireto* a todo complemento verbal introduzido por preposição necessária. Já vimos tais complementos preposicionados exemplificados com:
 
-Diva gosta de Teresópolis.
+Diva gosta *de Teresópolis*.
 
-Márcio assistiu ao jogo.
+Márcio assistiu *ao jogo*.
 
 A tais exemplos se juntam outros do tipo de:
 
-O escritor dedicou o romance à sua esposa.
+O escritor dedicou o romance *à sua esposa*.
 
-Certos alunos escrevem poesias à namorada.
+Certos alunos escrevem poesias *à namorada*.
 
-O jogador reclamou a falta ao juiz.
+O jogador reclamou a falta *ao juiz*.
 
 Embora em todos estes exemplos haja um termo introduzido por preposição necessária, a língua parece distingui-los, como veremos a seguir.
 
 Os complementos verbais do primeiro grupo de exemplos se diferenciam:
 
-a) pela delimitação imediata da significação ampla do verbo: gostar de x, assistir a x;
+a) pela delimitação *imediata* da significação ampla do verbo: *gostar de x*, *assistir a x*;
 
-b) pela possibilidade de acompanhamento por qualquer preposição exigida pela significação do verbo: de em gostar de indica a “origem” do afeto, a em assistir a indica “direção” ao ser visualizado, em indica “lugar”, no exemplo Marcelinho pôs o livro em cima da mesa. Por esta razão, já houve quem assinalasse a íntima relação desse complemento preposicionado com a circunstância adverbial que estudaremos mais adiante;
+b) pela possibilidade de acompanhamento por qualquer preposição exigida pela significação do verbo: *de* em *gostar de* indica a “origem” do afeto, *a* em *assistir a* indica “direção” ao ser visualizado, *em* indica “lugar”, no exemplo *Marcelinho pôs o livro em cima da mesa*. Por esta razão, já houve quem assinalasse a íntima relação desse complemento preposicionado com a circunstância adverbial que estudaremos mais adiante;
 
-c) pela impossibilidade de se substituir o complemento preposicionado pelo pronome pessoal átono lhe: a construção só é possível mediante pronome pessoal tônico ele, ela, eles, elas (com marca do gênero e número do substantivo substituído) precedido da preposição pedida pelo verbo: Diva gosta de Teresópolis → Diva gosta dela
-
-(da cidade); Márcio assistiu ao jogo → Márcio assistiu a ele. Estariam erradas as comutações: *gosta-lhe, *assistiu-
-
-*lhe*
+c) pela impossibilidade de se substituir o complemento preposicionado pelo pronome pessoal átono *lhe*: a construção só é possível mediante pronome pessoal tônico *ele*, *ela*, *eles*, *elas* (com marca do gênero e número do substantivo substituído) precedido da preposição pedida pelo verbo: *Diva gosta de Teresópolis* → *Diva gosta dela* (da cidade); *Márcio assistiu ao jogo* → *Márcio assistiu a ele*. Estariam erradas as comutações: *gosta-lhe*, *assistiu-lhe*
 
 Já os complementos verbais preposicionados do segundo grupo de exemplos se distinguem:
 
-a) pela delimitação mediata da significação do verbo, já que denota o destinatário ou beneficiário do processo designado pelo conjunto verbo + objeto direto:
+a) pela delimitação *mediata* da significação do verbo, já que denota o destinatário ou beneficiário do processo designado pelo conjunto verbo + objeto direto:
 
-O escritor dedicou o romance à sua esposa.
+O escritor dedicou o romance *à sua esposa*.
 
-O jogador reclamou a falta ao juiz.
+O jogador reclamou a falta *ao juiz*.
 
-Observe-se que à sua esposa e ao juiz não são delimitações imediatas de dedicou e reclamou, mas do conjunto dedicou o romance e reclamou a falta; tanto é assim que seriam ininteligíveis, num momento inicial, sem uma fala prévia, as orações O escritor dedicou à esposa e O jogador reclamou ao juiz.
+Observe-se que *à sua esposa* e *ao juiz* não são delimitações imediatas de *dedicou* e *reclamou*, mas do conjunto *dedicou o romance* e *reclamou a falta*; tanto é assim que seriam ininteligíveis, num momento inicial, sem uma fala prévia, as orações *O escritor dedicou à esposa* e *O jogador reclamou ao juiz*.
 
-b) pelo aparecimento exclusivo da preposição a (raramente para) como introdutora de tais complementos verbais:
+b) pelo aparecimento exclusivo da preposição **a** (raramente *para*) como introdutora de tais complementos verbais: *à sua esposa, ao juiz.*
 
-*à sua esposa, ao juiz.*
-
-c) pela possibilidade de se substituir este complemento verbal preposicionado pelo pronome pessoal átono lhe, que marca apenas o número do substantivo comutado (lhe, lhes): O escritor dedicou o romance à sua esposa → O
-
-*escritor dedicou-lhe o romance; O jogador reclamou a falta ao juiz e ao banderinha → O jogador reclamou-lhes a falta.*
+c) pela possibilidade de se substituir este complemento verbal preposicionado pelo pronome pessoal átono *lhe*, que marca apenas o número do substantivo comutado (*lhe*, *lhes*): *O escritor dedicou o romance à sua esposa* → *O escritor dedicou-lhe o romance*; *O jogador reclamou a falta ao juiz e ao banderinha* → *O jogador reclamou-lhes a falta.*
 
 **Observação:**
 
-→ Quando o significado do verbo tem bem caracterizado o seu objeto direto, este pode ser omitido, de modo que no predicado só aparecerá o complemento preposicionado do segundo grupo. Assim, escrever só pode ter como objeto direto um texto (palavra, oração, carta, bilhete, etc.); por isso, é possível aparecer empregado de forma absoluta, desde que o objeto direto seja conhecido previamente: O diretor escreveu aos pais.
+→ Quando o significado do verbo tem bem caracterizado o seu objeto direto, este pode ser omitido, de modo que no predicado só aparecerá o complemento preposicionado do segundo grupo. Assim, *escrever* só pode ter como objeto direto *um texto* (*palavra*, *oração*, *carta*, *bilhete*, etc.); por isso, é possível aparecer empregado de forma absoluta, desde que o objeto direto seja conhecido previamente: *O diretor escreveu aos pais*.
 
-<a id="complemento-relativo-e-objeto-indireto-pdf84-044"></a>
 #### Complemento relativo e objeto indireto
 
-Em vista destas diferenças dos complementos verbais preposicionados, preferimos aqui chamar ao complemento do primeiro grupo complemento relativo e, ao do segundo, objeto indireto.
+Em vista destas diferenças dos complementos verbais preposicionados, preferimos aqui chamar ao complemento do primeiro grupo *complemento relativo* e, ao do segundo, *objeto indireto*.
 
 Estamos diante de complemento relativo em:
 
@@ -1692,7 +1673,7 @@ Estamos diante de complemento relativo em:
 
 *Márcio assistiu ao jogo.*
 
-Marcelinho pôs o livro na pasta.
+*Marcelinho pôs o livro na pasta.*
 
 E de objeto indireto em:
 
@@ -1700,31 +1681,39 @@ E de objeto indireto em:
 
 *O jogador reclamou a falta ao juiz.*
 
-<a id="passagens-no-emprego-do-objeto-direto-e-complemento-preposicionado-pdf84-045"></a>
 #### Passagens no emprego do objeto direto e complemento preposicionado
 
-A proximidade da função semântico-sintática do objeto direto e dos complementos em relação ao verbo do predicado preposicionado justifica o fato de que, na história da língua, tenha ocorrido a passagem de objeto direto a complemento preposicionado e vice-versa. Assim ocorria com socorrer, que se construía antigamente com preposição (socorrer aos pobres) e hoje se constrói com objeto direto (socorrer os pobres / socorrê-los).
+A proximidade da função semântico-sintática do objeto direto e dos complementos em relação ao verbo do predicado preposicionado justifica o fato de que, na história da língua, tenha ocorrido a passagem de objeto direto a complemento preposicionado e vice-versa. Assim ocorria com *socorrer*, que se construía antigamente com preposição (*socorrer aos pobres*) e hoje se constrói com objeto direto (*socorrer os pobres* / *socorrê-los*).
 
 Esta mudança de construção ocorre hoje entre a norma exemplar e a norma de outras variedades da língua:
 
-**Norma do registro exemplar Norma do registro informal**
-
-*assistir ao jogo assistir o jogo implicar prejuízo implicar em prejuízo*
+| | |
+|-|-|
+|**Norma do registro exemplar** | **Norma do registro informal** |
+| *assistir ao jogo* | *assistir o jogo* |
+| *implicar prejuízo* | *implicar em prejuízo*|
 
 Mesmo na norma do registro exemplar há a possibilidade de alguns verbos serem construídos indiferentemente com objeto direto ou complemento preposicionado:
 
-ajudar a missa ajudar à missa atender o telefone atender ao telefone chamar românicas essas línguas chamar românicas a essas línguas presidir a sessão presidir à sessão satisfazer o pedido satisfazer ao pedido
+| | |
+|-|-|
+| ajudar a missa | ajudar à missa|
+| atender o telefone | atender ao telefone |
+| chamar românicas essas línguas |chamar românicas a essas línguas |
+| presidir a sessão | presidir à sessão |
+| satisfazer o pedido | satisfazer ao pedido |
 
-<a id="predicado-complexo-com-dois-complementos-pdf85-046"></a>
 #### Predicado complexo com dois complementos
 
 Já vimos que o objeto indireto integra a função predicativa exercida por verbo + objeto direto:
 
-Evaldo escreveu carta ao Aníbal.
+Evaldo escreveu carta *ao Aníbal*.
 
 Também o objeto indireto pode ocorrer com complemento relativo, de modo que teremos aqui dois complementos verbais preposicionados:
 
-O professor queixou-se da turma ao diretor.
+| | | |
+|-|-|-|
+| O professor queixou-se da turma ao diretor.
 
 *(compl. rel.) (obj. ind.)*
 
