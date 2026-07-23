@@ -26,8 +26,6 @@ Desde o início de suas atividades, em 1936, o IBGE consolidou-se como o princip
 > Retratar o Brasil com informações necessárias ao conhecimento de sua realidade e ao exercício da cidadania.
 > Missão institucional do IBGE.
 
-Missão institucional do IBGE.
-
 Produção de informações sobre a realidade vivida pela população
 
 ![Missão institucional do IBGE](https://raw.githubusercontent.com/inaciopjsi2/eaof/master/assets/ibge/pagina-004-figura-01.png)

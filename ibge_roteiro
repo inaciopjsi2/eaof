@@ -1,0 +1,1373 @@
+# Roteiro de estudos — Conhecimentos especializados do IBGE
+
+## 12º Censo Agropecuário, Florestal e Aquícola
+
+**Cargo de referência:** Agente Censitário de Qualidade (ACQ)
+
+**Fonte principal:** apostila *Conhecimentos básicos para o Censo Agropecuário, Florestal e Aquícola*.
+
+**Escopo:** conteúdo útil das páginas 4 a 66. Foram excluídos capa, sumário editorial, apresentação, encerramento e elementos meramente promocionais ou decorativos.
+
+## Critério de fragmentação
+
+- Cada item final representa uma aula expositiva independente.
+- Cada aula trata de um conceito central, sem misturar assuntos que exigem raciocínios diferentes.
+- Tópicos amplos foram quebrados em subtópicos operacionais.
+- Assuntos procedimentais foram divididos por conceitos, responsabilidades, procedimentos, efeitos, sistemas e documentos.
+- Assuntos técnicos foram divididos por conceitos, cálculos, componentes, classificações e regras de aplicação.
+- A sequência foi organizada do fundamento institucional para a aplicação em campo e, depois, para as situações especiais.
+
+## Como usar este roteiro no NotebookLM
+
+Para produzir uma ferramenta de estudo, selecione uma aula por vez e solicite ao NotebookLM que use somente o trecho correspondente da fonte. Não peça a produção simultânea de vários itens, pois isso tende a reduzir a profundidade e a misturar regras operacionais.
+
+Modelo de comando:
+
+```text
+Crie uma aula expositiva independente sobre o tema indicado abaixo.
+Use apenas as fontes carregadas no NotebookLM.
+Cubra integralmente todos os pontos obrigatórios.
+Não incorpore conteúdos reservados a outras aulas.
+Explique definições, regras, exceções e exemplos da fonte.
+Ao final, produza: resumo estruturado, 10 flashcards e 10 questões objetivas comentadas.
+
+Aula: [colar título, conceito central, cobertura obrigatória e limites de escopo]
+```
+
+## Sumário dos módulos
+
+1. Módulo 1 — IBGE e fundamentos do Censo Agropecuário
+2. Módulo 2 — Estrutura organizacional e responsabilidades censitárias
+3. Módulo 3 — Instrumentos de trabalho
+4. Módulo 4 — Navegação e leitura territorial em campo
+5. Módulo 5 — Divisão político-administrativa e classificação dos setores
+6. Módulo 6 — Povos e Comunidades Tradicionais
+7. Módulo 7 — Registro de endereços
+8. Módulo 8 — Coordenadas geográficas
+9. Módulo 9 — Estabelecimento agropecuário e unidades recenseáveis
+10. Módulo 10 — Produtores sem área
+11. Módulo 11 — Situações especiais de identificação e registro
+
+---
+
+## Módulo 1 — IBGE e fundamentos do Censo Agropecuário
+
+### Aula 01 — Papel institucional, missão e rede territorial do IBGE
+
+**Conceito central:** Função do IBGE como coordenador e produtor de informações estatísticas e geográficas.
+
+**Cobertura obrigatória:**
+
+- Missão institucional do IBGE.
+- Impacto das informações estatísticas e geográficas sobre planejamento, políticas públicas e cidadania.
+- Rede nacional de pesquisa e disseminação: Superintendências Estaduais e Agências.
+- Vinculação das unidades à Presidência e suas funções de planejamento, coordenação, execução e monitoramento.
+
+**Limite de escopo:** Não aprofundar a estrutura temporária do Censo, que será tratada em aulas próprias.
+
+**Fonte na apostila:** páginas 4–5.
+
+### Aula 02 — Pesquisa censitária e utilidade pública dos censos
+
+**Conceito central:** Conceito de pesquisa censitária e finalidade das informações produzidas.
+
+**Cobertura obrigatória:**
+
+- Levantamento de toda a população do universo investigado.
+- Universo do Censo Agropecuário: estabelecimentos agropecuários.
+- Uso dos resultados para investimentos públicos, desenvolvimento econômico e distribuição de recursos.
+- Censo Agropecuário como principal investigação estatística da estrutura e da produção agropecuária brasileira.
+
+**Limite de escopo:** Não detalhar ainda o conceito operacional de estabelecimento agropecuário.
+
+**Fonte na apostila:** páginas 6.
+
+### Aula 03 — Significado de agropecuário, florestal e aquícola
+
+**Conceito central:** Delimitação conceitual das três categorias de atividades investigadas.
+
+**Cobertura obrigatória:**
+
+- Agropecuário: agricultura, produção vegetal, pecuária e criação de animais.
+- Florestal: cultivo, manejo e exploração de florestas e matas nativas ou plantadas, incluindo extrativismo.
+- Aquícola: criação e multiplicação de plantas e animais cujo ciclo de vida ocorre total ou parcialmente em meio aquático.
+- Produção para comercialização e produção para subsistência.
+
+**Limite de escopo:** Não confundir os conceitos gerais com a classificação detalhada das atividades produtivas.
+
+**Fonte na apostila:** páginas 6–7.
+
+### Aula 04 — Evolução histórica e tecnológica do Censo Agropecuário
+
+**Conceito central:** Desenvolvimento histórico da operação censitária agropecuária no Brasil.
+
+**Cobertura obrigatória:**
+
+- Primeiro Censo Agropecuário em 1920 e responsabilidade do IBGE a partir de 1936.
+- Periodicidade dos censos entre 1940 e 1985.
+- Interrupção de 1990 e realizações de 1996, 2007 e 2017.
+- Transformações acompanhadas pelos censos: sistemas produtivos, ocupação territorial, expansão agrícola, mecanização, política fundiária e produtividade.
+- Mudanças metodológicas e tecnológicas, incluindo questionário eletrônico, DMC, mapas digitais e imagens de satélite.
+
+**Limite de escopo:** Não detalhar o funcionamento dos instrumentos digitais, tratado no módulo de instrumentos.
+
+**Fonte na apostila:** páginas 8–9.
+
+### Aula 05 — Objetivo, referência temporal e produtos do 12º Censo Agropecuário
+
+**Conceito central:** Finalidade operacional do levantamento e resultados que se pretende produzir.
+
+**Cobertura obrigatória:**
+
+- Levantamento de todos os estabelecimentos agropecuários do território nacional.
+- Coleta prevista para 2027 e referência aos dados de 2026, conforme a apostila.
+- Conhecimento da estrutura, dinâmica, tipo de produção e efeitos ambientais da atividade agropecuária.
+- Comparação com censos anteriores.
+- Informações segundo tipologias do universo agropecuário.
+- Resultados por municípios, Unidades da Federação e Grandes Regiões.
+- Formação de cadastro para pesquisas amostrais.
+
+**Limite de escopo:** Não misturar data e período de referência usados na classificação dos estabelecimentos, tratados posteriormente.
+
+**Fonte na apostila:** páginas 9.
+
+### Aula 06 — Concepção metodológica, abrangência territorial e impactos do Censo
+
+**Conceito central:** Referenciais metodológicos e usos analíticos dos resultados censitários.
+
+**Cobertura obrigatória:**
+
+- Recomendações da Estratégia Global para o Aprimoramento das Estatísticas Agropecuárias.
+- Programa Mundial de Censos Agropecuários da FAO.
+- Resultados em nível municipal e possibilidade de agregação por recortes territoriais.
+- Unidades de Conservação, Terras Indígenas, Territórios Quilombolas, biomas e projetos de assentamento.
+- Avaliação de políticas públicas, incluindo o Pronaf.
+- Estudos sobre fronteiras agrícolas, inovação tecnológica, indicadores ambientais e reestruturação econômica.
+- Objetivos gerais do Pronaf.
+
+**Limite de escopo:** Não aprofundar estruturas territoriais de povos e comunidades tradicionais.
+
+**Fonte na apostila:** páginas 10.
+
+---
+
+## Módulo 2 — Estrutura organizacional e responsabilidades censitárias
+
+### Aula 07 — Estrutura permanente e estrutura temporária do Censo
+
+**Conceito central:** Organização institucional necessária para executar uma operação censitária.
+
+**Cobertura obrigatória:**
+
+- Censo como grande operação estatística.
+- Ampliação temporária da estrutura permanente do IBGE.
+- Estrutura permanente na Sede e nas Superintendências Estaduais.
+- Divisão entre estrutura permanente e estrutura temporária.
+- Contratação temporária por processos seletivos simplificados.
+
+**Limite de escopo:** Não detalhar funções individuais dos cargos.
+
+**Fonte na apostila:** páginas 11–12.
+
+### Aula 08 — Centro Nacional de Qualidade e Centro Estadual de Qualidade
+
+**Conceito central:** Fluxo institucional de monitoramento da qualidade dos dados.
+
+**Cobertura obrigatória:**
+
+- Vinculação do Centro Nacional de Qualidade à Sede.
+- Monitoramento nacional da qualidade dos dados.
+- Orientação do CNQ aos Centros Estaduais de Qualidade.
+- Vinculação do CEQ às Superintendências Estaduais.
+- Monitoramento estadual da qualidade.
+- Relação hierárquica e operacional entre CNQ e CEQ.
+
+**Limite de escopo:** Não detalhar ainda as atribuições pessoais do ACQ.
+
+**Fonte na apostila:** páginas 12–13.
+
+### Aula 09 — Postos censitários: função, abrangência e composição
+
+**Conceito central:** Papel do posto censitário como base operacional da coleta.
+
+**Cobertura obrigatória:**
+
+- Vinculação dos postos às Superintendências Estaduais e Agências.
+- Atendimento a um município ou conjunto de municípios.
+- Apoio às equipes de supervisão e recenseamento.
+- Composição: AOR, ACA, ACI, ACR, ACS e Recenseador.
+
+**Limite de escopo:** Não aprofundar as atribuições de cada cargo.
+
+**Fonte na apostila:** páginas 13–14.
+
+### Aula 10 — Cadeia de supervisão da qualidade e papel do ACQ
+
+**Conceito central:** Responsabilidades dos profissionais diretamente ligados à qualidade dos dados.
+
+**Cobertura obrigatória:**
+
+- Analista Censitário Nacional e coordenação dos ACQs no CNQ.
+- Agente Censitário de Qualidade Nacional e supervisão em âmbito nacional.
+- Analista Censitário Estadual e coordenação dos ACQs na Unidade da Federação.
+- Agente Censitário de Qualidade e supervisão dos dados de campo.
+- Orientação a ACS e Recenseadores para correção de erros.
+- Identificação da necessidade de reforço de treinamentos.
+
+**Limite de escopo:** Manter o foco na cadeia de qualidade, sem incorporar atribuições administrativas dos postos.
+
+**Fonte na apostila:** páginas 14–15.
+
+### Aula 11 — Funções de apoio do posto: AOR, ACA e ACI
+
+**Conceito central:** Responsabilidades administrativas, operacionais e tecnológicas do posto censitário.
+
+**Cobertura obrigatória:**
+
+- AOR: gestão do posto e observância das instruções operacionais, técnicas e administrativas.
+- ACA: apoio às atividades administrativas executadas pelo AOR.
+- ACI: apoio em tecnologia da informação ao AOR.
+- Distinção entre gestão, apoio administrativo e suporte técnico.
+
+**Limite de escopo:** Não incluir supervisão da coleta, que pertence ao ACR e ao ACS.
+
+**Fonte na apostila:** páginas 15.
+
+### Aula 12 — Agente Censitário Regional: coordenação e controle operacional
+
+**Conceito central:** Gestão das atividades censitárias no âmbito do posto.
+
+**Cobertura obrigatória:**
+
+- Subordinação ao AOR e gestão dos ACS.
+- Coordenação das atividades conforme manuais e normas.
+- Acompanhamento do desempenho das equipes.
+- Monitoramento da cobertura e do cronograma.
+- Análise de relatórios e indicadores.
+- Gestão de alertas e solução de pendências da Supervisão de Qualidade.
+- Apoio técnico aos ACS.
+- Qualidade, confidencialidade e integridade dos dados.
+
+**Limite de escopo:** Não confundir coordenação regional com supervisão direta diária dos Recenseadores.
+
+**Fonte na apostila:** páginas 15–16.
+
+### Aula 13 — Agente Censitário Supervisor: supervisão dos Recenseadores
+
+**Conceito central:** Acompanhamento técnico e operacional da equipe de coleta.
+
+**Cobertura obrigatória:**
+
+- Supervisão do trabalho dos Recenseadores.
+- Realização de treinamentos.
+- Apoio técnico e operacional.
+- Análise de relatórios de produção.
+- Gestão de alertas no SIGC.
+- Monitoramento da cobertura e do cronograma.
+- Atendimento às solicitações do CEQ.
+- Execução de diferentes tipos de coleta quando solicitada.
+
+**Limite de escopo:** Não atribuir ao ACS a gestão geral do posto.
+
+**Fonte na apostila:** páginas 17.
+
+### Aula 14 — Recenseador: coleta, registro, transmissão e deveres operacionais
+
+**Conceito central:** Execução presencial da coleta censitária.
+
+**Cobertura obrigatória:**
+
+- Coleta em rotas diárias sob supervisão do ACS.
+- Treinamento prévio e uso dos recursos instrucionais.
+- Visita e registro de estabelecimentos e coordenadas.
+- Abordagem, entrevista e preenchimento do questionário.
+- Registro e transmissão de fotos, parcelas, coordenadas e questionários.
+- Agendamento de entrevistas.
+- Zelo pelo DMC e pela confidencialidade.
+
+**Limite de escopo:** Não aprofundar o conceito de estabelecimento agropecuário.
+
+**Fonte na apostila:** páginas 17–18.
+
+### Aula 15 — Posto censitário, avaliação do trabalho e retorno a campo
+
+**Conceito central:** Fluxo de controle e correção da coleta a partir do posto censitário.
+
+**Cobertura obrigatória:**
+
+- Posto como local temporário de gerenciamento, supervisão e coleta.
+- Comparecimento do Recenseador quando requisitado.
+- Avaliação do trabalho pelo supervisor.
+- Correção de falhas.
+- Retorno a campo quando houver necessidade de corrigir dados.
+- Responsabilidade de percorrer toda a área e registrar os estabelecimentos corretamente.
+
+**Limite de escopo:** Não repetir a composição administrativa do posto.
+
+**Fonte na apostila:** páginas 19.
+
+---
+
+## Módulo 3 — Instrumentos de trabalho
+
+### Aula 16 — Setor censitário como unidade territorial de coleta
+
+**Conceito central:** Definição da área de responsabilidade do Recenseador.
+
+**Cobertura obrigatória:**
+
+- Setor censitário como menor área geográfica definida pelo IBGE.
+- Unidade territorial de coleta do Censo Agropecuário.
+- Predominância de setores em áreas rurais.
+- Responsabilidade de observar os limites e percorrer integralmente o setor.
+
+**Limite de escopo:** Não abordar ainda classificação, situação ou tipo de setor.
+
+**Fonte na apostila:** páginas 20.
+
+### Aula 17 — Mapa do Setor Censitário e Descritivo do Setor
+
+**Conceito central:** Instrumentos complementares para reconhecer a área de coleta.
+
+**Cobertura obrigatória:**
+
+- Mapa como representação gráfica da área a ser recenseada.
+- Elementos que auxiliam o reconhecimento em campo.
+- Descrição dos limites no verso do mapa.
+- Descritivo como texto que define o contorno do setor.
+- Consulta para confirmação do perímetro.
+
+**Limite de escopo:** Não detalhar ainda legenda, escala e partes do descritivo.
+
+**Fonte na apostila:** páginas 20.
+
+### Aula 18 — Mapa Municipal Estatístico e planejamento de acesso ao setor
+
+**Conceito central:** Uso da visão municipal para localizar o setor e planejar a chegada.
+
+**Cobertura obrigatória:**
+
+- Mapa Municipal Estatístico fixado no posto.
+- Visão geral dos setores do município.
+- Representação das vias de acesso.
+- Identificação da posição do setor no município.
+- Planejamento dos meios necessários para chegar à área de coleta.
+
+**Limite de escopo:** Não usar o MME como substituto do mapa detalhado do setor.
+
+**Fonte na apostila:** páginas 20.
+
+### Aula 19 — Dispositivo Móvel de Coleta e mapa digital
+
+**Conceito central:** Sistema digital usado para armazenar, consultar e registrar dados em campo.
+
+**Cobertura obrigatória:**
+
+- DMC como tablet de coleta.
+- Registro e armazenamento das informações.
+- Imagem de satélite do setor e áreas vizinhas.
+- Destaque visual dos limites.
+- Uso para localização, orientação e reconhecimento da área.
+
+**Limite de escopo:** Não aprofundar a captura de coordenadas geográficas.
+
+**Fonte na apostila:** páginas 21.
+
+### Aula 20 — Lista prévia de endereços e regras de atualização
+
+**Conceito central:** Manutenção da relação de estabelecimentos existentes no setor.
+
+**Cobertura obrigatória:**
+
+- Origem da lista em pesquisas anteriores e registros administrativos.
+- Obrigação de visitar todos os endereços existentes em campo.
+- A lista não limita a busca por novas unidades.
+- Confirmação de endereços encontrados.
+- Inclusão de novos endereços.
+- Exclusão de endereços não localizados.
+
+**Limite de escopo:** Não detalhar os componentes formais do endereço.
+
+**Fonte na apostila:** páginas 21.
+
+### Aula 21 — Questionário censitário e blocos de informação
+
+**Conceito central:** Instrumento de registro das características do estabelecimento.
+
+**Cobertura obrigatória:**
+
+- Identificação, localização e características do estabelecimento.
+- Identificação e características do produtor ou administrador.
+- Características da produção.
+- Área do estabelecimento.
+- Distribuição do uso das terras.
+- Relação entre preenchimento correto, qualidade e fidelidade dos dados.
+
+**Limite de escopo:** Não antecipar regras de classificação de unidades recenseáveis.
+
+**Fonte na apostila:** páginas 21–22.
+
+### Aula 22 — Manual do Recenseador e recursos instrucionais
+
+**Conceito central:** Documentação de referência para conceitos, procedimentos e sistemas.
+
+**Cobertura obrigatória:**
+
+- Uso durante o treinamento.
+- Consulta no planejamento e na execução em campo.
+- Orientações conceituais, procedimentais e sistêmicas.
+- Materiais complementares para apoiar a qualidade da coleta.
+
+**Limite de escopo:** Não transformar a aula em revisão geral dos demais conteúdos.
+
+**Fonte na apostila:** páginas 22.
+
+---
+
+## Módulo 4 — Navegação e leitura territorial em campo
+
+### Aula 23 — Legenda cartográfica e interpretação de símbolos
+
+**Conceito central:** Leitura correta dos elementos representados no mapa.
+
+**Cobertura obrigatória:**
+
+- Cores, símbolos e estilos gráficos.
+- Identificação de estradas, rios, vegetação e construções.
+- Obrigação de consultar a legenda antes de interpretar um símbolo.
+
+**Limite de escopo:** Não misturar legenda com cálculo de escala.
+
+**Fonte na apostila:** páginas 23–24.
+
+### Aula 24 — Escala numérica e cálculo de distância real
+
+**Conceito central:** Conversão da medida no mapa para a distância no terreno.
+
+**Cobertura obrigatória:**
+
+- Relação proporcional entre mapa e realidade.
+- Interpretação da escala 1:50.000.
+- Cálculo em centímetros.
+- Conversão de centímetros para metros e quilômetros.
+- Exemplo de 3 cm correspondendo a 1,5 km.
+
+**Limite de escopo:** Manter o foco no cálculo; não aprofundar logística de acesso.
+
+**Fonte na apostila:** páginas 24–25.
+
+### Aula 25 — Escala gráfica e planejamento do deslocamento
+
+**Conceito central:** Estimativa prática de distâncias e esforço de campo.
+
+**Cobertura obrigatória:**
+
+- Transferência de medidas na escala gráfica.
+- Estimativa de distância com os dedos.
+- Relação entre distância, tempo de caminhada e condições do terreno.
+- Consulta da escala antes da saída para campo.
+- Planejamento de deslocamentos em setores rurais.
+
+**Limite de escopo:** Não repetir o desenvolvimento matemático da escala numérica.
+
+**Fonte na apostila:** páginas 25–26.
+
+### Aula 26 — Imagem de satélite como instrumento de orientação
+
+**Conceito central:** Uso da imagem orbital para reconhecer o terreno.
+
+**Cobertura obrigatória:**
+
+- Imagem real do terreno vista de cima.
+- Reconhecimento de rios, estradas, plantações, galpões e vegetação.
+- Comparação contínua entre imagem e observação de campo.
+
+**Limite de escopo:** Não incluir ainda os critérios detalhados de interpretação visual.
+
+**Fonte na apostila:** páginas 26.
+
+### Aula 27 — Interpretação de imagens por forma, tamanho, localização e cor
+
+**Conceito central:** Critérios visuais para identificar elementos territoriais.
+
+**Cobertura obrigatória:**
+
+- Forma característica de objetos.
+- Tamanho relativo de construções, galpões, casas e árvores.
+- Relação espacial entre estradas, rios e propriedades.
+- Uso das cores para reconhecer pastagens e telhados.
+
+**Limite de escopo:** Não transformar indícios visuais em classificação automática de estabelecimento.
+
+**Fonte na apostila:** páginas 26–27.
+
+### Aula 28 — Identificação e registro de endereços ausentes da lista prévia
+
+**Conceito central:** Procedimento quando uma unidade é encontrada pela imagem ou em campo.
+
+**Cobertura obrigatória:**
+
+- Possibilidade de o endereço não constar na lista.
+- Identificação por imagem de satélite ou observação direta.
+- Obrigação de visitar a nova unidade.
+- Registro no DMC.
+
+**Limite de escopo:** Não detalhar a composição formal do endereço.
+
+**Fonte na apostila:** páginas 27.
+
+### Aula 29 — Ponto inicial, ponto final e início alternativo do percurso
+
+**Conceito central:** Referências usadas para iniciar e encerrar o trabalho no setor.
+
+**Cobertura obrigatória:**
+
+- Função do ponto inicial e do ponto final.
+- Preferência por local de fácil acesso.
+- Possibilidade de adotar outro ponto inicial.
+- Comunicação obrigatória ao Supervisor para avaliação e orientação.
+
+**Limite de escopo:** Não tratar dos limites completos do perímetro.
+
+**Fonte na apostila:** páginas 27–28.
+
+### Aula 30 — Descrição do perímetro e delimitadores físicos
+
+**Conceito central:** Reconhecimento dos elementos que definem as bordas do setor.
+
+**Cobertura obrigatória:**
+
+- Descrição textual dos limites.
+- Corpos hídricos como delimitadores.
+- Rodovias, estradas e ferrovias.
+- Caminhos, ramais, acessos e estradas secundárias.
+- Relação entre identificação dos limites e cobertura integral.
+
+**Limite de escopo:** Não incluir linhas secas e tratamento de inconsistências.
+
+**Fonte na apostila:** páginas 28–29.
+
+### Aula 31 — Linhas secas, inconsistências territoriais e proibição de alterar o perímetro
+
+**Conceito central:** Tratamento de limites não materializados ou difíceis de reconhecer.
+
+**Cobertura obrigatória:**
+
+- Linha seca como limite não materializado no terreno.
+- Conexão entre pontos de referência ou distância fixa.
+- Mudanças naturais, construções e alterações legais.
+- Comunicação imediata à supervisão em caso de dificuldade.
+- Risco de invasão de outro setor ou omissão de área.
+- Proibição absoluta de o Recenseador alterar o perímetro.
+
+**Limite de escopo:** Não incluir setores internos que devem ser excluídos.
+
+**Fonte na apostila:** páginas 29–30.
+
+### Aula 32 — Setores internos a serem excluídos da coleta
+
+**Conceito central:** Identificação de áreas contidas no perímetro, mas fora da responsabilidade do Recenseador.
+
+**Cobertura obrigatória:**
+
+- Existência de outro setor dentro do setor designado.
+- Indicação no item “Setores a serem excluídos”.
+- Proibição de coletar nessas áreas.
+- Responsabilidade de outro Recenseador.
+
+**Limite de escopo:** Não confundir setor excluído com estrutura não setorizada.
+
+**Fonte na apostila:** páginas 30.
+
+### Aula 33 — Estruturas territoriais não setorizadas
+
+**Conceito central:** Coleta em agrupamentos humanos que não formaram setor próprio.
+
+**Cobertura obrigatória:**
+
+- Aglomerados rurais e localidades indígenas dentro do setor.
+- Ausência da quantidade mínima de domicílios para criar setor destacado.
+- Obrigação de recensear normalmente.
+- Atenção especial ao acesso e à abordagem.
+
+**Limite de escopo:** Não confundir com agrupamentos indígenas classificados como tipo de setor.
+
+**Fonte na apostila:** páginas 31.
+
+### Aula 34 — Acessibilidade, observações e planejamento logístico
+
+**Conceito central:** Uso das informações de acesso para preparar a operação de campo.
+
+**Cobertura obrigatória:**
+
+- Registro de informações sobre acesso e percurso.
+- Restrições de acesso.
+- Exemplo de acesso fluvial.
+- Necessidade de embarcação e aumento do tempo de deslocamento.
+- Planejamento prévio junto à supervisão.
+
+**Limite de escopo:** Não aprofundar procedimentos específicos de acesso a povos e comunidades tradicionais.
+
+**Fonte na apostila:** páginas 31.
+
+---
+
+## Módulo 5 — Divisão político-administrativa e classificação dos setores
+
+### Aula 35 — Unidades da Federação, estados, Distrito Federal e municípios
+
+**Conceito central:** Organização territorial político-administrativa de maior abrangência.
+
+**Cobertura obrigatória:**
+
+- Composição das Unidades da Federação.
+- Estados como unidades federativas autônomas.
+- Distrito Federal e sede do Governo Federal.
+- Municípios como unidades autônomas de caráter local.
+- Criação, incorporação, fusão e desmembramento por lei estadual.
+- Quantidade de municípios indicada na apostila.
+
+**Limite de escopo:** Não incluir distritos, subdistritos e setores.
+
+**Fonte na apostila:** páginas 32.
+
+### Aula 36 — Distritos e subdistritos
+
+**Conceito central:** Subdivisões internas dos municípios.
+
+**Cobertura obrigatória:**
+
+- Distritos como divisões integrais do município.
+- Criação por legislação municipal.
+- Ausência de autonomia administrativa.
+- Municípios com distrito único ou múltiplos distritos.
+- Subdistritos em áreas de grande população ou extensão.
+- Quantidade aproximada indicada na apostila.
+
+**Limite de escopo:** Não tratar do setor censitário.
+
+**Fonte na apostila:** páginas 32–33.
+
+### Aula 37 — Setor censitário: planejamento, carga de trabalho e limites de coleta
+
+**Conceito central:** Uso do setor para organizar a operação estatística.
+
+**Cobertura obrigatória:**
+
+- Subdivisão territorial para estudos estatísticos.
+- Influência da extensão e do número de estabelecimentos na carga de trabalho.
+- Planejamento de dimensões adequadas.
+- Respeito à divisão político-administrativa.
+- Proibição de registrar endereços e entrevistas fora do setor designado.
+
+**Limite de escopo:** Não incluir a composição do geocódigo.
+
+**Fonte na apostila:** páginas 33–34.
+
+### Aula 38 — Geocódigo do setor censitário
+
+**Conceito central:** Identificação única dos setores por código territorial.
+
+**Cobertura obrigatória:**
+
+- Finalidade do geocódigo.
+- Componentes: Unidade da Federação, município, distrito, subdistrito e setor.
+- Leitura do exemplo apresentado na apostila.
+- Localização do código no mapa e no Descritivo do Setor.
+
+**Limite de escopo:** Não transformar a aula em classificação de situação ou tipo.
+
+**Fonte na apostila:** páginas 34.
+
+### Aula 39 — Situação e tipo do setor censitário
+
+**Conceito central:** Dois eixos de classificação territorial usados pelo IBGE.
+
+**Cobertura obrigatória:**
+
+- Situação associada às formas urbanas e rurais de ocupação.
+- Tipo associado a características específicas, restrições de acesso e procedimentos diferenciados.
+- Diferença conceitual entre situação e tipo.
+- Predominância da coleta em setores com características rurais.
+
+**Limite de escopo:** Não detalhar ainda cada categoria.
+
+**Fonte na apostila:** páginas 35.
+
+### Aula 40 — Situações rurais, urbanas e massa d’água
+
+**Conceito central:** Classificação dos setores segundo a forma de ocupação do espaço.
+
+**Cobertura obrigatória:**
+
+- Aglomerado rural.
+- Área rural de ocupação dispersa.
+- Área urbana de alta densidade de edificações.
+- Área urbana de baixa densidade de edificações.
+- Núcleo urbano.
+- Possibilidade de estabelecimentos agropecuários em áreas urbanas.
+- Massa d’água e seus efeitos sobre a operação.
+
+**Limite de escopo:** Não incluir tipos especiais de setor.
+
+**Fonte na apostila:** páginas 35–36.
+
+### Aula 41 — Tipos especiais: não especial, quartel, alojamento e baixo patamar domiciliar
+
+**Conceito central:** Primeiro grupo de tipos de setor que pode exigir abordagem específica.
+
+**Cobertura obrigatória:**
+
+- Setor não especial.
+- Quartel e Base Militar e critério de habitantes permanentes.
+- Alojamento e acampamento.
+- Caráter temporário ou improvisado das instalações.
+- Critério mínimo de habitantes indicado na apostila.
+- Setor com Baixo Patamar Domiciliar.
+
+**Limite de escopo:** Não incluir agrupamentos étnicos nem instituições de acolhimento.
+
+**Fonte na apostila:** páginas 36–37.
+
+### Aula 42 — Tipos especiais: agrupamento indígena, unidade prisional e domicílios coletivos
+
+**Conceito central:** Tipos de setor relacionados a agrupamentos populacionais e instituições coletivas.
+
+**Cobertura obrigatória:**
+
+- Agrupamento Indígena e critérios de quantidade, contiguidade e vínculos.
+- Unidade prisional e critério populacional.
+- Convento, hospital, ILPI e IACA.
+- Critério de habitantes permanentes.
+- Substituição dos termos asilo e orfanato por ILPI e IACA.
+
+**Limite de escopo:** Não incluir agrovila nem agrupamento quilombola.
+
+**Fonte na apostila:** páginas 37–38.
+
+### Aula 43 — Tipos especiais: agrovila e agrupamento quilombola
+
+**Conceito central:** Setores associados a assentamentos rurais e comunidades quilombolas.
+
+**Cobertura obrigatória:**
+
+- Agrovila associada a Projetos de Assentamento.
+- Critério de quantidade de domicílios.
+- Habitação e produção agrícola concentradas.
+- Importância para o Censo Agropecuário.
+- Agrupamento Quilombola.
+- Autodeclaração, contiguidade espacial e vínculos familiares ou comunitários.
+
+**Limite de escopo:** Não aprofundar a política de coleta em territórios de povos e comunidades tradicionais.
+
+**Fonte na apostila:** páginas 38.
+
+---
+
+## Módulo 6 — Povos e Comunidades Tradicionais
+
+### Aula 44 — Conceito e diversidade de Povos e Comunidades Tradicionais
+
+**Conceito central:** Características que definem povos e comunidades tradicionais.
+
+**Cobertura obrigatória:**
+
+- Grupos culturalmente diferenciados que se reconhecem como tais.
+- Formas próprias de organização social.
+- Uso de territórios e recursos naturais.
+- Reprodução cultural, social, religiosa, ancestral e econômica.
+- Conhecimentos e práticas transmitidos pela tradição.
+- Exemplos de grupos apresentados na apostila.
+
+**Limite de escopo:** Não detalhar ainda categorias territoriais e regras de acesso.
+
+**Fonte na apostila:** páginas 39–40.
+
+### Aula 45 — Multiplicidade de identidades e autodeclaração
+
+**Conceito central:** Registro do pertencimento étnico e comunitário segundo a declaração do informante.
+
+**Cobertura obrigatória:**
+
+- Possibilidade de pertencimento a mais de uma comunidade tradicional.
+- Caráter autodeclaratório da identidade.
+- Registro sem questionamentos, julgamentos ou tentativas de correção.
+- Respeito à declaração da pessoa entrevistada.
+
+**Limite de escopo:** Não confundir autodeclaração com delimitação oficial de territórios.
+
+**Fonte na apostila:** páginas 40.
+
+### Aula 46 — Categorias territoriais de povos e comunidades tradicionais
+
+**Conceito central:** Formas de organização espacial utilizadas na operação censitária.
+
+**Cobertura obrigatória:**
+
+- Territórios oficialmente reconhecidos pelo Estado.
+- Terras Indígenas e Territórios Quilombolas oficialmente delimitados.
+- Unidades de Conservação e parte dos Projetos de Assentamento.
+- Agrupamentos Indígenas e Quilombolas identificados pelo IBGE.
+- Áreas delimitadas especificamente para a operação.
+
+**Limite de escopo:** Não aprofundar o funcionamento das Áreas de Interesse Operacional.
+
+**Fonte na apostila:** páginas 40.
+
+### Aula 47 — Áreas de Interesse Operacional de PCTs
+
+**Conceito central:** Recortes operacionais que indicam presença efetiva ou potencial de comunidades tradicionais.
+
+**Cobertura obrigatória:**
+
+- Independência em relação aos limites do setor censitário.
+- Carregamento automático no mapa digital.
+- Apresentação automática de perguntas específicas no DMC.
+- Possibilidade de a AIO ser menor, maior ou abranger um município inteiro.
+
+**Limite de escopo:** Não tratar a AIO como setor censitário ou território oficialmente reconhecido.
+
+**Fonte na apostila:** páginas 41.
+
+### Aula 48 — Acesso negociado, consulta prévia e apoio institucional em áreas de PCTs
+
+**Conceito central:** Procedimentos para entrada, deslocamento e comunicação em comunidades tradicionais.
+
+**Cobertura obrigatória:**
+
+- Negociação prévia com lideranças, associações e órgãos parceiros.
+- Convenção nº 169 da OIT e consulta por instituições representativas.
+- Aplicação da consulta às pesquisas do IBGE.
+- Limitações de uso do português indicadas pelo Censo Demográfico 2022.
+- Uso de guia institucional e guia-intérprete.
+- Apoio da FUNAI e da SESAI.
+
+**Limite de escopo:** Não transformar a aula em estudo geral de direito indígena.
+
+**Fonte na apostila:** páginas 41–42.
+
+---
+
+## Módulo 7 — Registro de endereços
+
+### Aula 49 — Padrão CNEFE e componentes do endereço
+
+**Conceito central:** Registro padronizado de unidades para fins estatísticos.
+
+**Cobertura obrigatória:**
+
+- Endereço como texto capaz de identificar uma unidade construída ou em construção.
+- Cadastro Nacional de Endereços para Fins Estatísticos.
+- Prioridade para o endereço formal.
+- Uso de referências localmente reconhecidas quando o endereço formal não existir.
+- Necessidade de individualização e localização posterior da unidade.
+- Visão geral dos componentes do endereço.
+
+**Limite de escopo:** Não detalhar todos os componentes na mesma aula.
+
+**Fonte na apostila:** páginas 43.
+
+### Aula 50 — Logradouro e localidade
+
+**Conceito central:** Identificação da via de circulação e da região onde se encontra a unidade.
+
+**Cobertura obrigatória:**
+
+- Logradouro como área pública de circulação.
+- Estradas, rodovias, travessas, acessos e rios.
+- Preferência pelo nome oficial sem abreviações.
+- Uso do nome localmente reconhecido na ausência de denominação oficial.
+- Localidade como nome da região, povoado, assentamento, comunidade ou bairro.
+- Proibição de expressões genéricas.
+- Consulta à população local.
+
+**Limite de escopo:** Não incluir CEP nem elementos de individualização numérica.
+
+**Fonte na apostila:** páginas 43–45.
+
+### Aula 51 — CEP, número, modificador e complemento
+
+**Conceito central:** Componentes que localizam e individualizam uma unidade no logradouro.
+
+**Cobertura obrigatória:**
+
+- CEP como cadastro de áreas de endereçamento mantido pelos Correios.
+- Estrutura numérica de oito dígitos.
+- Possíveis níveis de associação do CEP.
+- Número como posição da edificação no logradouro.
+- Modificador alfanumérico associado ao número.
+- Complemento para distinguir unidades com o mesmo acesso.
+- Exemplos de complementos.
+
+**Limite de escopo:** Não incluir pontos de referência.
+
+**Fonte na apostila:** páginas 45–46.
+
+### Aula 52 — Ponto de referência e preservação do sigilo estatístico
+
+**Conceito central:** Uso de referências espaciais sem identificar pessoas.
+
+**Cobertura obrigatória:**
+
+- Ponto fixo, estável e de fácil visualização.
+- Expressões de posição e direção.
+- Obrigatoriedade quando o endereço não possui número ou complemento suficiente.
+- Uso em áreas com baixa formalização, especialmente rurais.
+- Evitar redundância e informações desnecessárias.
+- Exemplos de pontos de referência.
+- Proibição de identificar pessoas nos componentes do endereço.
+
+**Limite de escopo:** Não usar nomes pessoais como recurso de localização.
+
+**Fonte na apostila:** páginas 46–47.
+
+---
+
+## Módulo 8 — Coordenadas geográficas
+
+### Aula 53 — Sistema de Coordenadas Geográficas
+
+**Conceito central:** Localização de pontos na superfície terrestre por linhas imaginárias.
+
+**Cobertura obrigatória:**
+
+- Finalidade do sistema.
+- Par de valores formado por latitude e longitude.
+- Associação das coordenadas aos endereços.
+- Obtenção por receptor de sinais de satélite integrado ao DMC.
+
+**Limite de escopo:** Não detalhar ainda intervalos e hemisférios.
+
+**Fonte na apostila:** páginas 48.
+
+### Aula 54 — Latitude, longitude, hemisférios e leitura do par de coordenadas
+
+**Conceito central:** Interpretação dos dois valores que identificam um ponto.
+
+**Cobertura obrigatória:**
+
+- Latitude como afastamento em relação à linha do Equador.
+- Intervalo de 0° a 90° e hemisférios Norte e Sul.
+- Longitude como afastamento em relação ao meridiano de Greenwich.
+- Intervalo de 0° a 180° e hemisférios Leste e Oeste.
+- Cruzamento das linhas na grade.
+- Interpretação dos sinais negativos no exemplo da apostila.
+
+**Limite de escopo:** Não aprofundar ainda o procedimento operacional de captura.
+
+**Fonte na apostila:** páginas 48–49.
+
+### Aula 55 — Captura de coordenadas no DMC e validação em campo
+
+**Conceito central:** Procedimento correto para registrar a localização do estabelecimento.
+
+**Cobertura obrigatória:**
+
+- Captura manual nas áreas rurais.
+- Posicionamento do Recenseador e do DMC.
+- Coordenada como ponto de acesso à unidade.
+- Preferência pela entrada da edificação que representa a sede.
+- Efeitos sobre a visualização no DMC e a qualidade do banco de dados.
+- Uso conjunto do GPS e do mapa em papel.
+- Erros de confiar exclusivamente na tecnologia.
+
+**Limite de escopo:** Não misturar captura de coordenadas com definição da sede para estabelecimentos em vários setores.
+
+**Fonte na apostila:** páginas 49–50.
+
+---
+
+## Módulo 9 — Estabelecimento agropecuário e unidades recenseáveis
+
+### Aula 56 — Data de referência e período de referência
+
+**Conceito central:** Distinção entre situação existente em uma data e eventos ocorridos em um intervalo.
+
+**Cobertura obrigatória:**
+
+- Data de referência como momento específico.
+- Período de referência como intervalo de tempo.
+- Aplicação do exemplo apresentado na apostila.
+- Separação entre informações de estoque/situação e informações de fluxo/ocorrência.
+
+**Limite de escopo:** Não substituir as datas da apostila por datas externas.
+
+**Fonte na apostila:** páginas 51.
+
+### Aula 57 — Unidades recenseáveis e unidades não recenseáveis
+
+**Conceito central:** Critério básico para definir o que entra na coleta do Censo Agropecuário.
+
+**Cobertura obrigatória:**
+
+- Necessidade de produção ou exploração agropecuária, florestal ou aquícola.
+- Exclusão de lojas, escolas, hospitais, igrejas e unidades domiciliares sem atividade investigada.
+- Diferença entre propriedade rural e unidade recenseável.
+- Quintais, jardins, animais e hortas destinados apenas a lazer ou passatempo.
+
+**Limite de escopo:** Não decidir a classificação somente pela observação externa.
+
+**Fonte na apostila:** páginas 51–52.
+
+### Aula 58 — Produção de subsistência
+
+**Conceito central:** Produção destinada às necessidades vitais do produtor e de sua família.
+
+**Cobertura obrigatória:**
+
+- Dependência alimentar total ou predominante da atividade agropecuária.
+- Possibilidade de venda ou troca eventual de parte da produção.
+- Diferença entre subsistência e produção meramente recreativa.
+- Subsistência como finalidade que torna a atividade relevante para o Censo.
+
+**Limite de escopo:** Não equiparar qualquer consumo doméstico ocasional à produção de subsistência.
+
+**Fonte na apostila:** páginas 52–53.
+
+### Aula 59 — Abordagem inicial e classificação pelo questionário
+
+**Conceito central:** Procedimento para identificar corretamente uma unidade recenseável.
+
+**Cobertura obrigatória:**
+
+- Impossibilidade de classificar apenas olhando a propriedade.
+- Pergunta obrigatória sobre atividades agropecuárias, florestais e aquícolas.
+- Classificação pelo questionário de abordagem inicial.
+- Proibição de decisão direta e subjetiva do Recenseador.
+- Aplicação do questionário completo quando houver unidade recenseável.
+- Ausência de coleta quando houver apenas lazer ou passatempo.
+
+**Limite de escopo:** Não antecipar situações especiais de propriedade e estabelecimento.
+
+**Fonte na apostila:** páginas 53.
+
+### Aula 60 — Atividades e locais excluídos do Censo Agropecuário
+
+**Conceito central:** Casos que não configuram atividade agropecuária recenseável.
+
+**Cobertura obrigatória:**
+
+- Criação de pássaros, cães e gatos.
+- Animais destinados a experimentos de laboratório.
+- Produção de soros e vacinas.
+- Existência de locais automaticamente excluídos, conforme orientação da apostila.
+- Necessidade de diferenciar presença de animais de atividade agropecuária.
+
+**Limite de escopo:** Não generalizar a exclusão para toda criação animal.
+
+**Fonte na apostila:** páginas 54.
+
+### Aula 61 — Conceito formal de estabelecimento agropecuário
+
+**Conceito central:** Unidade de produção ou exploração dedicada às atividades investigadas.
+
+**Cobertura obrigatória:**
+
+- Dedicação total ou parcial a atividades agropecuárias, florestais ou aquícolas.
+- Independência em relação ao tamanho.
+- Independência em relação à forma jurídica.
+- Possibilidade de localização rural ou urbana.
+- Independência em relação ao valor da produção.
+- Finalidade de venda ou subsistência.
+
+**Limite de escopo:** Não confundir estabelecimento com propriedade rural.
+
+**Fonte na apostila:** páginas 55.
+
+### Aula 62 — Lavouras temporárias, permanentes, horticultura e cultivo sem solo
+
+**Conceito central:** Classificação das principais atividades de produção vegetal.
+
+**Cobertura obrigatória:**
+
+- Lavoura temporária e necessidade de replantio.
+- Ciclo de plantio, crescimento, colheita e pós-colheita.
+- Lavoura permanente e produção por vários anos.
+- Exemplos de culturas temporárias e permanentes.
+- Horticultura: legumes, verduras, plantas medicinais, condimentares e cogumelos.
+- Hidroponia e solução nutritiva.
+
+**Limite de escopo:** Não incluir criação animal ou exploração florestal.
+
+**Fonte na apostila:** páginas 55–56.
+
+### Aula 63 — Criação de animais, aquicultura e pesque-pague
+
+**Conceito central:** Atividades de produção animal consideradas pelo Censo.
+
+**Cobertura obrigatória:**
+
+- Criação, recriação e engorda.
+- Animais de grande, médio e pequeno porte.
+- Criação de abelhas.
+- Aquicultura de peixes, camarões, moluscos, jacarés e rãs.
+- Pesque-pague com criação e engorda de peixes.
+- Exclusão do pesque-pague que apenas compra peixes já criados.
+
+**Limite de escopo:** Não incluir atividades com animais de laboratório.
+
+**Fonte na apostila:** páginas 56.
+
+### Aula 64 — Exploração de matas, florestas e extrativismo
+
+**Conceito central:** Atividades florestais e extrativas incluídas no universo do Censo.
+
+**Cobertura obrigatória:**
+
+- Matas e florestas nativas ou plantadas.
+- Plantio de árvores para produção de celulose.
+- Coleta de produtos de matas nativas.
+- Exemplos: babaçu, açaí e buriti.
+- Distinção entre cultivo florestal e coleta extrativa.
+
+**Limite de escopo:** Não misturar com a condição de produtor sem área, tratada no módulo seguinte.
+
+**Fonte na apostila:** páginas 56.
+
+---
+
+## Módulo 10 — Produtores sem área
+
+### Aula 65 — Conceito e exemplos de produtor sem área
+
+**Conceito central:** Produção agropecuária realizada sem área própria ou espaço físico delimitado na data de referência.
+
+**Cobertura obrigatória:**
+
+- Uso temporário de recursos naturais ou áreas disponíveis.
+- Obrigação de registrar a atividade e aplicar o questionário.
+- Apicultor com colmeias em matas ou em outros estabelecimentos.
+- Extrativista.
+- Criador de animais em beira de estrada.
+- Produtor que deixou terras próprias, arrendadas, em comodato, parceria ou ocupadas.
+- Produção em vazantes, roças itinerantes e beiras de estrada.
+- Caráter eventual e dependência da época adequada.
+
+**Limite de escopo:** Não confundir ausência de área na data de referência com ausência de produção no período.
+
+**Fonte na apostila:** páginas 57.
+
+### Aula 66 — Produtor sem área em terra arrendada: localização e coleta
+
+**Conceito central:** Procedimento para registrar produção realizada por quem já deixou a área.
+
+**Cobertura obrigatória:**
+
+- Diferença entre proprietário da terra e produtor responsável pela exploração.
+- Produção realizada durante o período de referência.
+- Ausência do produtor na área na data de referência.
+- Tentativa de localizar o produtor.
+- Apresentação do Censo e coleta das informações da produção.
+- Marcação do campo específico de produtor sem área.
+- Conceito de comodato indicado na apostila.
+
+**Limite de escopo:** Não registrar a produção automaticamente em nome do proprietário da terra.
+
+**Fonte na apostila:** páginas 57–58.
+
+---
+
+## Módulo 11 — Situações especiais de identificação e registro
+
+### Aula 67 — Estabelecimentos vinculados a indústrias
+
+**Conceito central:** Separação entre atividade agropecuária e atividade industrial.
+
+**Cobertura obrigatória:**
+
+- Indústria como atividade principal.
+- Investigação apenas da parte agropecuária, florestal ou aquícola.
+- Exclusão de produção industrial, vendas, trabalhadores e salários do questionário do Censo Agro.
+- Coleta dos dados industriais por outras pesquisas do IBGE.
+
+**Limite de escopo:** Não excluir a atividade agropecuária apenas porque pertence a uma indústria.
+
+**Fonte na apostila:** páginas 59.
+
+### Aula 68 — Confinamento de gado e boitel
+
+**Conceito central:** Critério para reconhecer confinamento como estabelecimento agropecuário.
+
+**Cobertura obrigatória:**
+
+- Unidade especializada em confinamento.
+- Necessidade de possuir animais próprios ou desenvolver outra atividade agropecuária.
+- Animais de terceiros contabilizados nos estabelecimentos dos proprietários.
+
+**Limite de escopo:** Não contar animais de terceiros no boitel e no estabelecimento do proprietário simultaneamente.
+
+**Fonte na apostila:** páginas 59.
+
+### Aula 69 — Diferença entre propriedade rural e estabelecimento agropecuário
+
+**Conceito central:** Separação entre domínio territorial e unidade de produção.
+
+**Cobertura obrigatória:**
+
+- Nem toda propriedade rural é estabelecimento agropecuário.
+- Exemplos de propriedade sem atividade recenseável.
+- Possibilidade de uma propriedade conter mais de um estabelecimento.
+- Possibilidade de várias propriedades formarem um único estabelecimento.
+
+**Limite de escopo:** Não aplicar automaticamente correspondência de um para um entre propriedade e estabelecimento.
+
+**Fonte na apostila:** páginas 60.
+
+### Aula 70 — Uma propriedade rural com múltiplos estabelecimentos
+
+**Conceito central:** Separação das explorações quando produtores distintos usam partes da mesma propriedade.
+
+**Cobertura obrigatória:**
+
+- Produtores diferentes.
+- Partes distintas da área.
+- Produções próprias e independentes.
+- Possibilidade de cada exploração corresponder a estabelecimento diferente.
+
+**Limite de escopo:** Não unir explorações apenas porque estão dentro do mesmo imóvel.
+
+**Fonte na apostila:** páginas 60.
+
+### Aula 71 — Múltiplas propriedades formando um estabelecimento
+
+**Conceito central:** Unificação de áreas de diferentes proprietários sob uma mesma exploração.
+
+**Cobertura obrigatória:**
+
+- Mesmo produtor explorando áreas de proprietários diferentes.
+- Formas de acesso: aluguel, parceria, comodato ou outras.
+- Condições para formar uma mesma unidade de produção ou exploração.
+
+**Limite de escopo:** Não unir áreas sem verificar unidade de exploração.
+
+**Fonte na apostila:** páginas 60.
+
+### Aula 72 — Estabelecimento em mais de um setor ou município e regra da sede
+
+**Conceito central:** Definição do setor e município responsáveis pelo recenseamento.
+
+**Cobertura obrigatória:**
+
+- Conceito de sede como local de administração dentro da área do estabelecimento.
+- Residência do produtor como possível sede.
+- Recenseamento no setor onde está localizada a sede.
+- Cômputo da produção no município da sede.
+- Na ausência de sede, uso da maior parte das terras.
+
+**Limite de escopo:** Não confundir sede administrativa com ponto de captura da coordenada.
+
+**Fonte na apostila:** páginas 61.
+
+### Aula 73 — Áreas não contínuas: quatro condições de unidade
+
+**Conceito central:** Critérios cumulativos para considerar áreas separadas como um único estabelecimento.
+
+**Cobertura obrigatória:**
+
+- Localização no mesmo município.
+- Uso dos mesmos recursos técnicos.
+- Uso dos mesmos recursos humanos.
+- Subordinação a uma única administração.
+- Obrigatoriedade de cumprir simultaneamente as quatro condições.
+- Rios, estradas e ferrovias não caracterizam, por si só, descontinuidade.
+
+**Limite de escopo:** Se uma condição faltar, tratar como outro estabelecimento.
+
+**Fonte na apostila:** páginas 61–62.
+
+### Aula 74 — Áreas não contínuas em municípios diferentes
+
+**Conceito central:** Tratamento de áreas separadas quando há mais de um município envolvido.
+
+**Cobertura obrigatória:**
+
+- Áreas totalmente situadas em municípios distintos.
+- Cada área como estabelecimento diferente.
+- Prevenção de duplicidade de informações.
+- Área individual que atravessa mais de um município.
+- Aplicação da sede ou da maior parte das terras.
+- Unificação apenas das áreas do mesmo município que atendam às quatro condições.
+- Obrigação de contatar o supervisor.
+
+**Limite de escopo:** Não duplicar produção entre estabelecimentos.
+
+**Fonte na apostila:** páginas 62–63.
+
+### Aula 75 — Composição e cálculo da área total do estabelecimento
+
+**Conceito central:** Soma de parcelas contínuas ou não contínuas que formam uma unidade.
+
+**Cobertura obrigatória:**
+
+- Áreas com diferentes formas de posse.
+- Soma de terras próprias e arrendadas.
+- Exemplo de área total de 20 hectares.
+- Soma de áreas não contínuas que cumprem os critérios.
+- Exemplo de área total de 75 hectares.
+
+**Limite de escopo:** Somar apenas parcelas que pertencem ao mesmo estabelecimento segundo as regras anteriores.
+
+**Fonte na apostila:** páginas 63–64.
+
+### Aula 76 — Sucessão, partilha e litígio: conceitos e regras de coleta
+
+**Conceito central:** Identificação do estabelecimento e do informante em situações sucessórias ou judiciais.
+
+**Cobertura obrigatória:**
+
+- Conceito de sucessão.
+- Conceito de partilha.
+- Conceito de litígio.
+- Um estabelecimento quando há consenso entre herdeiros.
+- Informações prestadas pelo inventariante, representante legal ou condômino responsável.
+- Estabelecimentos separados quando cada herdeiro ocupa uma parte.
+- Em disputa judicial, produtor é o responsável econômico pela exploração na data de referência.
+
+**Limite de escopo:** Não confundir propriedade jurídica com responsabilidade econômica pela exploração.
+
+**Fonte na apostila:** páginas 64–65.
+
+### Aula 77 — Estabelecimentos novos ou sem produção
+
+**Conceito central:** Recenseamento de unidades existentes na data de referência mesmo sem resultado produtivo.
+
+**Cobertura obrigatória:**
+
+- Ausência de produção durante o período de referência.
+- Início da exploração durante o período.
+- Lavouras permanentes ou silvicultura ainda não produtivas.
+- Pés novos em idade não produtiva.
+- Perda de produção por fatores climáticos.
+- Registro do motivo da ausência de produção no campo Observações do DMC.
+
+**Limite de escopo:** Não excluir o estabelecimento apenas por produção igual a zero.
+
+**Fonte na apostila:** páginas 65–66.
+
+### Aula 78 — Exploração comunitária: produção coletiva e produção individual
+
+**Conceito central:** Definição da unidade de coleta em áreas usadas coletivamente.
+
+**Cobertura obrigatória:**
+
+- Uso coletivo da área por diferentes produtores.
+- Possibilidade em terras indígenas, reservas indígenas e reservas extrativistas.
+- Produção coletiva com trabalho conjunto e divisão da produção.
+- Um questionário para produção coletiva.
+- Produção individual decidida por cada família.
+- Um questionário para cada família na exploração individual.
+- Conceitos auxiliares de terras indígenas e reservas extrativistas apresentados em nota.
+
+**Limite de escopo:** A forma coletiva de uso da terra não implica automaticamente um único questionário; verificar a organização da produção.
+
+**Fonte na apostila:** páginas 66.
+
+---
+
+## Verificação de cobertura
+
+- Total de aulas independentes: **78**.
+- Total de módulos: **11**.
+- A ordem proposta é cumulativa, mas cada aula foi delimitada para também funcionar isoladamente.
+- As páginas indicadas servem para localizar a fonte, não para limitar a leitura quando um parágrafo continuar na página seguinte.
+- Este roteiro não cobre Língua Portuguesa, Raciocínio Lógico Quantitativo nem Geografia do edital.
